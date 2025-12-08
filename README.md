@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .NETWORK one-word domains still available to buy.
 
-This dataset contains 3,627 .NETWORK one word domains with availability, attractiveness and demand scores.
+This dataset contains 3,836 .NETWORK one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.NETWORK one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=network-oneword-domains&utm_content=description.top) (3,634) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -13,15 +13,16 @@ If you want to search & filters the complete database of [.NETWORK one word doma
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/network-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/network-oneword-domains/blob/main/network.csv"><b>⬇️ CSV (3.63K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/network-oneword-domains/blob/main/network.json"><b>⬇️ JSON (3.63K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/network-oneword-domains/blob/main/network.csv"><b>⬇️ CSV (3.84K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/network-oneword-domains/blob/main/network.json"><b>⬇️ JSON (3.84K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=network-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (3.63K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
 | Domain             | Status    | Attract. | Demand | Length | Registrar       | Created          | Expires          |
 | ------------------ | --------- | -------- | ------ | ------ | --------------- | ---------------- | ---------------- |
-| aaa.network        | resell    | 70       | 38%    | 3      | NameCheap, Inc. | 30/08/2025 15:15 | 30/08/2026 15:15 |
+| aaa.network        | resell    | 70       | 35%    | 3      | NameCheap, Inc. | 30/08/2025 15:15 | 30/08/2026 15:15 |
+| aaron.network      | resell    | 88       | 28%    | 5      | Porkbun LLC     | 27/04/2025 06:58 | 27/04/2026 06:58 |
 | abactinal.network  | available | 50       | 1%     | 9      |                 |                  |                  |
 | abaft.network      | available | 43       | 2%     | 5      |                 |                  |                  |
 | abashed.network    | available | 60       | 2%     | 7      |                 |                  |                  |
@@ -30,7 +31,6 @@ If you want to search & filters the complete database of [.NETWORK one word doma
 | abatic.network     | available | 54       | 2%     | 6      |                 |                  |                  |
 | abaxial.network    | available | 54       | 2%     | 7      |                 |                  |                  |
 | abbatial.network   | available | 50       | 1%     | 8      |                 |                  |                  |
-| abc.network        | resell    | 102      | 41%    | 3      | Dynadot Inc     | 08/12/2014 07:09 | 08/12/2025 07:09 |
 | abdicable.network  | available | 50       | 1%     | 9      |                 |                  |                  |
 | abdominal.network  | available | 82       | 5%     | 9      |                 |                  |                  |
 | abdominous.network | available | 56       | 1%     | 10     |                 |                  |                  |
@@ -44,7 +44,7 @@ If you want to search & filters the complete database of [.NETWORK one word doma
 | abhorrent.network  | available | 54       | 3%     | 9      |                 |                  |                  |
 | abiding.network    | available | 106      | 5%     | 7      |                 |                  |                  |
 | abient.network     | available | 54       | 1%     | 6      |                 |                  |                  |
-| abit.network       | available | 66       | 16%    | 5      |                 |                  |                  |
+| abit.network       | available | 66       | 12%    | 5      |                 |                  |                  |
 | abject.network     | available | 94       | 8%     | 6      |                 |                  |                  |
 | abkhas.network     | available | 68       | 1%     | 6      |                 |                  |                  |
 | abkhasian.network  | available | 78       | 1%     | 9      |                 |                  |                  |
@@ -54,8 +54,8 @@ If you want to search & filters the complete database of [.NETWORK one word doma
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/network-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/network-oneword-domains/blob/main/network.csv"><b>⬇️ CSV (3.63K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/network-oneword-domains/blob/main/network.json"><b>⬇️ JSON (3.63K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/network-oneword-domains/blob/main/network.csv"><b>⬇️ CSV (3.84K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/network-oneword-domains/blob/main/network.json"><b>⬇️ JSON (3.84K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=network-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (3.63K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
@@ -90,7 +90,7 @@ If you want to search & filters the complete database of [.NETWORK one word doma
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,472       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,125       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,525,538    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| All      | 3,618,436    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
