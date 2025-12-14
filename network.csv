@@ -420,7 +420,7 @@ d88fa830-b58a-470a-802a-4a03c6f7c8b1,aguacate.network,available,56,6,8,,,
 141312c8-7aa6-4346-8812-6600be416a8e,aided.network,available,72,4,5,,,
 6bd891ff-df42-4271-abc2-e4957ca28c90,aids.network,available,66,9,4,,,
 f4912309-4370-4fe0-bbde-7fb05f3e5efa,ailing.network,available,82,3,6,,,
-b520b611-0f7b-4ea1-bb73-a3199420e4fd,aim.network,resell,77,32,3,"Spaceship, Inc.",30/03/2024 15:15,30/03/2026 15:15
+b520b611-0f7b-4ea1-bb73-a3199420e4fd,aim.network,resell,77,31,3,"Spaceship, Inc.",30/03/2024 15:15,30/03/2026 15:15
 bf8eca89-ace8-4160-902c-8a4c8f01e592,aimless.network,available,54,9,7,,,
 f892dcee-f026-4e6c-a193-5b976cfed93e,aircooled.network,available,64,5,10,,,
 dfdd0d00-79ca-477c-ad8f-a3dac50336cf,airdried.network,available,58,1,9,,,
@@ -433,7 +433,7 @@ cf1509f4-4de8-4083-a1b4-35d987f1819e,airheaded.network,available,48,1,9,,,
 8b5281a7-d238-4738-af29-207ca7a321a0,airlike.network,available,68,4,7,,,
 c44884c1-0b29-4219-b79d-a813fb0d1436,airmarshal.network,available,72,2,11,,,
 3e8fc251-9eda-4bab-b27a-9af60aae6d87,airphoto.network,available,70,3,9,,,
-cf921066-67f5-4b2b-b96e-7a1beb2de729,airplane.network,available,91,13,8,,,
+cf921066-67f5-4b2b-b96e-7a1beb2de729,airplane.network,available,91,12,8,,,
 a35ad5c6-64a6-4440-b23d-cfa43d7c0292,airport.network,resell,65,25,7,"Sav.com, LLC",11/10/2023 08:35,11/10/2026 08:35
 2288f9f9-c1ea-411f-952f-eb4e99595c87,airportnovel.network,available,73,1,13,,,
 fbae04d3-c362-4ad6-8840-f979e3061354,airsick.network,available,52,1,7,,,
@@ -1109,7 +1109,7 @@ db38c9b4-658b-4116-ab10-c4cfe6f618b9,assertable.network,available,80,1,10,,,
 4b1c7405-4ff2-4407-ae8c-ff61832f0ab9,asserted.network,available,44,2,8,,,
 bd16799b-a349-4286-9ccd-05f4275ffa5d,assess.network,available,78,11,6,,,
 a3ffb12b-884f-4941-b54a-1cd892556f89,assessable.network,available,44,2,10,,,
-e00023e2-79f8-4a5f-bdc3-488bb2efaad0,asset.network,resell,72,31,5,Porkbun LLC,22/08/2017 08:43,22/08/2026 08:43
+e00023e2-79f8-4a5f-bdc3-488bb2efaad0,asset.network,resell,72,29,5,Porkbun LLC,22/08/2017 08:43,22/08/2026 08:43
 a3833319-1655-4b5d-be33-fecde77e5ebb,assiduous.network,available,50,4,9,,,
 89ea1a44-0dc1-4508-a944-112e70c43869,assignable.network,available,44,3,10,,,
 1312f71d-59f2-487f-96ef-4e16e70929cd,assistant.network,resell,74,21,9,"Spaceship, Inc.",12/12/2022 17:05,12/12/2026 17:05
@@ -1329,7 +1329,7 @@ ee17cf93-9a5f-4571-9d0c-d2428be00c11,avirulent.network,available,52,1,9,,,
 968822c9-2393-442b-8ef4-7cb3d1d5d588,avon.network,available,72,12,4,,,
 7505a237-f835-450e-affd-8c8e0a40600f,avuncular.network,available,60,2,9,,,
 4a1aca36-43ac-4e2a-a504-aaa33f06d002,await.network,available,92,8,5,,,
-14f4c542-05af-4f1a-b78b-89bedbd31e05,award.network,resell,104,17,5,Porkbun LLC,17/06/2024 21:15,17/06/2026 21:15
+14f4c542-05af-4f1a-b78b-89bedbd31e05,award.network,resell,104,16,5,Porkbun LLC,17/06/2024 21:15,17/06/2026 21:15
 49afeba5-d954-44f0-a511-b7e61e126376,awarding.network,available,78,2,8,,,
 a05643a5-22d6-4d66-90d4-87eb7725ba4b,aware.network,resell,100,27,5,"NameSilo, LLC",05/03/2024 21:43,05/03/2027 21:43
 0e3e7f0a-e6ea-4afd-b43e-e5d5f92b9f3c,awareness.network,resell,74,17,9,"Spaceship, Inc.",25/05/2022 13:15,25/05/2026 13:15
@@ -1895,7 +1895,7 @@ bc4b0a8e-b98f-47f0-9394-f33ed7076255,captivated.network,available,52,5,10,,,
 76ae350b-e509-4a85-87af-e3dd86f92927,carefully.network,available,61,5,9,,,
 c85e510b-5be4-42a4-ab00-a040ace03dbd,careless.network,available,64,5,8,,,
 af4d7974-0cc8-45c5-8cff-c1e1253cd333,carnal.network,available,62,9,6,,,
-3e4ecc92-d764-4396-b9fa-18d6f677c7ef,carnival.network,resell,88,18,8,Dynadot Inc,21/07/2025 17:00,21/07/2026 17:00
+3e4ecc92-d764-4396-b9fa-18d6f677c7ef,carnival.network,resell,88,17,8,Dynadot Inc,21/07/2025 17:00,21/07/2026 17:00
 43bace45-6648-4007-a52a-574b5f829750,carousing.network,available,50,1,9,,,
 99e1a16d-7ee5-42a5-b207-7f177cc3ff12,Carribean.network,available,76,3,9,,,
 804861db-c558-496a-808a-a8252b71a3f9,carrie.network,available,82,9,6,,,
@@ -1970,7 +1970,7 @@ fc420398-6fee-4400-b021-ec702ae30617,chickendance.network,available,70,2,13,,,
 7ee07209-bbc0-474c-ad8f-d4911a88aca7,chiefexecutive.network,available,78,5,15,,,
 3726dbd4-6797-495e-b4c6-67a6941d49c2,chiefjustice.network,available,68,1,13,,,
 e62a6067-5979-46b6-87d5-54f9dac25a37,chiefly.network,available,80,3,7,,,
-aff651b8-674d-4d9d-9eb1-72b61d9e03f2,child.network,resell,92,15,5,"Global Domains International, Inc. DBA DomainCostClub.com",22/02/2022 16:28,22/02/2026 16:28
+aff651b8-674d-4d9d-9eb1-72b61d9e03f2,child.network,resell,92,14,5,"Global Domains International, Inc. DBA DomainCostClub.com",22/02/2022 16:28,22/02/2026 16:28
 08bc3684-7d89-46a1-b20c-ea6820285c0a,childlanguage.network,available,64,1,14,,,
 83cbebd1-1338-4d50-845b-e37fa1479760,chiliad.network,available,62,2,7,,,
 a88a018f-8dff-475e-9b6c-838da327a710,chill.network,resell,72,28,5,Porkbun LLC,28/08/2022 13:15,28/08/2026 13:15
@@ -2032,7 +2032,7 @@ aa45ee37-613b-4757-8b70-9adf02e57f3d,closely.network,available,68,4,7,,,
 2e9c06a1-9fd0-48f3-915b-c0579b9e9cfc,closeto.network,available,58,3,8,,,
 29523cf6-8a48-4749-9c94-7ffb0c5c567d,clothes.network,resell,82,15,7,"Global Domains International, Inc. DBA DomainCostClub.com",10/03/2015 15:11,10/03/2026 15:11
 51e666fe-e425-43eb-87dc-4a4c9fe9f755,clothingbin.network,available,64,1,12,,,
-c0d987b5-70b0-419f-b964-8426dec69af4,cloud.network,resell,70,54,5,"GoDaddy.com, LLC",05/12/2014 16:00,05/12/2026 16:00
+c0d987b5-70b0-419f-b964-8426dec69af4,cloud.network,resell,70,52,5,"GoDaddy.com, LLC",05/12/2014 16:00,05/12/2026 16:00
 2e55dfaf-f611-4540-9013-2acecbd7f921,clown.network,resell,98,22,5,"NameCheap, Inc.",04/01/2024 17:00,04/01/2027 17:00
 5e1555ad-1e9c-42ae-a7bf-d2386b64ba8e,clowning.network,available,68,2,8,,,
 b0d0c75d-f5f6-47f2-88a9-8905955ec46c,club.network,available,94,31,4,,,
@@ -2074,7 +2074,7 @@ a4f07b20-39e4-4c50-a564-e03973437e45,coffin.network,available,50,9,6,,,
 f218bad7-04b5-4e93-ae28-1d7ccaecf981,coloured.network,available,68,3,8,,,
 c56566b3-dd87-4952-8f27-e8bf52474a17,colours.network,available,72,10,7,,,
 7b6f75f3-d602-4108-aa7b-7026b3a6e3e2,columbia.network,available,66,14,8,,,
-2d3aa170-7c4c-44c6-bbeb-bf7ca2287713,column.network,resell,74,11,6,Porkbun LLC,10/06/2024 01:00,10/06/2026 01:00
+2d3aa170-7c4c-44c6-bbeb-bf7ca2287713,column.network,resell,74,10,6,Porkbun LLC,10/06/2024 01:00,10/06/2026 01:00
 6acd0e5a-0c42-4a6a-9f7c-7c6dfc8a3d1f,combat.network,resell,86,13,6,Dynadot Inc,25/05/2019 23:18,25/05/2026 23:18
 d57a9c61-912d-4f06-ab05-21e9b92c4336,combative.network,available,60,1,9,,,
 385d54d9-ccc9-4784-a5cb-ca561bb4768e,comealive.network,available,66,7,10,,,
@@ -2145,7 +2145,7 @@ e21b6501-fc74-4e03-8cf7-993c90c60f8e,comprise.network,available,72,4,8,,,
 4cff645f-6835-404e-a7ef-6c1490b3078c,concentrated.network,available,62,5,12,,,
 f868562e-b7e6-4954-ac9a-616123fb0db5,concern.network,available,86,7,7,,,
 cc52c474-8043-4f12-b25c-bdc56900444b,concerned.network,available,66,4,9,,,
-eeeef05f-9b78-403b-84e1-4f7d236d4b94,concise.network,available,93,11,7,,,
+eeeef05f-9b78-403b-84e1-4f7d236d4b94,concise.network,available,93,10,7,,,
 b6f4bf19-3522-4e96-a065-4be47fd7c56c,concluded.network,available,62,2,9,,,
 1a1b2ba2-f393-4c46-9f42-970756dd34db,conclusion.network,available,78,7,10,,,
 3166a3d1-d481-413a-b4ef-9b9f8b49c12a,conclusive.network,available,69,5,10,,,
@@ -2183,7 +2183,7 @@ e794ea7f-b5ba-4187-a54e-5d0e9a390d4a,conjunction.network,available,72,5,11,,,
 c00cafb2-4b7c-43a1-9703-69c9906f8c08,conquer.network,resell,87,16,7,Dynadot Inc,21/02/2023 13:11,21/02/2026 13:11
 1a36702e-ed3b-4389-bca5-27fa94585153,cons.network,available,82,8,4,,,
 6c9c038b-43e8-4332-bbda-4e48e70c3e7b,consequent.network,available,70,3,10,,,
-ebe24de6-3d36-4081-bc90-10bb04cb94f9,consider.network,available,74,9,8,,,
+ebe24de6-3d36-4081-bc90-10bb04cb94f9,consider.network,available,74,8,8,,,
 36d9f4f0-06ac-40b5-b9fc-a05e28317d13,considered.network,available,71,7,10,,,
 0dfa7e2c-8926-4230-8f92-ab8ffe90057e,consist.network,available,96,4,7,,,
 cd9da23c-e720-44f4-b835-896a4ab5d762,consistently.network,available,60,4,12,,,
@@ -2205,9 +2205,9 @@ e96ba388-24a5-4f3f-a76d-fbad15d63248,contested.network,available,60,3,9,,,
 3a92af92-0db1-4cdf-931e-5fc32ee59990,continued.network,available,86,4,9,,,
 bcadd04d-ed79-41f7-8715-c1dbd99c887d,continuing.network,available,70,4,10,,,
 d7e41305-45d4-4c73-aff3-2326adfabf30,contraband.network,available,96,7,10,,,
-8db5d9e4-9941-48a2-9454-bff863f47821,contracted.network,available,62,2,10,,,
+8db5d9e4-9941-48a2-9454-bff863f47821,contracted.network,available,62,3,10,,,
 511f1ca6-508a-42f8-85b2-6f5f3d17dcf2,contralto.network,available,54,2,9,,,
-bda45237-e509-433f-8523-bb6601de368e,contrary.network,available,106,5,8,,,
+bda45237-e509-433f-8523-bb6601de368e,contrary.network,available,106,6,8,,,
 24c2c42a-f4d1-4a24-a65b-be52c7d9ec3c,contrast.network,resell,86,18,8,"Sav.com, LLC",22/11/2024 17:08,22/11/2026 17:08
 6561348d-2087-423c-adce-f0d45cfbdecf,contrasting.network,available,67,1,11,,,
 6a0fd420-4eb4-4278-9962-3d1c563c9a1b,controlling.network,available,78,8,11,,,
@@ -2221,7 +2221,7 @@ f52408a9-0815-47cd-ae8c-98b5a93fb52a,convinced.network,available,66,3,9,,,
 eaed06b9-6a25-4152-80ee-a57b00eac818,convincing.network,available,90,2,10,,,
 e6b7a031-5711-44d1-bc2a-8a61d420f7d5,cookie.network,resell,70,31,6,Automattic Inc.,04/07/2022 13:15,04/07/2029 13:15
 5bacb3f6-373f-4842-afa2-a734efd08e1c,cooking.network,resell,88,18,7,Dynadot Inc,08/02/2025 00:18,08/02/2026 00:18
-d99bcbe8-8154-4e41-ba58-79b20df05b20,cool.network,resell,76,29,4,Dynadot Inc,27/11/2018 09:01,27/11/2026 09:01
+d99bcbe8-8154-4e41-ba58-79b20df05b20,cool.network,resell,76,28,4,Dynadot Inc,27/11/2018 09:01,27/11/2026 09:01
 4744a855-5a31-4196-b8b3-895a11594eae,cooldown.network,available,70,6,9,,,
 2ac844c4-3046-457e-926a-7404fba7dffa,coolly.network,available,74,3,6,,,
 27dc1046-0d23-4a02-a015-f2ffebfa0de4,copewith.network,available,75,1,9,,,
@@ -2276,7 +2276,7 @@ bd9ae1f0-a408-4280-803b-58996912c622,crabbed.network,available,45,1,7,,,
 efbeb6ed-29e3-4ddd-98d0-38bdd957c475,creaky.network,available,54,3,6,,,
 7b17a217-7c22-4ed2-81e8-1651d9533aba,cream.network,resell,110,22,5,Dynadot Inc,05/11/2021 13:15,05/11/2026 13:15
 c3a1dd70-018c-41b4-85ac-eeee8d474359,creating.network,available,76,11,8,,,
-641886d0-1891-4478-8486-63fec204a7a7,creative.network,resell,92,41,8,"Global Domains International, Inc. DBA DomainCostClub.com",26/02/2023 15:15,26/02/2026 15:15
+641886d0-1891-4478-8486-63fec204a7a7,creative.network,resell,92,40,8,"Global Domains International, Inc. DBA DomainCostClub.com",26/02/2023 15:15,26/02/2026 15:15
 f1d27f2a-5949-4046-a3de-c5bf1b2aa5d0,creature.network,resell,68,17,8,Dynadot Inc,08/10/2021 17:01,08/10/2026 17:01
 ae9f909c-048d-4e42-a77f-849929b4da3c,credible.network,resell,54,13,8,"Sav.com, LLC - 26",19/06/2025 15:15,19/06/2026 15:15
 ce1ba52e-ba6a-419a-9b32-81f2c36b8b47,credit.network,resell,66,32,6,Dynadot Inc,10/12/2014 04:45,10/12/2026 04:45
@@ -2297,7 +2297,7 @@ cf637ad7-9a3d-4c74-891d-10bebb06fb9e,crowded.network,available,60,6,7,,,
 a4c9c6e3-0dea-4545-b1b8-673a1909065c,crucial.network,resell,80,15,7,Porkbun LLC,10/08/2024 17:36,10/08/2026 17:36
 3ed0ff46-ac73-47a0-b012-21789a419d36,crude.network,available,86,8,5,,,
 dc6b4870-e970-4c90-9e16-4031cfb45c57,cruel.network,premium,112,5,5,,,
-7c910610-71b4-4928-9bcc-b17421c595d6,crying.network,available,82,6,6,,,
+7c910610-71b4-4928-9bcc-b17421c595d6,crying.network,available,82,5,6,,,
 5fe01399-41b9-441e-81ef-48e1b167b6e6,cryout.network,available,72,2,7,,,
 d54af73c-2bd2-4be7-8489-19dad5500ca0,cuba.network,available,66,5,4,,,
 256afa97-de29-48cc-862f-74f331812285,cuisine.network,resell,78,12,7,"Global Domains International, Inc. DBA DomainCostClub.com",18/03/2015 06:55,18/03/2026 06:55
@@ -2328,7 +2328,7 @@ d9687724-8156-414f-915c-76bddb6a05be,dakar.network,available,66,9,5,,,
 fb96f5d6-6152-4a80-b170-b64fffb74e94,dancehall.network,available,70,7,10,,,
 0cedc973-79c8-4a2c-8fe5-63a1718a60e9,dankmeme.network,available,70,2,9,,,
 0d617bb5-4991-421c-85aa-20cd3fbb5a91,daring.network,available,86,11,6,,,
-38b04f95-fadb-4e1c-a319-3a2d2d4429eb,dark.network,resell,52,34,4,"Global Domains International, Inc. DBA DomainCostClub.com",13/02/2021 16:41,13/02/2026 16:41
+38b04f95-fadb-4e1c-a319-3a2d2d4429eb,dark.network,resell,52,33,4,"Global Domains International, Inc. DBA DomainCostClub.com",13/02/2021 16:41,13/02/2026 16:41
 212178cf-cf0b-4272-9578-1b818e8c48c7,darken.network,available,72,7,6,,,
 b2c92850-4a3c-4d19-82b4-f7738887194c,databaseanalyst.network,available,68,1,16,,,
 a69c4398-47ba-47c8-b0e9-76735eb92cfc,datatable.network,available,70,3,10,,,
@@ -2362,18 +2362,18 @@ b18e96a7-81fc-4812-a360-59d70458838c,decumbent.network,available,52,1,9,,,
 99d1d677-5e2f-470f-89ad-4be9eda6b903,defence.network,resell,90,18,7,"Sav.com, LLC - 11",25/02/2024 15:15,25/02/2026 15:15
 14644b77-0072-4d4a-8637-98c4d8f34f4e,defense.network,resell,70,24,7,"Spaceship, Inc.",11/12/2014 03:27,11/12/2026 03:27
 fc3aabfe-501e-4bf7-8b70-7b28b8b6dd6b,deficit.network,available,70,5,7,,,
-73c1972d-966e-4d78-91f8-fd49f334c853,defined.network,available,68,10,7,,,
+73c1972d-966e-4d78-91f8-fd49f334c853,defined.network,available,68,9,7,,,
 29d232d0-3dcb-441c-8732-b8e021f4cc34,definite.network,available,84,5,8,,,
 e136ff1f-0798-4f42-a722-7fd82832aaf5,definitely.network,resell,66,8,10,"Sav.com, LLC",15/06/2025 15:16,15/06/2026 15:16
 b4578636-7757-4d0c-882f-7eece0f27115,definitively.network,available,60,1,12,,,
 538baa9a-db51-4138-b7df-e6f7532f74ef,deflation.network,available,60,5,9,,,
 72f51ed2-6410-40ed-85a7-f8ae7c0a661a,delayed.network,available,56,6,7,,,
-44d89734-b061-4c38-ba29-926ed57b7203,delicate.network,available,84,7,8,,,
+44d89734-b061-4c38-ba29-926ed57b7203,delicate.network,available,84,8,8,,,
 697845a5-54d4-4897-8131-3e118597a91d,delicious.network,resell,74,16,9,"Sav.com, LLC - 5",01/12/2025 15:15,01/12/2026 15:15
 b7ad700c-964d-4945-b445-38037a820345,delight.network,resell,104,21,7,"Sav.com, LLC",20/11/2024 17:08,20/11/2026 17:08
 69fe2c12-c851-46c7-9046-a4bf6f2511bb,delighted.network,available,56,13,9,,,
 93dc67eb-1eab-47fb-bb3c-cc00152ea9e3,delightful.network,available,68,13,10,,,
-0c29475c-8d03-4b9e-a172-257e4c31f16b,demo.network,resell,110,35,4,Porkbun LLC,25/08/2021 03:01,25/08/2026 03:01
+0c29475c-8d03-4b9e-a172-257e4c31f16b,demo.network,resell,110,34,4,Porkbun LLC,25/08/2021 03:01,25/08/2026 03:01
 8cdeab4a-e1d4-4f52-8b1e-14cb02e34ba8,democrat.network,available,90,11,8,,,
 b3d67b57-3cd2-44e6-a836-249b5403a6c7,democratic.network,available,66,7,10,,,
 8efafe7c-6623-41e3-a9b7-3b4cdf8c11ac,demoniac.network,available,58,1,8,,,
@@ -2400,7 +2400,7 @@ f5868e7e-321e-48c6-b592-413db4d0250e,description.network,available,76,6,11,,,
 3f84f18a-b02f-457f-9b5d-e4b6b4c99380,desert.network,resell,104,17,6,"Global Domains International, Inc. DBA DomainCostClub.com",27/02/2022 05:23,27/02/2026 05:23
 7d41612a-cc14-4c1d-b98a-480843f274ef,deserted.network,available,54,4,8,,,
 96250cfa-233c-43cf-9122-73a2e649480d,deserter.network,available,49,1,8,,,
-f6c6ec2f-e9f2-4925-b649-81995e8643e9,design.network,premium,108,42,6,,,
+f6c6ec2f-e9f2-4925-b649-81995e8643e9,design.network,premium,108,40,6,,,
 9b9c49c7-8f4c-457b-96da-037bc822645d,desired.network,available,78,8,7,,,
 778b570d-f955-474a-922e-81ca65e96e50,deskchair.network,available,74,2,10,,,
 4a6ac762-c7a4-4658-b32c-3c866235329d,deskorganizer.network,available,66,1,14,,,
@@ -2469,9 +2469,9 @@ d0ff4159-6799-4132-98ed-64cecc05fe1b,diminutive.network,available,70,2,10,,,
 5c5472ff-e365-408c-9be9-822de4b2b155,dinosaur.network,resell,75,20,8,Dynadot Inc,09/10/2023 17:00,09/10/2026 17:00
 4c890e08-1b20-4d8d-aff2-8654f709ba0e,diploma.network,available,77,8,7,,,
 54caff42-1527-480b-9a42-ad0312c7e4d9,diplomate.network,available,93,2,9,,,
-51319734-852a-45d0-9335-1319cf4d2611,diplomatic.network,available,84,7,10,,,
+51319734-852a-45d0-9335-1319cf4d2611,diplomatic.network,available,84,8,10,,,
 4930647f-779b-444e-9604-fff47d2a74f9,directed.network,available,70,8,8,,,
-9f6a2322-86ba-4a3d-ab35-d6008fddb313,directing.network,available,66,3,9,,,
+9f6a2322-86ba-4a3d-ab35-d6008fddb313,directing.network,available,66,2,9,,,
 8b913890-ff7f-40fb-840e-1aeb45cfca2b,direction.network,resell,72,10,9,"Sav.com, LLC",08/06/2024 19:11,08/06/2026 19:11
 efcd2030-4dfd-4836-ad8c-c66e2614168a,directly.network,available,70,7,8,,,
 cdcdb2f4-347c-4577-a4c0-3fb617e77177,disadvantage.network,available,80,3,12,,,
@@ -2484,7 +2484,7 @@ cf33acfb-42d1-45e6-adfe-efd737edec84,discdrive.network,available,72,1,10,,,
 81644731-856c-4fba-9cb4-fd8150da2dde,discerning.network,available,72,4,10,,,
 dab250f4-b1b8-41e2-90ad-d507d31652a2,discipline.network,available,92,13,10,,,
 d299af9f-eaa0-459a-99ba-a3ee8333a0bf,discjockey.network,available,78,6,11,,,
-579c7837-3e94-487e-a4df-184d50307b33,disclosed.network,available,58,4,9,,,
+579c7837-3e94-487e-a4df-184d50307b33,disclosed.network,available,58,3,9,,,
 1b91425c-e657-4247-a1cb-75cf071b6331,disco.network,resell,104,31,5,"Spaceship, Inc.",02/08/2023 18:13,02/08/2026 18:13
 f5709288-45a6-4bc8-b849-8915940372f3,discomfort.network,available,82,4,10,,,
 de943695-d125-47fb-945f-01bc5ae26b40,discourse.network,available,88,13,9,,,
@@ -2511,7 +2511,7 @@ d2d8d8bc-af09-468a-bec7-db363ac61709,diskspace.network,available,70,3,10,,,
 929fb0fc-c755-48bd-9023-b0afbf16de4f,dismaying.network,available,52,1,9,,,
 20ae78ab-2134-43c7-9061-aa0cebb2ae7c,dismiss.network,available,72,4,7,,,
 c3709142-6430-4070-8b47-efc1a528ed03,dismissal.network,available,66,3,9,,,
-4fc218ad-d153-43d4-98a6-525bdb6be37f,dismissed.network,available,50,4,9,,,
+4fc218ad-d153-43d4-98a6-525bdb6be37f,dismissed.network,available,50,3,9,,,
 03165161-cc55-4ffc-9994-4cf74806d748,disorganised.network,available,54,1,12,,,
 8beaf8b3-1ad5-4b63-9b84-894ced12d337,disorganized.network,available,54,3,12,,,
 a2f784fa-377f-4dd7-93b4-6e144f60a0e7,disparity.network,available,62,4,9,,,
@@ -2530,7 +2530,7 @@ c2f1c579-0d7c-49c9-9ce6-05cc6b0ae835,distract.network,available,86,5,8,,,
 56ad781c-fd8a-4b9c-bfc4-5acbd71fc464,dive.network,resell,94,31,4,"Spaceship, Inc.",03/05/2024 15:15,03/05/2026 15:15
 d8c21a5b-a0d4-418e-aa71-cec545a7e15a,diversify.network,available,74,8,9,,,
 a3881472-62f8-468d-8b5c-d9f773fa56f5,diversity.network,resell,76,19,9,Porkbun LLC,07/04/2024 19:14,07/04/2026 19:14
-d53eb545-559c-4205-a7a7-940e7d4ffe0a,divert.network,available,70,6,6,,,
+d53eb545-559c-4205-a7a7-940e7d4ffe0a,divert.network,available,70,7,6,,,
 afc74de1-f586-4272-834c-b3d1c5ee92df,diverted.network,available,48,3,8,,,
 270f3568-e83e-4d0a-80e1-7ea2f765e858,diverting.network,available,48,1,9,,,
 5ed5b223-abcc-4786-bc00-d94cf2bd1aa8,Dives.network,available,60,7,5,,,
@@ -2612,17 +2612,16 @@ b99d9522-519a-465a-9c38-e3e8ecc4b776,ear.network,available,78,20,3,,,
 6235da2e-3c59-4d16-bfdf-dd29dfdb5d50,earmark.network,available,74,6,7,,,
 0abf2eab-9af2-4bee-b2e2-2735575e9cf5,earshaped.network,available,58,1,10,,,
 3b4f8089-5618-47d0-b868-b93c9832a98d,eased.network,available,68,4,5,,,
-a4af64fa-9767-4a67-b2dd-f62bed6fadf3,easily.network,available,74,9,6,,,
+a4af64fa-9767-4a67-b2dd-f62bed6fadf3,easily.network,available,74,8,6,,,
 c5600cdd-814b-4482-8120-059a60c78e7e,east.network,resell,72,23,4,Dynadot Inc,14/05/2019 09:17,14/05/2026 09:17
-f3c1bf57-b182-4750-bdab-73721fa9561a,eastern.network,resell,70,14,7,"Sav.com, LLC",31/07/2024 17:06,31/07/2026 17:06
-0ffe2bd2-5503-4b19-9df6-7e30b7235f7d,easy.network,resell,128,56,4,"Spaceship, Inc.",15/05/2018 08:15,15/05/2026 08:15
+0ffe2bd2-5503-4b19-9df6-7e30b7235f7d,easy.network,resell,128,54,4,"Spaceship, Inc.",15/05/2018 08:15,15/05/2026 08:15
 1262d80d-471e-4337-bf7e-baa705bfb2d3,easymark.network,available,64,2,9,,,
 da4d7a0d-3c97-4c08-8583-11b9c2381d8a,easymoney.network,available,66,11,10,,,
 4fe8daac-4d73-4abb-a314-37aa580f1cea,eatat.network,available,72,2,6,,,
 e5ff57db-f27f-4189-ae3a-67f937109b9e,eaten.network,available,74,4,5,,,
 e6f99ba0-9636-40c6-9d7f-178fc7b688db,eater.network,available,70,7,5,,,
 3967adf8-5ef8-4f01-96cf-e6b43679e964,eBay.network,available,88,34,4,,,
-1fa6cd20-94fa-4068-b87c-d52d9c33474b,economical.network,available,68,4,10,,,
+1fa6cd20-94fa-4068-b87c-d52d9c33474b,economical.network,available,68,3,10,,,
 45efae33-9c52-4194-b722-10d1c1fcead5,economically.network,available,54,2,12,,,
 ec305b8b-a3f3-4cf8-bcb5-e57d7f8d27ae,ecru.network,available,70,6,4,,,
 a1211539-db64-46b2-8586-b97e133e7867,educated.network,available,68,5,8,,,
@@ -2643,10 +2642,10 @@ c26c9f7c-c211-40d0-beb2-cac35bd502a8,eightysix.network,available,60,7,10,,,
 3932344b-5b09-4ec3-a7bf-29a7369842c4,either.network,available,70,3,6,,,
 f0934dbd-df0e-47cb-971d-4ef5c4731f97,elaborate.network,available,86,6,9,,,
 7218e629-0572-440f-ab2c-a5a5ac881586,elaborated.network,available,64,1,10,,,
-3e017e4c-f51c-470d-a2f6-d28ee4e59cce,electric.network,resell,86,30,8,"Global Domains International, Inc. DBA DomainCostClub.com",11/03/2015 00:23,11/03/2026 00:23
+3e017e4c-f51c-470d-a2f6-d28ee4e59cce,electric.network,resell,86,29,8,"Global Domains International, Inc. DBA DomainCostClub.com",11/03/2015 00:23,11/03/2026 00:23
 3a2e702c-b78b-496b-b2b2-fe9bf0022441,electronic.network,available,68,15,10,,,
-ef2f53bc-96e8-403c-95f9-a7fc8b414eef,elegant.network,resell,94,25,7,"Sav.com, LLC - 5",19/10/2025 15:16,19/10/2026 15:16
-d6c05884-8bc4-4166-bdbd-5b10322b54f2,element.network,resell,96,26,7,"Spaceship, Inc.",07/04/2024 13:23,07/04/2026 13:23
+ef2f53bc-96e8-403c-95f9-a7fc8b414eef,elegant.network,resell,94,24,7,"Sav.com, LLC - 5",19/10/2025 15:16,19/10/2026 15:16
+d6c05884-8bc4-4166-bdbd-5b10322b54f2,element.network,resell,96,25,7,"Spaceship, Inc.",07/04/2024 13:23,07/04/2026 13:23
 0ed80a2a-3a06-488a-8417-2b9b1b141aa4,eleventh.network,available,62,5,8,,,
 e8bbbfdd-118e-441e-94ff-dde1b400b6a7,eliminate.network,available,66,5,9,,,
 3875284e-125a-424c-85dc-9b32d4bc3080,Ellen.network,available,70,18,5,,,
@@ -2732,13 +2731,13 @@ c18c084a-b014-48a8-84b6-3c1ecb681864,estimate.network,available,90,13,8,,,
 be693dc7-4dc6-4550-b781-540868e40432,estival.network,available,50,3,7,,,
 9d1b2974-4787-445d-8a4a-be1c9e062ec7,esurient.network,available,66,1,8,,,
 857c4e3d-6221-420a-b5cd-b0b57b863de3,ethical.network,resell,94,21,7,"Sav.com, LLC - 30",26/11/2025 15:15,26/11/2026 15:15
-5d458085-f416-4bbc-8247-eb65cf8d9f97,ethnic.network,available,88,8,6,,,
+5d458085-f416-4bbc-8247-eb65cf8d9f97,ethnic.network,available,88,7,6,,,
 ebe33b17-d8fe-4d90-921b-6765cbf628d5,etiologic.network,available,46,2,9,,,
 87436c25-7b16-4c46-a2d7-e5a1d1cfa666,Europeanhedgehog.network,available,68,1,17,,,
 0e3b5ed6-3f06-432d-b6b3-6d8682b30b1f,evacuate.network,available,64,4,8,,,
 1affd0ad-d43d-49ee-b3c2-d36899e580e5,evaluate.network,resell,74,11,8,Porkbun LLC,10/06/2024 01:00,10/06/2026 01:00
 1cf5a07e-5848-4fa6-9518-bd74d555f027,evaluative.network,available,42,2,10,,,
-62935634-16b5-47e5-82a8-8ce0ad63ea78,even.network,available,98,9,4,,,
+62935634-16b5-47e5-82a8-8ce0ad63ea78,even.network,available,98,10,4,,,
 22b4c4ff-edd6-41a0-99ce-ec513869922a,evenchance.network,available,74,1,11,,,
 b9c74d0f-7574-47bc-9d6f-ecc0156d0e05,evenif.network,available,60,2,7,,,
 9e6fefb2-f294-468d-a137-01fdad1e3727,evenout.network,available,70,1,8,,,
@@ -2748,7 +2747,7 @@ b9c74d0f-7574-47bc-9d6f-ecc0156d0e05,evenif.network,available,60,2,7,,,
 13d8c2d1-6610-4028-a86d-d32c40c7d031,everybit.network,available,60,5,9,,,
 445ea76a-9b55-4a37-abba-51656b7ee6a4,everybody.network,available,60,14,10,,,
 9adcb2ed-d624-4de4-bc3a-2210b0c383a5,everybodyelse.network,available,56,1,14,,,
-a0a95f7f-c228-49c1-a99b-36422c38e61d,everyday.network,resell,76,31,8,"Sav.com, LLC - 25",15/01/2022 13:15,15/01/2026 13:15
+a0a95f7f-c228-49c1-a99b-36422c38e61d,everyday.network,resell,94,30,8,"Sav.com, LLC - 25",15/01/2022 13:15,15/01/2026 13:15
 09fe7e70-647e-4b76-a327-d432dc554e19,everyone.network,resell,66,26,8,"NameSilo, LLC",08/10/2015 14:37,08/10/2026 14:37
 02eddf25-3fc2-4b50-ad9c-918dfc5d5693,everything.network,resell,64,42,10,"Global Domains International, Inc. DBA DomainCostClub.com",24/03/2020 21:48,24/03/2026 21:48
 471d1bdb-7da6-4439-83f6-124e69e226af,everyyear.network,available,68,1,10,,,
@@ -2759,10 +2758,10 @@ abc02244-44cb-41bb-b31f-18ef717bd575,exactly.network,available,84,7,7,,,
 bb051c77-4f7c-47e0-aea1-75cf97bef6d5,exaggerate.network,available,80,1,10,,,
 c2e4e221-88b7-4223-b3cf-0263efa9d3f1,examine.network,available,92,10,7,,,
 3096bf18-e238-424a-acf7-a03453afb03e,excelat.network,available,82,2,8,,,
-7b57544b-646d-43cd-87a0-96d2256593df,excellent.network,available,88,19,9,,,
+7b57544b-646d-43cd-87a0-96d2256593df,excellent.network,available,88,18,9,,,
 79a427cf-fbe7-46d0-924a-a5a2e2b3bd1e,except.network,available,88,4,6,,,
 f34bc9b4-ad6e-4bba-a9e5-a53961e83a73,exchange.network,resell,98,24,8,"Global Domains International, Inc. DBA DomainCostClub.com",25/02/2017 08:19,25/02/2026 08:19
-ec7e1eeb-ac2d-489c-aa10-8af4cf80584c,excited.network,available,72,6,7,,,
+ec7e1eeb-ac2d-489c-aa10-8af4cf80584c,excited.network,available,72,5,7,,,
 73061b05-2dfc-40e9-b8fb-99540d36bca4,exciting.network,available,90,10,8,,,
 e03ee9dd-0291-419c-a278-554ca3851eb1,exclamationmark.network,available,68,2,16,,,
 79c6f7dc-a159-45de-a3b9-53b2298e2080,exclusively.network,available,56,4,11,,,
@@ -2784,7 +2783,7 @@ dde73278-5898-4645-871a-c9ffc8dd8bcd,exhibit.network,available,97,12,7,,,
 4fe82bb7-525b-4941-b2ca-a7e5ccb6a7f2,exhibition.network,resell,71,14,10,Dynadot Inc,17/07/2025 17:00,17/07/2026 17:00
 efd8b656-c19a-4858-83a5-2551ad31fec2,exist.network,available,82,12,5,,,
 ac0c3026-f758-45d7-9a8e-33de21a86a34,existent.network,available,72,4,8,,,
-9f7ff861-e8f7-40b8-90bf-fe7a075d083e,existing.network,available,62,4,8,,,
+9f7ff861-e8f7-40b8-90bf-fe7a075d083e,existing.network,available,62,5,8,,,
 89b417e2-6dbd-4b8d-8214-abb33b62390f,exit.network,resell,74,31,4,Squarespace Domains II LLC,09/03/2022 13:15,09/03/2026 13:15
 e42b13e0-56a1-4fa9-9b2f-8566f50dee2e,exonerated.network,available,66,3,10,,,
 bb03c0cd-50d4-47fc-9630-8bb0eba3adca,expect.network,available,82,11,6,,,
@@ -2806,14 +2805,14 @@ ee1bde98-918c-4b1b-81ca-453373f6a52a,extempore.network,available,86,3,9,,,
 63a29526-b4ec-4614-b259-76434b86c3e1,extendto.network,available,74,1,9,,,
 0d9a2644-bfbc-479f-9d52-00784bd35ed9,extinction.network,available,58,6,10,,,
 bd7a3d55-6d40-405c-b172-ba6843a436cb,extraordinary.network,available,92,21,13,,,
-a9ef370a-5e95-4002-8cb0-02d80d839765,extremely.network,available,56,4,9,,,
+a9ef370a-5e95-4002-8cb0-02d80d839765,extremely.network,available,56,5,9,,,
 95e34c3f-750c-44ba-b98a-09ba25144ff4,eye.network,resell,66,26,3,Unstoppable Domains Inc,10/12/2014 18:37,10/12/2026 18:37
 ad92e915-d90c-4c6c-bb0c-8b765e775340,eyecatching.network,available,72,3,12,,,
 15041354-f38b-4751-af3c-47e788771c4f,eyes.network,resell,72,17,4,Unstoppable Domains Inc,06/12/2022 15:16,06/12/2026 15:16
 cdab875c-9bbd-4e2c-a1ca-57a9395f85b2,eyewitness.network,available,90,5,10,,,
 465d0712-05d3-4a91-964f-a5103cb2d526,eyrie.network,available,74,9,5,,,
 ceedf0f5-a3e0-467e-a5ac-abb62d882c4e,eyry.network,available,74,3,4,,,
-c15d2d46-a841-4e16-b8ae-209b4c69185c,face.network,resell,108,26,4,Dynadot Inc,25/02/2019 08:16,25/02/2026 08:16
+c15d2d46-a841-4e16-b8ae-209b4c69185c,face.network,resell,108,25,4,Dynadot Inc,25/02/2019 08:16,25/02/2026 08:16
 195afa16-a58d-4dac-8c15-872f855d8ab5,facebook.network,available,112,47,8,,,
 4a73a3ed-6e48-4e94-9666-6b79448dc04f,facetious.network,available,48,3,9,,,
 3fb25742-0b1e-45ac-9ac1-13c63b187741,facilitate.network,available,74,10,10,,,
@@ -2842,6 +2841,7 @@ abeea74b-b8f7-4cd2-8590-c49a803d6128,falls.network,available,72,9,5,,,
 28d7bae1-7f95-4ea4-8754-1f54566bc626,FannyAdams.network,available,56,2,11,,,
 7deeec11-1bbe-479c-b3d2-6bf97ac3bddd,Fanta.network,available,98,13,5,,,
 9b206185-30f0-4eeb-8eb1-6da16781fc3a,fantastic.network,available,88,15,9,,,
+ab5225d6-793c-48b2-a4e2-833ba40d13c8,fantasy.network,resell,98,25,7,"GoDaddy.com, LLC",08/12/2014 18:03,08/12/2026 18:03
 c694493d-9efc-4e2a-a81d-c505bced7da3,farmer.network,resell,72,18,6,"GoDaddy.com, LLC",23/09/2020 14:09,23/09/2026 14:09
 70e81c7d-e948-4b90-9d8e-073b94b3cf3e,farmwork.network,available,68,2,9,,,
 2eff972d-1307-47a4-8bb3-20714d1015a8,farther.network,available,74,5,7,,,
@@ -2881,7 +2881,7 @@ decc9da3-3ebb-4792-b942-b5727007b9c6,feminine.network,available,86,6,8,,,
 3f8c2197-e403-4566-9575-b6370e29fd27,fervent.network,available,66,6,7,,,
 0f505916-5b29-48d4-9e48-354cfbb3c032,fervid.network,available,66,5,6,,,
 4cbe2d79-5768-4f87-bdb3-217cf0881cff,few.network,available,70,13,3,,,
-b0e374de-7559-4d63-9959-75e3091f685c,fewer.network,available,58,4,5,,,
+b0e374de-7559-4d63-9959-75e3091f685c,fewer.network,available,58,5,5,,,
 54bd9545-03de-43df-a252-6b4b7b952f37,fiber.network,resell,78,26,5,GoDaddy Online Services Cayman Islands Ltd.,07/12/2014 16:00,07/12/2026 16:00
 330a7f53-d662-4e8a-81c4-0117c6f2ef42,fictive.network,available,66,5,7,,,
 e88810ae-0862-4520-8179-340783ece473,fidgety.network,available,64,2,7,,,
@@ -2897,7 +2897,7 @@ a6b33b9f-e821-4882-83bc-2305b5358a57,fiftyfour.network,available,56,4,10,,,
 d1a7b3cf-c990-47b3-b30c-e72313ea8f46,fiftysix.network,available,56,4,9,,,
 7d9bca30-7389-41e1-8017-55501e3af9c6,fiftytwo.network,available,56,6,9,,,
 08b50015-c8c5-4305-80cb-67ee9716f5cc,fighting.network,available,64,9,8,,,
-6fe4a680-1dd7-4bf3-be0c-6a8a9f1e8e4e,figure.network,resell,96,16,6,"Global Domains International, Inc. DBA DomainCostClub.com",10/03/2023 19:03,10/03/2026 19:03
+6fe4a680-1dd7-4bf3-be0c-6a8a9f1e8e4e,figure.network,resell,96,15,6,"Global Domains International, Inc. DBA DomainCostClub.com",10/03/2023 19:03,10/03/2026 19:03
 77f41985-ffc7-4b20-a6d2-c97d0f5f3625,figureout.network,available,74,3,10,,,
 1be1776a-3f73-4dc2-ba54-840d34986e3e,filled.network,available,72,4,6,,,
 8c73c9f6-a1ec-4c43-85b4-24fec41eadfe,filming.network,available,74,6,7,,,
@@ -2919,7 +2919,7 @@ f7726695-b91c-4ac6-92ad-0393a9b14bc4,fired.network,available,52,7,5,,,
 370dd745-f2dd-4775-ab6f-38095b837dc1,fireengine.network,available,80,2,11,,,
 b0ca2cb4-d2f7-40f1-85c8-504c78d5a74d,firefighter.network,available,78,14,11,,,
 c170392b-235c-498a-b577-7efcdf88e318,firetruck.network,available,90,5,10,,,
-a3e5c1b2-9a22-40d4-9dd0-91a0e26895d7,firm.network,resell,118,21,4,"Sav.com, LLC - 5",05/06/2023 15:15,05/06/2026 15:15
+a3e5c1b2-9a22-40d4-9dd0-91a0e26895d7,firm.network,resell,118,20,4,"Sav.com, LLC - 5",05/06/2023 15:15,05/06/2026 15:15
 d46ceb52-2dcb-4053-8796-c8b13c7a6ac4,first.network,resell,80,32,5,"Spaceship, Inc.",30/04/2018 21:07,30/04/2026 21:07
 4a9033d2-9ca9-42e3-a986-4df24d837118,firstcousin.network,available,64,1,12,,,
 34891666-a977-413a-8b7b-2cf41348237e,firstgrade.network,available,72,3,11,,,
@@ -2954,8 +2954,8 @@ c57adff8-1cbe-4501-a33f-af50b6eb307c,floor.network,resell,98,23,5,"Spaceship, In
 40eff092-193c-4fff-8638-89d84f290841,floormanager.network,available,70,2,13,,,
 b182381f-f43c-439b-bed2-2243a76ede33,flop.network,available,60,8,4,,,
 b3032d2d-d095-4a3c-a4f0-57fe51c4b21b,florid.network,available,58,4,6,,,
-28b2898b-c1a3-4ec0-bf2b-d3ea2a3790e0,flow.network,resell,96,61,4,Porkbun LLC,24/10/2022 13:15,24/10/2028 13:15
-b6c371ff-b175-4fee-a055-89ef53153cb9,flower.network,resell,74,24,6,"Sav.com, LLC - 17",16/08/2025 15:15,16/08/2026 15:15
+28b2898b-c1a3-4ec0-bf2b-d3ea2a3790e0,flow.network,resell,96,60,4,Porkbun LLC,24/10/2022 13:15,24/10/2028 13:15
+b6c371ff-b175-4fee-a055-89ef53153cb9,flower.network,resell,74,23,6,"Sav.com, LLC - 17",16/08/2025 15:15,16/08/2026 15:15
 786dd80b-d10b-468e-b821-2de27ac9eb97,flowerbox.network,available,76,6,10,,,
 c50f215d-1a08-4234-9170-7f723cba5a44,flu.network,available,62,10,3,,,
 c202927b-3e49-477d-8906-a730c385d3d1,flush.network,available,114,12,5,,,
@@ -2972,7 +2972,7 @@ c39ccfc4-1434-4575-8f6d-92574c3cca18,folicacid.network,available,76,2,10,,,
 6998f4eb-2d74-4997-b7e1-d73a9d213b0a,fond.network,available,116,10,4,,,
 e19570f4-345d-4149-a181-4148acc96dcd,foodcoma.network,available,64,3,9,,,
 63cf3052-2c42-4ec2-93cf-2504b0e4b873,foodcourt.network,available,76,8,10,,,
-a29acaf2-2075-4b8a-b7d9-e361806a741f,foolish.network,available,60,12,7,,,
+a29acaf2-2075-4b8a-b7d9-e361806a741f,foolish.network,available,60,11,7,,,
 f3b8ea42-59ff-4138-8c27-21bdf251504b,footballer.network,available,76,5,10,,,
 9d1c82c4-159f-414b-8a66-87b604398f59,for.network,resell,80,46,3,Turkticaret.net Yazılım Hizmetleri Sanayi ve Ticaret A.Ş.,15/08/2016 09:03,15/08/2026 09:03
 2cc860d0-d57f-4422-983b-6df876ab7db0,force.network,resell,72,21,5,Porkbun LLC,19/07/2019 10:41,19/07/2027 10:41
@@ -2983,7 +2983,7 @@ f3b8ea42-59ff-4138-8c27-21bdf251504b,footballer.network,available,76,5,10,,,
 c12eb360-6d6b-472d-bd38-d2e8c6542366,foreigner.network,available,60,5,9,,,
 b051ef70-6165-4342-8306-ed3244617b16,forestfire.network,available,58,5,11,,,
 d93e82f5-5afd-44d1-82f5-4c002a1073c2,forever.network,resell,98,34,7,Turkticaret.net Yazılım Hizmetleri Sanayi ve Ticaret A.Ş.,15/08/2016 09:06,15/08/2026 09:06
-5f1fe2fd-3a26-4d9e-bd82-191e23948257,forge.network,resell,62,33,5,"NameSilo, LLC",20/01/2022 13:15,20/01/2027 13:15
+5f1fe2fd-3a26-4d9e-bd82-191e23948257,forge.network,resell,62,32,5,"NameSilo, LLC",20/01/2022 13:15,20/01/2027 13:15
 20493d50-17ae-4011-b1ba-1576f53c3472,forget.network,available,54,8,6,,,
 83b1d3fd-1fba-451a-ab2f-b168e00576a6,forgetting.network,available,74,3,10,,,
 3bc42270-18c2-4600-ad5d-be14f247b5c2,forgive.network,available,84,6,7,,,
@@ -3016,13 +3016,13 @@ d1ab32a9-eb3b-40b1-aafa-e98e00dc906b,fourteenth.network,available,76,2,10,,,
 644a121e-e284-4e4b-a05b-ddeea3fc0c09,francesca.network,available,76,9,9,,,
 52de1525-63e0-455b-8875-50e9f1843339,francisca.network,available,72,3,9,,,
 162896bb-a816-48bb-a979-33a3f282a6c1,Franks.network,available,62,14,6,,,
-4f71bf96-4b39-4b9c-9353-0fc04c26adbd,fraud.network,resell,86,24,5,"Spaceship, Inc.",24/03/2023 17:04,24/03/2026 17:04
+4f71bf96-4b39-4b9c-9353-0fc04c26adbd,fraud.network,resell,86,23,5,"Spaceship, Inc.",24/03/2023 17:04,24/03/2026 17:04
 5ae02beb-58b2-475f-96d3-afbe1d72550f,freaking.network,available,80,4,8,,,
-45b7c92c-5abf-4bfc-83fc-0c6117d990c0,french.network,available,80,18,6,,,
+45b7c92c-5abf-4bfc-83fc-0c6117d990c0,french.network,available,80,17,6,,,
 89c20f93-bd0a-4c19-addc-cfd30431ac83,frequently.network,available,64,3,10,,,
 b8ec1152-1211-413c-b53e-4018384c8115,fretful.network,available,58,2,7,,,
 e47ba463-9fcb-4d12-86f7-0a8ed388209a,frog.network,resell,86,37,4,Dynadot Inc,29/12/2018 17:16,29/12/2026 17:16
-8774fa72-8c8d-4f94-88f8-5cd40a60d92e,front.network,resell,118,19,5,"Sav.com, LLC",24/11/2024 17:05,24/11/2026 17:05
+8774fa72-8c8d-4f94-88f8-5cd40a60d92e,front.network,resell,118,18,5,"Sav.com, LLC",24/11/2024 17:05,24/11/2026 17:05
 12c37feb-1753-4645-b2d0-a88379fdcc67,frozenfood.network,available,70,2,11,,,
 43af6fbd-68de-4bf8-be78-1b0636f37b64,fruit.network,resell,82,27,5,"Spaceship, Inc.",27/10/2021 13:15,27/10/2026 13:15
 ef474c3e-0500-4269-8b40-236c37d99202,fruitjuice.network,available,74,3,11,,,
@@ -3159,7 +3159,7 @@ d6c844b2-b0fc-4932-918e-48e88cdb19de,gooutside.network,available,80,3,10,,,
 3b9892ca-824f-49fb-9277-8af0f687f883,gotobedwith.network,available,66,1,14,,,
 a885a5ed-14dc-43d2-8d0e-3ff66716be47,gotowork.network,available,68,4,10,,,
 fc335421-e326-4945-b436-10118ab53958,goup.network,available,74,11,5,,,
-a1e01efa-a0a7-4b41-bf78-362c93213f29,gourmet.network,resell,94,19,7,"Global Domains International, Inc. DBA DomainCostClub.com",10/12/2014 21:31,10/12/2026 21:31
+a1e01efa-a0a7-4b41-bf78-362c93213f29,gourmet.network,resell,94,18,7,"Global Domains International, Inc. DBA DomainCostClub.com",10/12/2014 21:31,10/12/2026 21:31
 229e4126-29d3-460c-9e0e-2bc0398b4749,gowith.network,available,74,6,7,,,
 164f7bdc-59f3-4b24-9c89-32206054c400,gowithoutsaying.network,available,81,1,17,,,
 d7ef5502-d0bb-4f4f-847b-96a20668c85a,grabby.network,available,72,5,6,,,
@@ -3215,6 +3215,7 @@ b40afddf-dd3b-42ee-976e-5edeb984346f,grocerylist.network,available,66,5,12,,,
 fac7de7b-441d-40b0-8d48-30d20ccc4faa,grouchy.network,available,42,4,7,,,
 103243c5-26a0-4867-bdd8-3ab4a6a92fec,groundless.network,available,37,3,10,,,
 34cc7237-f858-4163-9cb7-4188d927b210,grouping.network,available,84,3,8,,,
+a2b3ef50-cd75-4b3b-b5a3-fdb426a2936c,grow.network,resell,80,35,4,"Spaceship, Inc.",05/09/2022 13:15,05/09/2026 13:15
 536390bf-3380-4537-9b08-8cea466f3e45,grown.network,available,60,9,5,,,
 ea026b32-f44f-4dda-8fa6-a75af5ecb254,grownup.network,available,78,5,7,,,
 819ee429-b62c-4b1a-afda-8ce9015741c3,growth.network,resell,84,34,6,Porkbun LLC,03/05/2018 21:39,03/05/2026 21:39
@@ -3247,7 +3248,7 @@ d385546e-7f2c-4181-ae79-ed493ce02332,haiti.network,available,68,5,5,,,
 cf7f4dc1-51d8-4e3f-aa9a-bb730166cd68,halloween.network,resell,80,20,9,"Sav.com, LLC",09/07/2025 17:09,09/07/2026 17:09
 61acb787-1695-4ccf-90d1-eb959b7d044d,hallwaymonitor.network,available,62,1,15,,,
 451e69a5-0db5-45b7-a194-fc6f7fecb820,halo.network,resell,78,37,4,Porkbun LLC,15/05/2022 13:15,15/05/2026 13:15
-8c9267e8-854f-496f-a4c5-e758b5552ee9,halt.network,available,66,11,4,,,
+8c9267e8-854f-496f-a4c5-e758b5552ee9,halt.network,available,66,12,4,,,
 8e9aa7a9-02c6-4735-826e-e14595f34967,hamburger.network,available,78,14,9,,,
 79694f2b-cd07-41a9-ba5d-6b868cd9c616,hamilton.network,available,66,17,8,,,
 69f22c19-d799-4daa-bdec-a2e5406c6a9f,handmedown.network,available,100,2,12,,,
@@ -3258,7 +3259,7 @@ c98db9b0-2943-4546-a238-774882ad94a9,hanoi.network,available,66,14,5,,,
 6d2a57be-6dc2-40a6-b1b9-f96d7da94af9,hanukah.network,available,80,2,7,,,
 da69eff7-ee34-4fe1-88fa-91a0c3b053e3,hanukkah.network,available,70,8,8,,,
 c8cd38c7-871d-4d79-b93a-071e97b19fd9,happily.network,available,70,6,7,,,
-e41eef77-6e03-4339-bc31-f170c4d4b82a,happy.network,resell,78,39,5,"Spaceship, Inc.",10/03/2017 15:46,10/03/2026 15:46
+e41eef77-6e03-4339-bc31-f170c4d4b82a,happy.network,resell,78,38,5,"Spaceship, Inc.",10/03/2017 15:46,10/03/2026 15:46
 4c2adae8-e54c-4aad-a322-74c169035150,happybirthday.network,available,116,15,14,,,
 7aab1b32-231f-4a87-8ae2-52e0d911eeaa,hard.network,resell,50,17,4,"Sav.com, LLC",24/03/2021 13:58,24/03/2026 13:58
 74ec905c-0a8a-428a-b088-9e5945f38544,hardatit.network,available,70,1,10,,,
@@ -3296,7 +3297,7 @@ ebdb7a4f-2dbc-4ccb-9b69-93aa683129cb,headoverheels.network,available,84,5,15,,,
 2e25916f-3357-4b61-b992-fd52ed746be9,headtohead.network,available,62,3,12,,,
 d60cf06d-f34e-44b6-bf58-ed0e7e03d994,headtotoe.network,available,62,5,11,,,
 a0b854cb-3917-4a1a-8160-8d0f883b3e4f,headup.network,available,80,4,7,,,
-732e902d-7ddd-4a7d-9b2a-6e2d91710682,healthy.network,resell,84,27,7,Porkbun LLC,29/04/2023 16:12,29/04/2026 16:12
+732e902d-7ddd-4a7d-9b2a-6e2d91710682,healthy.network,resell,84,26,7,Porkbun LLC,29/04/2023 16:12,29/04/2026 16:12
 fe9ca13b-413e-40fb-9694-8d391f59f483,hearable.network,available,60,4,8,,,
 7aed6ce4-8ace-4aaf-bbbf-01ff31441203,heard.network,available,60,10,5,,,
 d879056c-55bb-4c15-80b2-76c1fa6eb12e,hearing.network,available,94,19,7,,,
@@ -3332,7 +3333,7 @@ d1e48566-f86d-4435-9b7f-6a65f622535d,hesitation.network,available,62,1,10,,,
 86a94f4e-cc9f-4d56-808c-be12cd15ec59,hexad.network,available,58,5,5,,,
 b44b6735-da04-4b99-a5b2-02df6bcfd65d,hic.network,available,70,12,3,,,
 c0380bfb-36f2-4e19-bc6b-68801e54d484,hiding.network,available,70,4,6,,,
-94faac5b-1222-4869-8a93-b76846f3fd5f,high.network,resell,68,22,4,"Spaceship, Inc.",09/04/2021 06:52,09/04/2026 06:52
+94faac5b-1222-4869-8a93-b76846f3fd5f,high.network,resell,68,21,4,"Spaceship, Inc.",09/04/2021 06:52,09/04/2026 06:52
 9b3a78e4-19fe-478e-89d2-9267413e2b87,highdefinition.network,available,72,4,15,,,
 b5d935f2-3bf2-4431-b4d3-789201a5082d,higher.network,resell,104,23,6,"Sav.com, LLC",23/07/2024 17:55,23/07/2026 17:55
 7dbb7aaf-468c-4e61-8b46-0a20ab82a720,highlighting.network,available,86,2,12,,,
@@ -3341,10 +3342,10 @@ b5d935f2-3bf2-4431-b4d3-789201a5082d,higher.network,resell,104,23,6,"Sav.com, LL
 ed9a741f-020d-4910-9db8-397d606e9699,him.network,available,74,20,3,,,
 54096147-8f51-418e-bfe8-472ddecc7687,Himself.network,available,64,4,7,,,
 7e210e05-c215-4ec6-87c1-cdeaa37c8f77,hindend.network,available,38,1,8,,,
-f0d274a4-c88e-4856-813f-aaf412599c2e,hinder.network,available,98,6,6,,,
+f0d274a4-c88e-4856-813f-aaf412599c2e,hinder.network,available,98,5,6,,,
 081bece4-af0f-4883-bc77-eab11fb20a6b,hindermost.network,available,42,1,10,,,
 0779b6e0-e020-4a24-b8ad-d27f8b469bcb,hindmost.network,available,42,1,8,,,
-76ed7b61-b10d-4217-877d-a78e162f67d2,hit.network,resell,78,28,3,"Global Domains International, Inc. DBA DomainCostClub.com",11/07/2024 15:15,11/07/2026 15:15
+76ed7b61-b10d-4217-877d-a78e162f67d2,hit.network,resell,78,27,3,"Global Domains International, Inc. DBA DomainCostClub.com",11/07/2024 15:15,11/07/2026 15:15
 81d32d69-d087-4f86-831e-387087abc73d,hitup.network,available,74,4,6,,,
 6f87d37d-a043-4fd5-907d-d765a9052b3a,HIVvirus.network,available,56,1,9,,,
 5878f11d-be6b-4c69-bc8d-24647ddd6a01,hockeyplayer.network,available,82,2,13,,,
@@ -3361,7 +3362,7 @@ ad6533b5-162e-4af8-accc-2e3a5c9f7c05,holly.network,available,56,25,5,,,
 1388f78f-4807-4a23-b01c-51096800dda7,home.network,resell,100,40,4,Porkbun LLC,03/12/2022 07:19,03/12/2026 07:19
 beabefc4-1460-4a72-b996-8464ff796ca1,homoecious.network,available,48,1,10,,,
 8fcd1861-fbac-4ed6-b359-60eaa1e31f7a,honestly.network,available,78,9,8,,,
-18327367-3362-49da-9828-30a41ce2e923,hood.network,resell,66,17,4,Automattic Inc.,04/08/2021 23:16,04/08/2029 23:16
+18327367-3362-49da-9828-30a41ce2e923,hood.network,resell,66,16,4,Automattic Inc.,04/08/2021 23:16,04/08/2029 23:16
 08671ce4-b0b6-4352-9a5b-c8090809c81b,hooked.network,available,60,12,6,,,
 0cfc51ba-4c1f-4cc4-9eaf-7b7e47c2e7f1,hopedfor.network,available,51,1,9,,,
 f7163550-4097-4439-b475-6b95e5be1249,hopeful.network,available,84,8,7,,,
@@ -3371,7 +3372,7 @@ f49f2572-2c97-4b43-839f-ae7aefe3edad,hotel.network,premium,70,38,5,,,
 5de5306d-1e1a-459e-a4ef-66a82a24b9d3,hotshot.network,available,112,12,7,,,
 dbf5c044-ba74-4297-b2c6-dab18ae0aa4c,hotticket.network,available,76,3,10,,,
 e0911adb-a8f4-4a5b-a200-b9a0b35e7c3e,hours.network,available,68,13,5,,,
-669c484a-cc08-400a-9629-f3973ffeb8d5,house.network,resell,84,35,5,Dynadot Inc,23/02/2019 22:08,23/02/2027 22:08
+669c484a-cc08-400a-9629-f3973ffeb8d5,house.network,resell,84,34,5,Dynadot Inc,23/02/2019 22:08,23/02/2027 22:08
 912829ae-6a6d-41aa-9d46-cf5123d44dfc,household.network,resell,88,14,9,"Global Domains International, Inc. DBA DomainCostClub.com",03/05/2015 18:18,03/05/2026 18:18
 892f1bbc-71f6-4156-94a5-c6731d720907,howabout.network,available,64,7,9,,,
 39203a12-d48a-46f3-8d32-8151f79b7c35,howaboutno.network,available,66,2,12,,,
@@ -3425,7 +3426,7 @@ eacd0110-372e-4de5-ae9c-acd0e4a054b2,Ihearyousay.network,available,54,1,14,,,
 58376c25-d27e-4fe1-84d8-a9b55cbaf2df,IhopeImaybeshot.network,available,48,1,20,,,
 fd542b5e-1253-4181-95e0-efb57b0449a4,Ilikepie.network,available,54,2,10,,,
 f783c8a6-9660-43ea-a248-92198d13e644,illness.network,available,64,5,7,,,
-22ff31cc-45db-408b-b8fb-3f596442bbc8,illusion.network,resell,68,12,8,"Sav.com, LLC",16/04/2025 05:59,16/04/2026 05:59
+22ff31cc-45db-408b-b8fb-3f596442bbc8,illusion.network,resell,68,11,8,"Sav.com, LLC",16/04/2025 05:59,16/04/2026 05:59
 e04b7db5-a02f-4769-a1f3-fbbf8c1f0002,illustrated.network,available,68,5,11,,,
 c7a496cc-2ba4-4af4-a01a-02400add1c45,Iloveyou.network,available,60,22,10,,,
 8207b319-7515-45fc-8bef-a0cc393007b8,ilx.network,available,56,6,3,,,
@@ -3436,7 +3437,7 @@ c7a496cc-2ba4-4af4-a01a-02400add1c45,Iloveyou.network,available,60,22,10,,,
 35c02fc7-f6d5-421a-87cf-d5834ad88401,implausible.network,available,52,2,11,,,
 c535462a-ad7f-485d-b040-351c7496e381,implied.network,available,74,8,7,,,
 fda99392-7346-4eb3-94a1-f49f6589bf48,implying.network,available,64,2,8,,,
-b0666d79-91a9-4b93-ad08-57cf0c37d6ae,import.network,resell,94,16,6,Squarespace Domains II LLC,03/08/2022 09:14,03/08/2026 09:14
+b0666d79-91a9-4b93-ad08-57cf0c37d6ae,import.network,resell,94,15,6,Squarespace Domains II LLC,03/08/2022 09:14,03/08/2026 09:14
 05021ee6-a078-4537-b2be-41675f6439e6,importance.network,available,72,3,10,,,
 2ed7c9c9-ded1-47e7-a4bc-d15335ba6eb5,important.network,resell,78,12,9,Porkbun LLC,17/05/2022 18:39,17/05/2026 18:39
 8128e6f9-9c99-4cf6-a638-0ec852f47b14,importantly.network,available,56,2,11,,,
@@ -3455,7 +3456,7 @@ b0371987-c925-4bec-86b4-cc9d45cd7183,inbrief.network,available,62,4,8,,,
 27551f29-df64-4f64-a18a-4c621a7fc581,inc.network,resell,68,28,3,"Sav.com, LLC - 19",03/07/2024 15:16,03/07/2026 15:16
 802a2886-5f6a-4c46-ab19-077b9a514a26,incase.network,available,74,5,7,,,
 107f84f8-ad01-4959-8ebe-0e931dee4713,incentive.network,resell,90,15,9,Turkticaret.net Yazılım Hizmetleri Sanayi ve Ticaret A.Ş.,28/08/2016 19:55,28/08/2026 19:55
-ba6134e2-7d88-4270-ad87-86fff078e505,inch.network,resell,64,11,4,Dynadot Inc,16/05/2024 18:03,16/05/2026 18:03
+ba6134e2-7d88-4270-ad87-86fff078e505,inch.network,resell,64,10,4,Dynadot Inc,16/05/2024 18:03,16/05/2026 18:03
 ef8a74be-863d-4566-aabe-a57e73f66c4b,incidence.network,available,64,3,9,,,
 7b4f7f69-d1b4-478a-b0d3-d2313d546eca,incidental.network,available,76,4,10,,,
 5bfc993d-15c4-4aa1-8097-cd1992410a97,incidentreport.network,available,64,3,15,,,
@@ -3487,7 +3488,7 @@ e4ce6b1d-a960-47d1-93d1-a90c2e5ec4c2,indisposed.network,available,56,1,10,,,
 a1188cd0-907b-4204-b91e-5d7ab46f6114,indoaryan.network,available,60,3,10,,,
 991c6312-e7ab-459b-acaf-b450cee0da11,indorse.network,available,58,3,7,,,
 18abfff2-cfd2-4bfd-934b-49029a365931,induce.network,available,72,3,6,,,
-eada4be9-e9c5-4b2f-be13-5fe15899f6cf,industrial.network,resell,62,21,10,"Spaceship, Inc.",12/04/2023 17:00,12/04/2026 17:00
+eada4be9-e9c5-4b2f-be13-5fe15899f6cf,industrial.network,resell,62,20,10,"Spaceship, Inc.",12/04/2023 17:00,12/04/2026 17:00
 61476a93-3fd5-4280-82be-4ac262cae865,industrialize.network,available,66,2,13,,,
 349e9162-042f-4948-9c14-dbaf0ba070db,industry.network,resell,68,62,8,Dynadot Inc,05/08/2018 08:12,05/08/2027 08:12
 3e9a3b79-4da0-43a0-a0a3-24bf8067a9c3,inevitable.network,available,68,13,10,,,
@@ -3531,12 +3532,12 @@ e47d7896-22ef-46c5-b8f3-b9147a1b93cb,inplaceof.network,available,54,1,11,,,
 eefff2d4-560e-4046-bb31-7a14be9d14dd,insolvent.network,available,60,2,9,,,
 ff7d0e67-55e7-4ec5-924a-aff348aab397,inspirational.network,available,96,9,13,,,
 8043017b-c6e6-4c00-99c5-d1f3287c2bf1,inspire.network,resell,86,31,7,Porkbun LLC,20/02/2020 05:52,20/02/2027 05:52
-b181d1fa-5d95-4879-aba5-1ec762cb4136,inspired.network,resell,74,28,8,"Spaceship, Inc.",24/03/2021 18:01,24/03/2026 18:01
+b181d1fa-5d95-4879-aba5-1ec762cb4136,inspired.network,resell,74,27,8,"Spaceship, Inc.",24/03/2021 18:01,24/03/2026 18:01
 fe31e0a3-e010-446c-beb7-fc6f5769260a,inspiring.network,resell,92,13,9,"Spaceship, Inc.",09/08/2023 15:15,09/08/2026 15:15
 51feb2ee-c321-4198-95b5-a81de2b50f9a,inspiteof.network,available,48,2,11,,,
 bcf229ea-4436-4a5e-998f-7bca2a1b2709,Instagrammable.network,available,76,2,14,,,
 ad757e70-05d0-4a5c-88df-0fdd689708d1,instal.network,available,76,6,6,,,
-e2b16312-c891-40d2-82b2-77b7c0d1a491,instant.network,resell,108,31,7,"Global Domains International, Inc. DBA DomainCostClub.com",23/02/2025 15:15,23/02/2026 15:15
+e2b16312-c891-40d2-82b2-77b7c0d1a491,instant.network,resell,108,30,7,"Global Domains International, Inc. DBA DomainCostClub.com",23/02/2025 15:15,23/02/2026 15:15
 f5698f16-fb2e-454f-85c3-0b53b7bb73df,instantmessage.network,available,92,2,15,,,
 68eb9f89-c521-44ed-8864-5ef3d4371a08,instead.network,available,70,7,7,,,
 30556146-7b6b-42dd-b825-1aec295bc284,insteadof.network,available,48,4,10,,,
@@ -3547,7 +3548,7 @@ b29a61c1-fed0-4bff-8596-554ad209ba25,insulting.network,available,70,2,9,,,
 d5f8cae5-7dbc-4848-be43-7ef421c6ccdc,insurancecarrier.network,available,64,1,17,,,
 da5d9481-6378-419e-84d1-409f64297e1c,insure.network,resell,78,24,6,Dynadot Inc,15/03/2024 08:27,15/03/2026 08:27
 76190b6a-341e-4e3a-b5b0-968f6bfa74d4,intakesystem.network,available,64,1,13,,,
-a68f65f1-392f-44f9-a24f-3e08efa8e5ff,integrated.network,available,72,19,10,,,
+a68f65f1-392f-44f9-a24f-3e08efa8e5ff,integrated.network,available,72,20,10,,,
 22643742-b047-41b0-b23e-29c3b4c5cfd6,intend.network,available,80,5,6,,,
 2529d919-6577-41f8-97c8-e0c9894be715,intended.network,available,84,3,8,,,
 f6bd03d3-b648-421e-8ae6-0c736fae68ad,intensive.network,available,82,5,9,,,
@@ -3559,6 +3560,7 @@ f6bd03d3-b648-421e-8ae6-0c736fae68ad,intensive.network,available,82,5,9,,,
 e970c473-6983-4454-ab50-2f6ad1a2f59c,interpersonal.network,available,70,5,13,,,
 8a25b2ef-8c1a-4c9a-918b-fd50f27cbfcd,interpret.network,available,75,10,9,,,
 006bf8ba-372b-4ac1-a30a-0bb321c67b70,intersection.network,resell,68,13,12,"GoDaddy.com, LLC",24/03/2020 14:18,24/03/2026 14:18
+9178482e-250f-420d-b674-137eb7f8dad0,interstate.network,available,90,8,10,,,
 a1af8e84-e3e3-4b60-b78f-de3acdd04d4f,intervening.network,available,60,1,11,,,
 10e44120-c683-48fe-a222-d447ea534b53,interviewee.network,available,64,2,11,,,
 2ced3fe6-294c-4c2e-a95a-f11471e2327b,inthat.network,available,60,1,7,,,
@@ -3587,7 +3589,8 @@ ee4488a5-a8af-48ea-96e8-051891ea1dc8,invariably.network,available,62,1,10,,,
 13d64f78-34f0-4806-8f8a-1e59ce5b7478,inverted.network,available,48,8,8,,,
 1c106b77-5f7e-4cae-af42-8f02c11dc796,investmentbanking.network,available,70,5,18,,,
 1f8d66a5-93ba-4cc8-bc1d-8e0ab2e4e4d8,invigorate.network,available,78,6,10,,,
-9ec58db6-b2e7-414d-a7ad-9e88b1df90d5,invincible.network,resell,93,11,10,Dynadot Inc,04/10/2024 02:23,04/10/2026 02:23
+9ec58db6-b2e7-414d-a7ad-9e88b1df90d5,invincible.network,resell,93,10,10,Dynadot Inc,04/10/2024 02:23,04/10/2026 02:23
+67157fc9-9a07-422d-9e58-e069956e0018,invisible.network,resell,108,28,9,"Sav.com, LLC - 11",12/12/2023 15:16,12/12/2026 15:16
 0ddd1595-16fc-456a-832c-126c7dec07a0,invitation.network,resell,78,14,10,"Global Domains International, Inc. DBA DomainCostClub.com",05/07/2021 16:36,05/07/2026 16:36
 5a8eff2b-8324-428b-9bc7-dd12495332ad,inviting.network,available,88,4,8,,,
 6624a295-6855-40f1-bb08-0e7685e51fd8,involve.network,resell,80,12,7,Porkbun LLC,10/06/2024 23:38,10/06/2026 23:38
@@ -3599,7 +3602,7 @@ b96b9bdc-5bf6-40e6-8920-f459e07052b8,iron.network,resell,84,22,4,Porkbun LLC,20/
 480d983e-15dd-4d29-a55a-03315fab6684,ironic.network,available,70,8,6,,,
 8f6fc810-57ef-432f-8bc4-d1fe2bafcfc7,irons.network,available,62,5,5,,,
 1eaa6288-9f0a-401d-85c0-0ff37e93f208,irrational.network,available,78,7,10,,,
-bce1c675-7caa-4e95-a4de-3af4e94bc06f,irregular.network,available,78,8,9,,,
+bce1c675-7caa-4e95-a4de-3af4e94bc06f,irregular.network,available,78,7,9,,,
 752d2fd6-54fa-4888-b2bf-dc53f21edb96,irrelevant.network,available,60,10,10,,,
 002a63cb-d8ca-4099-aa84-db8fb069c7e1,irritable.network,available,58,1,9,,,
 25f48dcd-6eb0-4cc1-bfde-ba96aef10c6a,irritate.network,available,60,1,8,,,
@@ -3673,7 +3676,7 @@ d71f8f6c-535c-41d6-9582-6945c0ec4448,keeping.network,available,80,8,7,,,
 1601585c-2545-4a59-9471-bdf234773d8a,keepsomeonecompany.network,available,76,1,20,,,
 29fedb79-1a34-484d-a024-2622f8228c4f,keepthepeace.network,available,72,2,14,,,
 4b1c089e-dd0a-4de3-bf63-909e29df6649,keister.network,available,34,2,7,,,
-88b014fb-e41b-450e-90cb-4ad86552a9c6,kept.network,available,66,11,4,,,
+88b014fb-e41b-450e-90cb-4ad86552a9c6,kept.network,available,66,12,4,,,
 98f40844-0510-44b1-965e-48a72a852bfc,khakis.network,available,74,2,6,,,
 5bb3bc66-2147-47cd-af99-ce2431977d2e,kicking.network,available,78,4,7,,,
 bdfc9c56-4cc9-4f8f-b65a-0ba299fd0274,kid.network,resell,74,21,3,"Spaceship, Inc.",11/10/2023 15:15,11/10/2026 15:15
@@ -3683,7 +3686,7 @@ bdfc9c56-4cc9-4f8f-b65a-0ba299fd0274,kid.network,resell,74,21,3,"Spaceship, Inc.
 ff015e7a-35bd-4e04-9c94-e2a58be02caf,kilogramme.network,available,66,1,10,,,
 fccbda7f-2dd4-4b8d-b088-9da90258584c,kilometer.network,available,70,5,9,,,
 73fb7d3f-2f5c-407d-b39a-c86eccc5f11f,kilometre.network,available,70,2,9,,,
-681341e3-1326-481a-b586-752662f817d0,kind.network,resell,100,29,4,"Sav.com, LLC - 2",21/04/2025 15:15,21/04/2026 15:15
+681341e3-1326-481a-b586-752662f817d0,kind.network,resell,100,28,4,"Sav.com, LLC - 2",21/04/2025 15:15,21/04/2026 15:15
 e37e102a-5037-411b-a464-bf3090c694aa,Kinder.network,available,72,15,6,,,
 005292d2-04a1-4e85-9b21-b268a9c4b5bb,kindof.network,available,62,6,7,,,
 af9a95fb-afaf-4d64-b252-9adcbf7698d7,kingjames.network,available,75,5,10,,,
@@ -3699,7 +3702,7 @@ a17ad095-b611-452d-98f6-210f7d697c51,kneedeep.network,available,54,3,9,,,
 3629aaeb-f0c1-4bc1-8615-bdc778bb104c,knockover.network,available,66,1,10,,,
 063707b9-33cc-4ee5-93e1-db1568a2269f,knotty.network,available,52,6,6,,,
 07606d87-a868-448d-9eb4-006d432d013f,know.network,resell,116,32,4,Dynadot Inc,02/04/2019 07:44,02/04/2026 07:44
-b8dc8642-529c-45c6-a748-48cdd2635b5d,knowing.network,available,94,11,7,,,
+b8dc8642-529c-45c6-a748-48cdd2635b5d,knowing.network,available,94,10,7,,,
 97c692f1-5e23-4bb2-8549-468b777572d3,kookie.network,available,72,6,6,,,
 57edfab2-4047-4889-86f5-cc565c21d406,label.network,resell,70,32,5,Dynadot Inc,02/09/2023 15:15,02/09/2026 15:15
 61d889a3-277f-4dac-8044-dde281d2d235,laborday.network,available,68,3,9,,,
@@ -3708,7 +3711,7 @@ b8dc8642-529c-45c6-a748-48cdd2635b5d,knowing.network,available,94,11,7,,,
 fff73fc9-74f3-4fc1-be52-9b45431b0360,labour.network,available,62,11,6,,,
 d09dc01b-596c-415d-9ab8-d32ba56b898c,lacking.network,available,82,5,7,,,
 1c949eef-a5a5-4d8a-aed7-7fadf269b240,ladder.network,resell,94,19,6,"Sav.com, LLC - 34",22/07/2025 15:15,22/07/2026 15:15
-efd5ead9-e61e-4619-83bd-371c91d2c5bf,lag.network,available,64,12,3,,,
+efd5ead9-e61e-4619-83bd-371c91d2c5bf,lag.network,available,64,11,3,,,
 d5758531-1ab9-4826-a7bc-d9ab362c7742,lager.network,available,88,9,5,,,
 c9095ec5-74a9-4569-987d-a7762129cfac,laid.network,available,66,4,4,,,
 bda8694a-028d-4e1e-96f1-d68149179f73,lake.network,resell,72,24,4,"Global Domains International, Inc. DBA DomainCostClub.com",13/02/2025 15:15,13/02/2026 15:15
@@ -3731,7 +3734,7 @@ a73e5327-a14b-4c4c-885e-6ad2c5f3464e,lately.network,available,64,5,6,,,
 d9c862f6-a4a0-4f02-a28e-1f1b6500b23c,later.network,available,74,15,5,,,
 e6724106-acfa-42c8-ba62-d0475fec5683,lateron.network,available,40,2,8,,,
 ade198d2-4771-4a20-b1e5-7f84c384b24c,Latinalphabet.network,available,72,1,14,,,
-507cfca0-f711-4bae-bb4a-6e6cbcbde89a,latter.network,available,72,6,6,,,
+507cfca0-f711-4bae-bb4a-6e6cbcbde89a,latter.network,available,72,7,6,,,
 6fed5310-f840-46b0-ad19-b7c67785687d,laudable.network,available,58,4,8,,,
 c129b624-cdde-4f44-b73b-c997c7bc11f5,laughable.network,available,68,3,9,,,
 8e81697c-fd5b-4b0e-a89c-ee143732d12d,laughter.network,available,76,7,8,,,
@@ -3755,7 +3758,7 @@ ff6fbaa0-5ea7-4c9c-9b35-12b7fc54bba8,leash.network,available,90,7,5,,,
 4568c280-2e69-4d6b-97e5-0c1fdf3a4d30,leather.network,resell,64,16,7,"Sav.com, LLC",02/02/2023 05:40,02/02/2026 05:40
 50b554f4-810b-4833-9389-351f00543ea2,leaveout.network,available,66,1,9,,,
 da3c28be-5992-4433-bfa7-1c66fc5bab3e,leavethedooropen.network,available,80,1,19,,,
-61045831-f567-4e95-9855-ef572435c95b,leaving.network,available,76,5,7,,,
+61045831-f567-4e95-9855-ef572435c95b,leaving.network,available,76,4,7,,,
 44b6452a-c55b-4386-b83c-9ce5b540e2c8,lecture.network,available,96,7,7,,,
 cccfde5d-281e-465b-970c-356afd57941b,leg.network,available,116,11,3,,,
 8e479529-9c70-414c-9378-c5f3cc354f36,legalheir.network,available,67,2,10,,,
@@ -3770,7 +3773,7 @@ b0de8dd5-0e73-4898-879f-76a787a24642,lenitive.network,available,84,1,8,,,
 79e40f74-9497-4d14-97e0-33f7c4ef14e1,lens.network,available,62,21,4,,,
 47567527-fe3c-43fc-a929-9e592c75ec00,les.network,available,60,19,3,,,
 2fbfcc02-182e-4269-b686-203628ce463f,less.network,resell,120,23,4,Porkbun LLC,09/04/2023 17:12,09/04/2026 17:12
-8aff5bc7-4b56-429a-98b8-ff5543bf9747,lesson.network,resell,98,11,6,"Sav.com, LLC",02/02/2023 05:44,02/02/2026 05:44
+8aff5bc7-4b56-429a-98b8-ff5543bf9747,lesson.network,resell,98,10,6,"Sav.com, LLC",02/02/2023 05:44,02/02/2026 05:44
 82464aa0-2c25-4c32-ac66-31bedd661b91,letalone.network,available,52,1,9,,,
 661d9a66-9a08-44b7-afd5-d6cc0eedaacb,letgo.network,available,72,11,6,,,
 c546e536-8119-42cb-ae03-db684cdfc177,letloose.network,available,82,3,9,,,
@@ -3819,10 +3822,10 @@ ceafa922-1fff-483d-bc24-178fc709c21f,liii.network,available,56,4,4,,,
 0e63518e-0adf-4729-ad1f-11614075a848,like.network,resell,84,25,4,"Spaceship, Inc.",10/10/2021 13:15,10/10/2026 13:15
 82470835-19fd-4989-a955-172a7e0e7f32,liked.network,available,76,5,5,,,
 daff81be-0f26-4e32-bf7a-ded2045a1a1a,likehell.network,available,40,1,9,,,
-db62fe58-1cab-45c6-b94a-363f7a5b4866,likely.network,available,72,8,6,,,
+db62fe58-1cab-45c6-b94a-363f7a5b4866,likely.network,available,72,9,6,,,
 53dd0650-9a51-4393-9ca6-b38afd15db00,limestone.network,resell,64,11,9,Edomains LLC,12/09/2024 15:15,12/09/2026 15:15
 397d2f3a-de2a-4234-99cb-a1edca95677e,limitation.network,available,56,3,10,,,
-1ef1db33-502f-40b9-bd7a-14876e28952d,limiting.network,available,65,2,8,,,
+1ef1db33-502f-40b9-bd7a-14876e28952d,limiting.network,available,65,1,8,,,
 a91a9c34-0e1d-4bef-807e-e2e7b9d87ce1,limo.network,available,78,16,4,,,
 3e554d81-3c08-4d29-9fc5-e30f917b8a9d,lindsay.network,available,70,15,7,,,
 887a05ce-8a40-406c-bb62-3f2068c50781,line.network,available,74,20,4,,,
@@ -3833,8 +3836,8 @@ ae9f21a3-c961-4066-b4ac-35f882c01e65,linked.network,resell,64,25,6,"Spaceship, I
 e04f44d7-8eb9-48a6-9301-82fe5a8fa22d,lisbon.network,available,90,12,6,,,
 1a8fa30a-1642-4301-87ca-587b3808b7de,listen.network,resell,104,25,6,Dynadot Inc,26/02/2019 18:30,26/02/2026 18:30
 1104f310-2501-4690-b06a-4cb4eacaa737,listenin.network,available,68,4,9,,,
-f0533527-b6dd-4c93-98e5-cac356142fb6,lit.network,resell,78,37,3,Porkbun LLC,29/06/2024 15:15,29/06/2026 15:15
-99316af8-52c0-4bb2-b1e1-7280bc7fb1d9,literal.network,available,82,9,7,,,
+f0533527-b6dd-4c93-98e5-cac356142fb6,lit.network,resell,78,36,3,Porkbun LLC,29/06/2024 15:15,29/06/2026 15:15
+99316af8-52c0-4bb2-b1e1-7280bc7fb1d9,literal.network,available,82,8,7,,,
 fec8e465-0c1a-46be-91c5-78d48de293e7,literally.network,available,60,9,9,,,
 0ad1f78b-78a2-4f21-b89a-9a29d0e62469,lithuania.network,available,60,4,9,,,
 56563a52-3a6a-47f9-9353-531c1c65a1a3,littleblackdress.network,available,76,2,18,,,
@@ -3856,7 +3859,7 @@ c025eb9f-6c4f-42f1-84aa-c9f7c26fb048,loft.network,available,64,27,4,,,
 382c37b6-e5ec-43b4-850e-f6d0135f68b9,longdozen.network,available,62,1,10,,,
 03654508-1d73-4536-8f63-033bb93cebd3,longer.network,available,74,10,6,,,
 8df15e96-45ed-4fb1-9448-51ad398347c9,longest.network,available,64,5,7,,,
-ab264899-de9b-468b-bbfb-85e5da87c1fe,look.network,resell,80,28,4,"NameSilo, LLC",18/05/2018 08:08,18/05/2026 08:08
+ab264899-de9b-468b-bbfb-85e5da87c1fe,look.network,resell,80,27,4,"NameSilo, LLC",18/05/2018 08:08,18/05/2026 08:08
 4eece66c-e826-4cee-b828-ea84528edf4e,lookback.network,available,72,5,9,,,
 987bdd98-644d-4da1-87af-59a9e176beee,lookingat.network,available,64,2,10,,,
 afb88511-1d2b-481d-adc3-998d25000db7,lookinto.network,available,70,2,9,,,
@@ -3872,7 +3875,7 @@ e9b6d275-aaf0-4e90-b344-af9fb85b98e4,loosely.network,available,60,2,7,,,
 49de972d-5053-4443-b89d-f2f0c1e921cc,lorry.network,available,91,7,5,,,
 9f588dcc-f2a4-46c2-a468-80ac9ea5e13e,lose.network,available,56,9,4,,,
 f0f840b5-945c-4b9e-ae9a-fb8793deca65,lost.network,resell,66,27,4,"Sav.com, LLC",02/08/2025 17:12,02/08/2026 17:12
-3d42cc16-3e61-4f91-b144-08688f100b6d,loud.network,available,60,22,4,,,
+3d42cc16-3e61-4f91-b144-08688f100b6d,loud.network,resell,60,22,4,"Sav.com, LLC",12/12/2025 05:36,12/12/2026 05:36
 23670d41-87fd-4694-9859-7fef70975286,loved.network,resell,80,12,5,"GoDaddy.com, LLC",24/07/2025 11:14,24/07/2026 11:14
 3f6993dd-c67a-4652-b5a8-2900b6d619e6,lovesome.network,available,68,3,8,,,
 47e0a2c0-6121-4cb3-b56e-da98fbb50ecb,low.network,available,78,16,3,,,
@@ -3889,7 +3892,7 @@ f8a9aaf3-7c63-43a2-ac22-0d48f0d62359,lowly.network,available,54,5,5,,,
 7fcd0367-de7a-4371-9827-dda6d954cf21,lowlying.network,available,56,1,9,,,
 1fcee806-ff44-4726-9bfe-b24fa795e2f4,lowpriced.network,available,66,1,10,,,
 833d16ba-d904-4ab5-a0c0-871b8393c6d1,lowrise.network,available,84,2,8,,,
-197eb6b5-eafc-473e-9229-dba7c86385e3,lowtech.network,available,60,7,8,,,
+197eb6b5-eafc-473e-9229-dba7c86385e3,lowtech.network,available,60,6,8,,,
 a82903c3-ff70-477c-935a-a645c83c56c8,loyal.network,resell,76,20,5,"Sav.com, LLC",02/09/2024 17:14,02/09/2026 17:14
 3ce143f6-a02a-4b32-aca5-74006db8a595,lp.network,resell,66,22,3,Dynadot Inc,22/09/2020 11:27,22/09/2026 11:27
 0ec2d186-66c2-4753-bc45-97758099484a,lplate.network,available,64,1,7,,,
@@ -3897,7 +3900,7 @@ a82903c3-ff70-477c-935a-a645c83c56c8,loyal.network,resell,76,20,5,"Sav.com, LLC"
 4bf85e72-b74b-477b-8f9d-599b7b1f0b12,luckout.network,available,78,1,8,,,
 5fd24465-01d7-4fc4-8c2e-5dc2ffd10e31,lucky.network,resell,76,36,5,Porkbun LLC,03/02/2020 12:59,03/02/2026 12:59
 774844a6-5d2e-4b4b-b0ab-7454209260a7,luckystreak.network,available,76,4,12,,,
-8268416b-e76f-438f-adbe-7b3e09dd6d87,lucrative.network,available,70,6,9,,,
+8268416b-e76f-438f-adbe-7b3e09dd6d87,lucrative.network,available,70,5,9,,,
 3c82ae77-605b-4c48-99be-b2a92369a615,luncheon.network,available,96,3,8,,,
 2fac2757-9d1c-4ad4-bd40-9541d36b465e,luncheonmeat.network,available,74,1,13,,,
 301af0db-f8ed-4f14-aec5-f9e6c5740a97,lunchmeat.network,available,74,2,10,,,
@@ -3993,13 +3996,12 @@ f552656d-5c6d-4e1a-87ed-4f7822b67873,married.network,available,90,7,7,,,
 3b926f49-a8d4-48bd-b701-2c2552cdd7d8,masculine.network,available,84,5,9,,,
 a7b1e0f1-a779-45b0-844d-a3ebf5ee1b6f,mash.network,resell,62,22,4,Porkbun LLC,08/06/2024 19:11,08/06/2026 19:11
 856b8cdb-f45f-40e8-8fdb-ebb0987d3106,masses.network,available,64,4,6,,,
-6fb5ecda-6f33-4921-b520-eb6a86e8aa15,massive.network,resell,98,25,7,"NameSilo, LLC",10/01/2020 18:01,10/01/2026 18:01
-b331e5ea-27b7-48ba-b583-d5c97447c159,master.network,resell,94,29,6,"NameSilo, LLC",10/07/2018 21:16,10/07/2026 21:16
+b331e5ea-27b7-48ba-b583-d5c97447c159,master.network,resell,94,28,6,"NameSilo, LLC",10/07/2018 21:16,10/07/2026 21:16
 243be719-a370-44fb-8436-11fca02c2101,Mastercard.network,available,86,12,10,,,
 40acd6a4-61da-41c2-bec5-7183a0c0bb0b,masterful.network,available,74,8,9,,,
 3c5f096e-73d4-4fef-bdc0-d4894910a690,match.network,available,102,19,5,,,
 23fd8ab9-3bc1-4ce9-babd-e77b79fe0cb3,matched.network,available,78,7,7,,,
-18f83a9e-4e15-4bfa-a4f9-604f0df291db,maternal.network,available,86,5,8,,,
+18f83a9e-4e15-4bfa-a4f9-604f0df291db,maternal.network,available,86,4,8,,,
 5c4f9c53-8a28-430a-9449-aec71f143829,matisse.network,available,80,6,7,,,
 0ce192db-bed7-42f1-8352-0f19de728c88,matrixgroup.network,available,64,5,12,,,
 914e143d-1624-4e81-a66f-a360d71f6ca7,matter.network,resell,63,30,6,"Sav.com, LLC",14/03/2021 11:13,14/03/2026 11:13
@@ -4012,12 +4014,12 @@ bb36b816-f4bd-43d5-b0bf-615b6fdbd195,mazed.network,available,45,4,5,,,
 b4d12106-4e6d-4f32-833d-8de2d719cf3f,McMuffin.network,available,82,2,8,,,
 8505731b-93e3-4121-8fff-f1afb2c9e4a6,mealdeal.network,available,72,4,9,,,
 90502330-bf4a-4897-801a-22ec67943504,mealvoucher.network,available,72,1,12,,,
-47010ca0-5b6d-4018-9d38-89716ab97dcf,meantime.network,available,82,5,8,,,
+47010ca0-5b6d-4018-9d38-89716ab97dcf,meantime.network,available,82,6,8,,,
 c66dbcc0-d46b-4f05-920e-32b334570a7d,meanwhile.network,available,80,11,9,,,
 150e1291-8611-4e70-ba8d-1b8fb0803078,measles.network,available,62,3,7,,,
 ff60d6f4-ece5-4121-a943-ce1a34b0022e,measuring.network,available,67,4,9,,,
-9b2a4feb-d42f-40a4-b2c2-a7b1bdb81872,mechanic.network,available,62,13,8,,,
-b4d9408a-133e-4637-95a1-2eae248108f4,mechanical.network,available,84,14,10,,,
+9b2a4feb-d42f-40a4-b2c2-a7b1bdb81872,mechanic.network,available,62,12,8,,,
+b4d9408a-133e-4637-95a1-2eae248108f4,mechanical.network,available,84,13,10,,,
 68bbafe1-31a9-4623-a43e-78a0abc3df01,medals.network,available,66,6,6,,,
 14e17be8-8b4c-406c-b0b5-01d077ac4e6a,meddle.network,available,66,4,6,,,
 d451b680-9082-450c-8caf-3f4e67465ce3,medicalreport.network,available,64,2,14,,,
@@ -4045,7 +4047,7 @@ f8eb5506-19d0-412c-a1e5-5198396e2b61,merger.network,resell,72,12,6,"Sav.com, LLC
 1dda104f-94e4-4ec6-b27c-6efc5ed2948d,metre.network,available,92,5,5,,,
 667a21fe-0f54-4326-a104-6dbc37b97ce0,metric.network,resell,104,18,6,"Spaceship, Inc.",25/10/2021 06:34,25/10/2026 06:34
 3c1298bd-141f-4790-bca3-dc9e2c5e36ff,mexican.network,available,84,15,7,,,
-64fc2321-7e74-4c7d-a3ad-dd23a322ae0e,micro.network,resell,66,33,5,Dynadot Inc,24/04/2025 15:15,24/04/2027 15:15
+64fc2321-7e74-4c7d-a3ad-dd23a322ae0e,micro.network,resell,66,33,5,Dynadot Inc,24/04/2025 15:15,24/04/2028 15:15
 b285d503-fd84-4dbc-a9f9-900d1d6c30bb,microphone.network,available,98,9,10,,,
 c8690c10-22a9-436b-bf70-9a99ba18e80b,microwave.network,available,94,8,9,,,
 aaefe5bd-2b4a-4c6b-82f3-754a05dc858d,MiddleAges.network,available,58,2,11,,,
@@ -4063,18 +4065,18 @@ feb80917-8961-4a96-af68-c4747862776a,miffed.network,available,41,1,6,,,
 59dc9a36-0d10-4415-8aaa-970074e36e4c,militant.network,available,72,4,8,,,
 3264ad3c-bc8f-4f62-9f55-82655b89c042,milk.network,resell,74,27,4,"NameCheap, Inc.",10/06/2021 09:13,10/06/2026 09:13
 76418273-5323-4d04-b611-4446268bcaa2,mill.network,resell,80,19,4,Porkbun LLC,17/11/2018 16:55,17/11/2026 16:55
-1869ca60-8318-4b9d-a5b9-7ff97a8aa564,million.network,resell,82,21,7,"Spaceship, Inc.",31/07/2023 17:00,31/07/2026 17:00
+1869ca60-8318-4b9d-a5b9-7ff97a8aa564,million.network,resell,82,20,7,"Spaceship, Inc.",31/07/2023 17:00,31/07/2026 17:00
 c5bdaba3-0391-4dcc-b67b-5e08e2c1863d,mincepie.network,available,76,1,9,,,
 c93ded20-0fc0-49a6-bab1-953041154a55,mindless.network,available,34,12,8,,,
 8eb7a6e3-fb65-482b-9e6b-9505e0fed437,Minecraft.network,available,87,35,9,,,
 0d1157a6-c1cb-442f-a0a4-4538d5c62214,minimum.network,available,84,15,7,,,
 eab9827e-0f7a-4d9b-aea5-40da6058f843,minor.network,available,80,12,5,,,
-dd7d833f-73d9-4dc1-9f7d-86eec41ee155,minuscule.network,available,78,4,9,,,
+dd7d833f-73d9-4dc1-9f7d-86eec41ee155,minuscule.network,available,78,3,9,,,
 f5fac180-3e53-41c1-9a61-57372a0be304,mirror.network,resell,96,29,6,Porkbun LLC,25/02/2020 08:21,25/02/2028 08:21
 dce30ed4-934e-411c-92bf-25f0e4966593,misbegot.network,available,39,1,8,,,
 1c3520e8-2a0f-4dd3-ba93-9bcd03c10704,miserable.network,available,70,4,9,,,
 a4c4e3b9-497e-4630-89bf-68f94f57c2d1,Misses.network,available,72,4,6,,,
-0b20f377-7b0c-4423-bfcb-767607dce81f,missile.network,available,70,8,7,,,
+0b20f377-7b0c-4423-bfcb-767607dce81f,missile.network,available,70,7,7,,,
 0e7cc477-0e6c-44f0-848c-2f4b9ae6cfc0,mission.network,resell,72,36,7,"Global Domains International, Inc. DBA DomainCostClub.com",12/03/2015 15:05,12/03/2026 15:05
 4a33d6a9-6796-4c68-93e4-e7be3bedeb9a,mister.network,resell,72,26,6,Dynadot Inc,18/07/2025 17:00,18/07/2026 17:00
 8848230b-0d70-4dcf-b43c-c86e44423ecb,mitigative.network,available,66,1,10,,,
@@ -4088,13 +4090,13 @@ c821e97b-b529-47f2-acb2-197c187281d5,MMR.network,available,80,9,3,,,
 1b16876b-f971-45d4-98fd-0e826940ad4c,mobiletelephone.network,available,74,1,16,,,
 34abf598-a9a6-442d-87d8-facf3ca8bfde,mobmentality.network,available,56,1,13,,,
 92be5efd-253e-477b-b0f3-8ff1ac63803e,mockturtleneck.network,available,71,2,15,,,
-c10c861a-91ed-49b6-8ecb-c3be7e40a22f,model.network,resell,122,29,5,"Go France Domains, LLC",10/12/2014 16:15,10/12/2026 16:15
+c10c861a-91ed-49b6-8ecb-c3be7e40a22f,model.network,resell,122,28,5,"Go France Domains, LLC",10/12/2014 16:15,10/12/2026 16:15
 db7603fa-7e56-4ea7-8137-f566ae1ddc0f,modeler.network,available,74,4,7,,,
 97e37fc6-96b4-4ebb-8ce3-2f3f8c65ba01,modeller.network,available,70,4,8,,,
 e253f7a4-9098-453b-98ec-3d35afaeb30c,modelt.network,available,80,4,7,,,
 01fb8e0c-966a-4115-a69f-3085bd38a20f,moderately.network,available,56,2,10,,,
 3281ef47-a5bd-46d5-950e-946656a95cff,moderator.network,available,74,8,9,,,
-32756387-3a3e-4e33-9de3-ad870dc857ea,modern.network,resell,94,30,6,Dynadot Inc,26/02/2020 23:54,26/02/2026 23:54
+32756387-3a3e-4e33-9de3-ad870dc857ea,modern.network,resell,94,29,6,Dynadot Inc,26/02/2020 23:54,26/02/2026 23:54
 71f25871-c1b4-4400-b7eb-1cdeb499739f,modernday.network,available,70,5,10,,,
 062067a3-c121-4369-bb57-f0581fa7a458,modernistcuisine.network,available,76,3,17,,,
 9691d571-1588-4462-b131-3a33e5f06f85,modesty.network,available,78,7,7,,,
@@ -4106,7 +4108,7 @@ ead3cdf7-247f-45a2-bf80-1af9c5f40172,moneymarketfund.network,available,72,2,17,,
 f1f5bde6-fba9-4fae-b191-6921ee2585aa,moneysupply.network,available,72,2,12,,,
 68396805-7468-4756-9cb7-a26d8b9148dd,monitory.network,available,54,4,8,,,
 44f532ca-841b-45c9-a900-d6eded22edc5,monkey.network,resell,66,35,6,Squarespace Domains II LLC,25/02/2024 15:15,25/02/2026 15:15
-84d746d2-7d77-4895-b124-aa89fef9cddd,mono.network,resell,84,33,4,Porkbun LLC,03/02/2018 20:58,03/02/2027 20:58
+84d746d2-7d77-4895-b124-aa89fef9cddd,mono.network,resell,84,32,4,Porkbun LLC,03/02/2018 20:58,03/02/2027 20:58
 f76c8e55-19e0-4048-a405-f869405a2219,monopoly.network,available,64,17,8,,,
 2947eadf-2518-437c-8810-ec98ee40ff5a,monstrous.network,available,46,6,9,,,
 6bd332e0-6cb9-40b4-89bd-be44ddbcc389,month.network,available,74,8,5,,,
@@ -4115,8 +4117,8 @@ f76c8e55-19e0-4048-a405-f869405a2219,monopoly.network,available,64,17,8,,,
 4ef2d40e-2883-4fa3-b7dc-af0d8ff9550e,mop.network,available,72,11,3,,,
 1204cb48-cdc8-429a-9c72-7ebd26aa331c,mopeabout.network,available,,1,10,,,
 a0a072d0-66b5-4270-b362-6a565efe92d0,mordacious.network,available,44,1,10,,,
-8740e3e3-045b-421c-b00f-983e765b2cbc,more.network,resell,76,37,4,Dynadot Inc,04/03/2018 23:48,04/03/2026 23:48
-083c5dad-b343-4955-b046-17a0f68289a2,most.network,resell,118,21,4,Porkbun LLC,27/04/2025 06:58,27/04/2026 06:58
+8740e3e3-045b-421c-b00f-983e765b2cbc,more.network,resell,76,36,4,Dynadot Inc,04/03/2018 23:48,04/03/2026 23:48
+083c5dad-b343-4955-b046-17a0f68289a2,most.network,resell,118,20,4,Porkbun LLC,27/04/2025 06:58,27/04/2026 06:58
 687367cc-c7c8-41fc-876b-20f5fe17f04e,mostly.network,available,67,10,6,,,
 1727fdc1-c17f-41b5-8cc0-e55f7b2bc9c8,mothafucka.network,available,62,1,10,,,
 a7999cd1-d886-47fa-847c-49c64a063da7,mothafucker.network,available,62,1,11,,,
@@ -4133,7 +4135,7 @@ d3a4305b-8ab0-4d36-af89-ff3141b42546,motherfukkah.network,available,62,1,12,,,
 136e4870-a691-44d9-9cb3-7247da70f129,motherfukker.network,available,62,1,12,,,
 8fee3793-2c64-4d80-8a49-4be6740bb4c4,motion.network,resell,102,33,6,"NameSilo, LLC",11/04/2018 22:08,11/04/2026 22:08
 94c911fd-1131-40f2-b37d-bd5bbca38608,motive.network,available,112,12,6,,,
-f98259b8-d2a7-47df-8fce-9260b1206d4b,motor.network,resell,72,23,5,Porkbun LLC,20/08/2020 12:24,20/08/2027 12:24
+f98259b8-d2a7-47df-8fce-9260b1206d4b,motor.network,resell,72,22,5,Porkbun LLC,20/08/2020 12:24,20/08/2027 12:24
 e3e70d02-09d0-4f29-bb5e-50d101355522,mouth.network,available,96,12,5,,,
 0e23b48b-347d-4ef3-a7ec-1a38605ae68e,mouthless.network,available,34,1,9,,,
 82829f43-776e-4c1e-af25-239f1b8a217a,move.network,resell,109,35,4,"Global Domains International, Inc. DBA DomainCostClub.com",02/04/2015 15:01,02/04/2026 15:01
@@ -4193,7 +4195,7 @@ ba128087-a340-4441-9e7a-688495d3adcb,necessary.network,available,66,9,9,,,
 41f8b771-3e18-4698-bdaf-f591dd4dfd65,necessity.network,available,72,5,9,,,
 057cc96c-0726-4b05-8e7b-f45049ab5530,neck.network,available,90,9,4,,,
 b5a6ba5a-5883-40ce-92cf-4babeb30eda3,nectarous.network,available,62,2,9,,,
-6274ed38-7679-43a5-bedb-5bfdbbb6a8be,need.network,resell,104,27,4,Squarespace Domains II LLC,19/02/2023 17:00,19/02/2026 17:00
+6274ed38-7679-43a5-bedb-5bfdbbb6a8be,need.network,resell,104,26,4,Squarespace Domains II LLC,19/02/2023 17:00,19/02/2026 17:00
 217dfb85-fce9-4cc4-a0ec-f78b6e87a8a8,needing.network,available,70,2,7,,,
 09d1209d-4dab-4404-9ad8-89a47c8cfb8c,needle.network,resell,64,11,6,Porkbun LLC,09/06/2024 00:24,09/06/2026 00:24
 d2d50f18-d0b6-4e98-8446-5222678afb05,needlelike.network,available,50,1,10,,,
@@ -4209,7 +4211,7 @@ a6cb330b-0a1c-4e1f-8e89-b963a83d9b5f,Netherlands.network,available,,4,11,,,
 17157477-8286-49df-9d7c-dd4816e32dbe,nettled.network,available,45,1,7,,,
 435f7c78-29cf-44e6-8008-d7f2f8d1f381,nettlesome.network,available,41,1,10,,,
 8e01ad7e-3872-4a9f-a6ef-306e16925339,nevada.network,available,58,15,6,,,
-5300ce2a-ef12-4f2c-9fd8-5e6d07d545d9,new.network,resell,82,36,3,"Spaceship, Inc.",25/01/2024 15:15,25/01/2027 15:15
+5300ce2a-ef12-4f2c-9fd8-5e6d07d545d9,new.network,resell,82,34,3,"Spaceship, Inc.",25/01/2024 15:15,25/01/2027 15:15
 c7821644-88b4-45db-9e65-b6401a831c91,newbie.network,available,68,16,6,,,
 79a2066d-ad2d-4507-b07a-534a78dbab3e,news.network,available,100,56,4,,,
 f1a7a43a-df2e-4ce2-b0f0-f979ea40026e,newsgroup.network,available,64,4,9,,,
@@ -4258,10 +4260,9 @@ ea42df39-5c51-4458-afc1-0133f55a62d4,norfolk.network,available,84,12,7,,,
 0b96605f-f389-4cb0-aaa6-17e0308c0f08,normality.network,available,70,4,9,,,
 1cfa7336-ec54-45e6-821c-b2eb31bc6fc8,normally.network,available,66,3,8,,,
 494cf4a1-5416-4260-b28d-4376301446b6,normandy.network,available,54,7,8,,,
-21d35791-ac96-42e9-8c11-3f569985f8d7,north.network,resell,76,26,5,"Spaceship, Inc.",20/07/2023 15:15,20/07/2026 15:15
+21d35791-ac96-42e9-8c11-3f569985f8d7,north.network,resell,76,25,5,"Spaceship, Inc.",20/07/2023 15:15,20/07/2026 15:15
 5b183e21-5d6d-4fc7-9d89-643311149fee,northandsouth.network,available,62,3,15,,,
-c491b716-62d2-4a82-b8b0-c2234e47e12b,northern.network,resell,96,18,8,"Sav.com, LLC - 26",12/01/2022 13:15,12/01/2026 13:15
-5b96f08e-f64e-4a8c-92d1-c55f3180c64b,norwegian.network,available,68,16,9,,,
+5b96f08e-f64e-4a8c-92d1-c55f3180c64b,norwegian.network,available,68,15,9,,,
 f6faba15-fb0c-4d53-a8a4-c14b659bba22,noseabout.network,available,,2,10,,,
 8cec62c9-dbd6-4b89-90cc-8920559cfed6,notatall.network,available,74,2,10,,,
 809dc58f-15e1-4ee3-9dfc-25f114866744,note.network,resell,68,30,4,"NameCheap, Inc.",15/03/2015 21:51,15/03/2026 21:51
@@ -4281,7 +4282,7 @@ f691adf0-cce7-409f-85a7-b0e8ef32cc76,nought.network,available,92,4,6,,,
 d929be19-5907-47f4-ae2c-6b2d6ff329ec,nowfor.network,available,,2,7,,,
 bbe99619-ae2c-474d-809a-5247117b7ccf,nowhearthis.network,available,,2,13,,,
 d0f5a9b9-c5c6-4987-b7f4-b28b3e9d6ae9,nowthat.network,available,,1,8,,,
-57ad10d3-6405-4fce-96d0-4b26a6242e26,nuclear.network,resell,76,24,7,Dynadot Inc,25/01/2022 17:00,25/01/2026 17:00
+57ad10d3-6405-4fce-96d0-4b26a6242e26,nuclear.network,resell,76,23,7,Dynadot Inc,25/01/2022 17:00,25/01/2026 17:00
 400b822a-fe81-4bf8-bf57-f36bbcf981b2,nude.network,resell,86,21,4,Dynadot Inc,22/07/2025 17:00,22/07/2026 17:00
 df756bff-6cc6-41b1-9564-a65368058d8f,numlock.network,available,66,4,8,,,
 c3cd5a95-4ba7-4969-8da6-3c04859e9a72,nun.network,available,64,9,3,,,
@@ -4339,10 +4340,10 @@ c9e07db5-663a-4ca9-89d5-71109efee900,ohmyfuck.network,available,64,1,10,,,
 b07415ea-9ee2-425e-af71-762ac361b978,ohmygosh.network,available,78,5,8,,,
 26a1cbeb-cfcb-4639-9b9f-09b8904a77b1,ohoh.network,available,72,6,5,,,
 ddb77b25-48fe-474a-8d6c-5af5d39c580e,ohreally.network,available,60,3,9,,,
-d18833f5-7d16-425b-9335-10a772b16f73,oil.network,resell,74,22,3,Dynadot Inc,24/03/2017 11:26,24/03/2026 11:26
+d18833f5-7d16-425b-9335-10a772b16f73,oil.network,resell,74,21,3,Dynadot Inc,24/03/2017 11:26,24/03/2026 11:26
 c3b87eb6-c7d3-43a9-86cb-7ad657b3484d,oilterminal.network,available,58,1,12,,,
 13e666d0-c8d3-4a66-bcb8-8148284aae4d,OKboomer.network,available,78,7,9,,,
-c54d1379-e686-4d6c-b26b-de5c77d10631,oklahoma.network,available,46,15,8,,,
+c54d1379-e686-4d6c-b26b-de5c77d10631,oklahoma.network,available,46,14,8,,,
 bd4c808f-8a45-4002-ae7a-46b018644f8d,oldagepensioner.network,available,64,1,17,,,
 a85caa48-aaf7-4cdf-9b01-bc80053b2519,oldest.network,available,72,4,6,,,
 47ce7c17-43d5-4194-857b-e1ec6903a4d4,oldgeezer.network,available,54,2,10,,,
@@ -4351,16 +4352,16 @@ b00fe64b-8c50-4963-8b22-e6663d1e2c3d,oldhat.network,available,54,3,7,,,
 193dd4ca-c378-4522-85c2-e62d1e0f3566,oldman.network,available,58,9,7,,,
 99907338-c54d-4779-8a3c-0cc6cd493b46,oldschool.network,resell,70,18,10,"Sav.com, LLC",30/07/2025 17:06,30/07/2026 17:06
 aa34da4c-2af0-49fa-bbae-f8b6ab8112a6,oldtimer.network,available,70,13,9,,,
-858e688d-2c05-45c6-9706-09966312f9c8,olive.network,resell,60,32,5,Porkbun LLC,10/05/2025 20:52,10/05/2026 20:52
+858e688d-2c05-45c6-9706-09966312f9c8,olive.network,resell,60,31,5,Porkbun LLC,10/05/2025 20:52,10/05/2026 20:52
 0621889d-1b12-46b4-8c54-11da4333d1d5,Olympicflame.network,available,82,2,13,,,
 ed36f9c0-95bd-49fa-a38a-5e9ceff3a09b,omega.network,available,78,20,5,,,
 5ed24a1c-010d-4558-8b86-4aab6bbb9eac,omit.network,available,70,6,4,,,
 746c2fee-f1f4-4642-a152-3af5276386af,omnipotent.network,available,62,7,10,,,
 7f0f9373-7a1e-4e85-abf2-162d542d3094,onabout.network,available,,2,8,,,
 34ac2246-f3b4-4e62-8bc0-1be7d104f393,onboard.network,resell,96,31,8,Porkbun LLC,31/05/2024 17:00,31/05/2026 17:00
-0d8659c0-26d0-4e4f-8707-d03b96a46663,once.network,resell,94,21,4,Porkbun LLC,08/06/2024 19:11,08/06/2026 19:11
+0d8659c0-26d0-4e4f-8707-d03b96a46663,once.network,resell,94,20,4,Porkbun LLC,08/06/2024 19:11,08/06/2026 19:11
 d404454b-319e-4293-80ad-1f4cbe401e4a,onec.network,available,66,6,5,,,
-00ee751e-2c26-41a4-be52-27feaf125047,onehalf.network,available,64,4,8,,,
+00ee751e-2c26-41a4-be52-27feaf125047,onehalf.network,available,64,3,8,,,
 988d040e-a024-4dcc-a46f-15e1c48621a2,oneman.network,available,,11,7,,,
 6df36f84-5c80-4cab-826c-5d73f1cfc354,onemoment.network,available,98,7,10,,,
 525c4989-60fd-4987-a9e6-bf695c89b0f6,oneortwo.network,available,,2,10,,,
@@ -4408,11 +4409,12 @@ b2175c15-5f07-428f-b7e4-e03674b5f369,oreo.network,available,78,10,4,,,
 510ff9cd-5db4-450a-bde8-0d3b4350acc7,organization.network,resell,,14,12,"Global Domains International, Inc. DBA DomainCostClub.com",14/06/2015 06:42,14/06/2026 06:42
 66ceec7c-632d-4043-ae35-10d384cb09bb,organized.network,available,74,12,9,,,
 dcae0374-a2e7-4ec7-bc83-421534fa532b,orgiastic.network,available,40,1,9,,,
-423221e3-8d0c-4731-a8f1-126f33f14d88,oriented.network,available,68,4,8,,,
+423221e3-8d0c-4731-a8f1-126f33f14d88,oriented.network,available,68,3,8,,,
+9e217be6-db32-4c3b-a4ad-03b75c173531,original.network,resell,98,23,8,"Sav.com, LLC",04/09/2024 17:05,04/09/2026 17:05
 10e9aea1-ba53-47e5-8614-023e11fa755c,orleans.network,available,70,6,7,,,
 8876d6a2-4c7e-4a49-a2ea-9416cd017cda,orso.network,available,62,7,5,,,
 42806a00-6b2c-4687-bbff-b9fe821e9443,oslo.network,available,54,20,4,,,
-3ae5b17c-f7ed-4593-a8b6-b248ab9d1483,other.network,resell,68,22,5,Dynadot Inc,06/04/2023 17:00,06/04/2026 17:00
+3ae5b17c-f7ed-4593-a8b6-b248ab9d1483,other.network,resell,68,20,5,Dynadot Inc,06/04/2023 17:00,06/04/2026 17:00
 bbe599a6-32dc-42ea-9707-753c4a06c025,otherthan.network,available,56,1,10,,,
 e4412648-7426-428a-9655-ba34a33091fc,otic.network,available,58,4,4,,,
 5b741e07-b69e-4ebc-95c5-8caa88ec8187,ought.network,available,80,4,5,,,
@@ -4420,7 +4422,6 @@ e4412648-7426-428a-9655-ba34a33091fc,otic.network,available,58,4,4,,,
 07c6e8b4-93a6-457b-8079-4382c8a23f36,OurFather.network,available,,5,10,,,
 25320a5a-2559-4e49-81d8-b97d9912bc68,out.network,resell,152,24,3,Porkbun LLC,11/06/2024 01:05,11/06/2026 01:05
 df600faf-2fe3-4ad3-9359-7b2885cf45c3,outandabout.network,available,,8,13,,,
-dae006ec-7960-4f30-a160-6337317cfccd,outdated.network,available,58,6,8,,,
 a384393f-1e22-41a8-8a38-0742d54e6e70,outdoors.network,resell,88,13,8,"Spaceship, Inc.",27/10/2022 13:15,27/10/2026 13:15
 d22e3090-1c41-41e7-82f6-05df26c449d5,outing.network,available,77,5,6,,,
 0a8a4adb-0a41-4bfb-b503-7ea11e59a48a,outlander.network,available,56,8,9,,,
@@ -4482,7 +4483,7 @@ d2d3629b-1d86-44d3-a19d-e09aa19e8b81,pardon.network,available,122,9,6,,,
 abb72f70-bf54-47d9-afe1-a7dac028d940,parliamentary.network,available,62,4,13,,,
 dd85727f-c19c-4f33-bfd5-925a8fb57cbc,parody.network,available,92,7,6,,,
 38ef968b-ba5e-46d8-b0bb-cc822ef2df83,participating.network,available,,2,13,,,
-04fe6998-68fc-464c-b8dc-01120356be57,particular.network,available,92,8,10,,,
+04fe6998-68fc-464c-b8dc-01120356be57,particular.network,available,92,7,10,,,
 e51dc947-7869-4a1d-a47b-71c1cf0877e9,partyhat.network,available,85,7,9,,,
 2d99293d-60b1-41ba-b3e9-d07bd7077cde,pass.network,resell,84,27,4,"NameSilo, LLC",24/01/2018 18:27,24/01/2026 18:27
 7b08e6bb-ffc9-4f78-b61f-78915db95464,passable.network,available,60,2,8,,,
@@ -4502,6 +4503,7 @@ a11b055d-229f-4162-b586-177485d2cfb0,pastoral.network,available,76,7,8,,,
 7fe331d4-2c68-433f-a065-d555834b0629,patient.network,resell,68,19,7,"GoDaddy.com, LLC",12/04/2017 01:39,12/04/2026 01:39
 88bc027f-46bb-47a8-ba1d-3ac0225f641e,patrician.network,available,46,4,9,,,
 1baf5a4e-6ee5-4fcf-8a51-5e8fca4375a5,patrikin.network,available,58,1,8,,,
+62dfc2b2-b4fa-4d1e-a865-86bc824cc174,patriotic.network,resell,86,6,9,"Global Domains International, Inc. DBA DomainCostClub.com",13/12/2022 04:32,13/12/2026 04:32
 8f33de99-b047-4477-94b5-67281dfb1c3f,patriotism.network,available,76,2,10,,,
 81c27d74-8c7a-412c-b2cd-875cfda46d0a,patrisib.network,available,58,1,8,,,
 cf3c79bc-37a2-4943-9b9c-1751ad7cc8da,pattycase.network,available,64,1,10,,,
@@ -4591,10 +4593,10 @@ f292453b-85a3-4da4-8e2c-d3bc84289a51,pitfall.network,available,66,3,7,,,
 66485be1-0b61-4230-9f68-af0c6e20b0be,placating.network,available,48,1,9,,,
 b4c0446e-f364-406a-b545-c20eea981a1e,placative.network,available,46,1,9,,,
 398d7e22-9a25-4830-aa69-a8da401c83bb,placatory.network,available,50,2,9,,,
-3da5cdad-1a5d-4961-a066-20529d34788e,place.network,resell,78,25,5,"Sav.com, LLC - 19",15/01/2025 15:15,15/01/2026 15:15
+3da5cdad-1a5d-4961-a066-20529d34788e,place.network,resell,78,24,5,"Sav.com, LLC - 19",15/01/2025 15:15,15/01/2026 15:15
 bcc39745-c338-4aab-b6f1-914b237288ea,plaguey.network,available,39,1,7,,,
 2f152fd2-a509-47c1-bbe9-57eef45154e1,plaguy.network,available,39,1,6,,,
-df40dbed-1f91-4910-baca-94541a09049b,plane.network,resell,108,21,5,Porkbun LLC,07/03/2023 15:15,07/03/2026 15:15
+df40dbed-1f91-4910-baca-94541a09049b,plane.network,resell,108,20,5,Porkbun LLC,07/03/2023 15:15,07/03/2026 15:15
 39076f2b-243e-4193-a62a-bf239a46e79e,planless.network,available,50,2,8,,,
 d9b6f1ef-5b37-4bd3-a5e3-3a4b698061cd,planned.network,available,74,7,7,,,
 d21088fd-8f4c-4dbb-9202-76948d78242e,plantcommunity.network,available,70,2,15,,,
@@ -4609,7 +4611,7 @@ a845a601-b773-45aa-93e0-0f7a0498f970,player.network,resell,68,23,6,Unstoppable D
 53b6f9a4-06c0-4949-b93a-387efe2eb924,playfield.network,available,76,6,9,,,
 90aef8e6-8fb1-48b8-bbbe-72141959fa48,playoff.network,available,72,5,8,,,
 65f7ee45-e35a-4c6f-8592-8062afa64baf,playonwords.network,available,,4,13,,,
-9253e5c3-2e5c-4b9e-9860-6c7cf31c8860,pleasant.network,available,70,9,8,,,
+9253e5c3-2e5c-4b9e-9860-6c7cf31c8860,pleasant.network,available,70,8,8,,,
 53f41ce0-3a89-4cc8-a02b-99d95de75658,pleased.network,available,78,3,7,,,
 788a3c71-c0fe-4d02-95c0-4922aa3687a9,pleasing.network,available,96,6,8,,,
 8baa8091-9fff-4789-9ea4-fb7c6b9d0429,pledged.network,available,68,1,7,,,
@@ -4645,13 +4647,13 @@ d03413b0-b73f-421c-a663-62f345e8e193,pope.network,available,80,16,4,,,
 eb3b891a-fbf0-4f40-806c-aaae139cd559,popmusic.network,available,,6,9,,,
 5ce0f758-2baa-46bb-bf29-48d72886c626,popquiz.network,available,,3,8,,,
 80370127-3c60-454d-8a79-076137d1462e,popular.network,resell,82,20,7,"Global Domains International, Inc. DBA DomainCostClub.com",19/05/2015 17:04,19/05/2026 17:04
-86e0621d-c9af-4819-a059-9247f4175bea,port.network,resell,66,25,4,Dynadot Inc,15/05/2018 16:16,15/05/2027 16:16
+86e0621d-c9af-4819-a059-9247f4175bea,port.network,resell,66,24,4,Dynadot Inc,15/05/2018 16:16,15/05/2027 16:16
 3bdbac11-9ba9-41f4-921d-451a68c6930f,porticoed.network,available,42,1,9,,,
 30b4b04b-49fa-421d-948d-7b88c45a31fe,portland.network,resell,62,19,8,"Global Domains International, Inc. DBA DomainCostClub.com",11/12/2014 00:01,11/12/2026 00:01
 df0a7d1c-1b5f-4b18-9dad-b79b817397e1,portofcall.network,available,,2,12,,,
 9c98b504-2fe0-47be-8e99-61ba23db3af6,portofentry.network,available,,1,13,,,
 a1732611-69a0-42ab-9259-b42d161bde5d,portuguese.network,available,92,7,10,,,
-590240d6-f8ba-426a-b3f3-4b24d07f6592,possess.network,available,78,3,7,,,
+590240d6-f8ba-426a-b3f3-4b24d07f6592,possess.network,available,78,2,7,,,
 5c084a35-1619-4c04-9664-b7e35bf8b6f8,possession.network,available,88,4,10,,,
 3799fdfc-483d-4633-8ce5-9033bde76143,possibly.network,available,62,5,8,,,
 158bae50-19ac-4090-a1fe-35b5955358c9,postaladdress.network,available,66,2,14,,,
@@ -4678,7 +4680,7 @@ cb5af79f-f531-42d6-95b5-f1110b8ddba4,pratabout.network,available,,1,10,,,
 9dd4d831-7e74-46c3-925e-893f81abff30,pre.network,resell,64,27,3,"Global Domains International, Inc. DBA DomainCostClub.com",19/08/2024 15:15,19/08/2026 15:15
 b80251d2-e53a-4706-ad0f-18a2bc429ca4,preceding.network,available,,3,9,,,
 2d286f87-144f-46af-af8e-a67f37a60543,precipitous.network,available,,2,11,,,
-01bf0fdd-ce7a-46fe-94a4-08775c140706,precise.network,resell,94,20,7,"Global Domains International, Inc. DBA DomainCostClub.com",11/03/2023 14:46,11/03/2026 14:46
+01bf0fdd-ce7a-46fe-94a4-08775c140706,precise.network,resell,94,19,7,"Global Domains International, Inc. DBA DomainCostClub.com",11/03/2023 14:46,11/03/2026 14:46
 57276a9c-bff5-47f5-bee5-b8533f89e791,preference.network,available,96,8,10,,,
 ea8b2846-5a14-4cb8-9d8f-83c6dc1460cd,prehensile.network,available,54,1,10,,,
 053a2bbf-a900-47a6-8ffe-9781266a9b05,prejudice.network,available,86,2,9,,,
@@ -4697,7 +4699,7 @@ baf968d4-aac4-4376-8c82-be502915da81,president.network,available,70,21,9,,,
 4d73f149-5e2c-4a39-b55d-0c50ad817a7d,pressing.network,available,79,6,8,,,
 ee5d5328-6a6b-4650-b139-b970c494ebe1,pressofficer.network,available,70,1,13,,,
 ecf16ed0-796f-48bb-9d5d-aa0382d12925,presssecretary.network,available,70,1,15,,,
-a5a3140b-ba22-4117-b0a1-5a9be0611606,pretence.network,available,64,1,8,,,
+a5a3140b-ba22-4117-b0a1-5a9be0611606,pretence.network,available,64,2,8,,,
 0aaa2bcb-3d25-4c5b-9036-2034c368928e,pretend.network,available,108,9,7,,,
 baa0cf5f-712b-4633-bd8d-23cb846c254f,pretended.network,available,44,1,9,,,
 a29d9466-27ec-4293-9a9b-889624e7bf5c,pretending.network,available,68,1,10,,,
@@ -4719,7 +4721,7 @@ c5e69004-eff9-4500-b677-6962185f5f1e,prick.network,available,70,6,5,,,
 bc05bc3d-cdda-4fd5-a450-6c2f76553f3f,prickly.network,available,80,5,7,,,
 e0e73eec-1939-41c7-a39a-cc460119ca55,pride.network,resell,74,26,5,"Spaceship, Inc.",20/06/2023 17:00,20/06/2026 17:00
 608b673b-1875-443e-8ab9-62e2bb899bb1,primarily.network,available,67,4,9,,,
-dfaca8df-696b-41b6-9910-426d0f25d21f,primary.network,resell,116,22,7,Porkbun LLC,23/05/2015 20:43,23/05/2026 20:43
+dfaca8df-696b-41b6-9910-426d0f25d21f,primary.network,resell,116,21,7,Porkbun LLC,23/05/2015 20:43,23/05/2026 20:43
 0d03ffe4-609a-4aca-a665-0c9d75f53d6e,primeminister.network,available,70,5,14,,,
 02553707-af85-4f87-b663-f3d0e59aa4fd,princess.network,resell,86,21,8,"Sav.com, LLC",30/11/2024 17:08,30/11/2026 17:08
 fa6e019c-c868-400c-951a-cea2345567f1,principal.network,available,90,18,9,,,
@@ -4729,9 +4731,9 @@ b9b2fd56-eb82-4e6c-92cb-f224eb2d6474,principled.network,available,71,5,10,,,
 d8a28ed9-6e98-4bc8-91d2-0b5311016210,prison.network,resell,86,13,6,"Spaceship, Inc.",20/05/2022 13:15,20/05/2026 13:15
 716cf1fa-9583-4b36-b010-61ad57e2f084,pristine.network,resell,71,15,8,"Sav.com, LLC",13/11/2024 17:08,13/11/2026 17:08
 b0fcdc21-92cd-44c8-8ae2-82b0feb42499,privileged.network,available,66,6,10,,,
-af318048-ba93-4460-a636-770ea2a87cc3,proactive.network,available,71,20,9,,,
+af318048-ba93-4460-a636-770ea2a87cc3,proactive.network,available,71,19,9,,,
 c6a2a768-8f5b-4cec-b635-142adea58ea4,probable.network,available,85,5,8,,,
-12fcdea2-fd09-4954-9ccb-097cfd4c985a,probably.network,available,64,11,8,,,
+12fcdea2-fd09-4954-9ccb-097cfd4c985a,probably.network,available,64,10,8,,,
 9b8a8f53-0720-4ce4-aa67-ab802ac20389,problem.network,available,84,12,7,,,
 be6defb4-2aae-43b6-9ffd-40abf22b5e1f,procedure.network,available,68,8,9,,,
 4374e7f9-f946-4b3e-bdb4-72c25e2675bc,processed.network,available,62,4,9,,,
@@ -4750,9 +4752,9 @@ a0657047-6379-4ac2-9a4b-25a580cdb979,prohibited.network,available,44,5,10,,,
 014d8ccf-7df3-41e8-be51-66a98e483315,promising.network,available,93,6,9,,,
 71a9c9c1-5f74-4dbb-9fa5-30c65af3c690,promoter.network,available,72,9,8,,,
 9de90552-a8ca-40db-a492-c9d4a0c026a5,promotion.network,resell,72,15,9,Dynadot Inc,03/09/2023 17:00,03/09/2026 17:00
-5ea7a4e5-681a-4bf6-8c92-496b862c2cb8,prone.network,available,62,3,5,,,
+5ea7a4e5-681a-4bf6-8c92-496b862c2cb8,prone.network,available,62,4,5,,,
 035d0adc-dadc-4366-9e69-56e1c966035b,pronounce.network,available,72,4,9,,,
-4e44b637-f248-4c60-bed0-c1903b4059c9,pronounced.network,available,62,4,10,,,
+4e44b637-f248-4c60-bed0-c1903b4059c9,pronounced.network,available,62,3,10,,,
 09b6cae7-b883-41db-8888-1b5bbdbfe474,pronouncing.network,available,66,1,11,,,
 84e93c53-bee1-4f59-aa62-440f5662aa76,propagated.network,available,,2,10,,,
 80321055-8d0c-46a1-9f9d-6eed5cddf47f,property.network,resell,90,32,8,Edomains LLC,06/03/2025 15:15,06/03/2026 15:15
@@ -4781,7 +4783,7 @@ f818830d-d2d6-45b8-af5d-2269dbfd2af9,published.network,available,69,8,9,,,
 1e9b6f94-3080-4ed0-96d0-8ddb2c6679a2,PubMed.network,available,72,6,6,,,
 a569d2a2-1572-47a8-b2c9-dd5c27aa03e4,pubquiz.network,available,,6,8,,,
 313bd8a5-885b-445d-896d-5055150224d0,PuertoRico.network,available,,5,11,,,
-008ca09b-5dd5-445d-9051-e4af9c9c8a5f,punch.network,resell,87,19,5,"Sav.com, LLC",21/08/2025 16:23,21/08/2026 16:23
+008ca09b-5dd5-445d-9051-e4af9c9c8a5f,punch.network,resell,87,20,5,"Sav.com, LLC",21/08/2025 16:23,21/08/2026 16:23
 f05fceff-7842-4dbe-91f1-2e09f75bf7ff,punchabove.network,available,,2,11,,,
 40a8d231-ad1b-4d04-9336-0a9074e94f8f,pungent.network,available,62,1,7,,,
 b35dc30d-9529-4c86-a49f-bf09b2ad5596,punishing.network,available,68,1,9,,,
@@ -4794,7 +4796,7 @@ c3751994-b59c-43a8-8e9a-1a497c421465,purplenotice.network,available,64,1,13,,,
 01bbac31-32fe-4832-bc01-14802ff63e97,purposes.network,available,,4,8,,,
 1a888ade-9cd2-4590-8313-9dfeaac2bc61,pushabout.network,available,,1,10,,,
 c7f6b613-be01-4d4a-aba9-20f5b2dd56ef,pushing.network,available,82,4,7,,,
-2b821eae-d7ad-47f5-9e8f-20733a53d5ae,pussy.network,resell,50,26,5,"Sav.com, LLC",20/01/2025 17:10,20/01/2026 17:10
+2b821eae-d7ad-47f5-9e8f-20733a53d5ae,pussy.network,resell,50,25,5,"Sav.com, LLC",20/01/2025 17:10,20/01/2026 17:10
 19a4a97b-6c2c-47f3-aa71-0f168bbc8e22,pustulate.network,available,56,1,9,,,
 10fbd61d-f38b-4d12-ab96-ace0448e11d0,put.network,resell,78,15,3,Porkbun LLC,11/06/2024 01:05,11/06/2026 01:05
 4a290177-fdbb-4530-9c25-15662ac88f47,putacross.network,available,75,1,10,,,
@@ -4848,9 +4850,8 @@ f7c61e0c-33d7-424c-920f-99f375a42ded,racist.network,available,58,8,6,,,
 1baf2c44-6740-4a7f-91eb-4001f9ac0d75,rainbow.network,resell,82,41,7,"Sav.com, LLC",11/02/2021 08:18,11/02/2026 08:18
 c3c34101-d54b-4884-9cb2-3f379ab1eff2,raised.network,resell,76,5,6,"Spaceship, Inc.",16/01/2025 19:04,16/01/2026 19:04
 1072703e-852f-4f0f-b628-ebcec1e131d3,raisehell.network,available,,1,10,,,
-167121af-1690-46ab-87a3-76d6e90efd20,rake.network,available,60,11,4,,,
+167121af-1690-46ab-87a3-76d6e90efd20,rake.network,available,60,10,4,,,
 048b2fbf-abec-4fe7-893e-f17c11171bea,range.network,resell,66,23,5,Porkbun LLC,28/06/2018 01:24,28/06/2026 01:24
-79aa610e-c916-486f-9080-a3d586c4b57e,rank.network,resell,70,26,4,Dynadot Inc,08/11/2024 21:40,08/11/2027 21:40
 53999823-ca7c-476f-a711-ca65650ad1ea,rapidantigentest.network,available,70,1,18,,,
 4fe0a556-e12b-4e50-bc97-be8b5c220a27,rapmusic.network,available,,4,9,,,
 2154bf3b-ee5f-48da-87ef-34eae657ac03,rare.network,resell,110,28,4,"NameCheap, Inc.",27/08/2017 23:34,27/08/2026 23:34
@@ -4860,7 +4861,7 @@ ae2f8600-99cf-4a90-a7e6-6870c421a005,rarefy.network,available,56,4,6,,,
 3bf97424-0097-462d-b022-d5421b8bf96d,rattleabout.network,available,,1,12,,,
 307a51fb-e79c-4d0a-8db3-dff21c72ead9,raunchy.network,available,44,3,7,,,
 f447169a-2bf2-4c54-9f2a-7f88367dc698,ready.network,resell,78,30,5,"Global Domains International, Inc. DBA DomainCostClub.com",30/04/2017 22:50,30/04/2026 22:50
-8b1c4311-790b-43c1-b1cb-c60b5c953383,real.network,resell,78,39,4,Dynadot Inc,01/05/2020 23:19,01/05/2028 23:19
+8b1c4311-790b-43c1-b1cb-c60b5c953383,real.network,resell,78,37,4,Dynadot Inc,01/05/2020 23:19,01/05/2028 23:19
 242fe48c-7ccf-49e9-a523-9852866943e4,realestate.network,resell,,41,11,"GoDaddy.com, LLC",08/12/2014 18:42,08/12/2026 18:42
 bdcdc6f3-afd1-430e-b3f7-d7c79651d21a,realised.network,available,71,3,8,,,
 b2170b8e-d333-48d8-835d-7f454d7a6be7,realizable.network,available,74,1,10,,,
@@ -4916,7 +4917,7 @@ f5663b4a-142b-49eb-9402-34cef0569d2e,refundable.network,available,84,3,10,,,
 1355b440-5205-41bd-a9aa-59b1f4be84fd,region.network,resell,70,16,6,"Global Domains International, Inc. DBA DomainCostClub.com",13/02/2022 08:44,13/02/2026 08:44
 60ad27a1-4110-4d8c-8627-43d13b14d4b0,registeredtrademark.network,available,66,2,20,,,
 5a0364a6-c38d-4c4e-8e99-68da0e7f8029,regret.network,available,84,9,6,,,
-4b5304d2-15ec-466c-8a5b-cb285664a0fc,regular.network,available,106,13,7,,,
+4b5304d2-15ec-466c-8a5b-cb285664a0fc,regular.network,available,106,12,7,,,
 85cdbd38-191d-4d14-a30c-7879c8b54acb,regurgitate.network,available,78,1,11,,,
 442490ac-92e3-4527-8e4d-2082412aa33f,rejected.network,available,52,4,8,,,
 f53197b6-0398-4495-ac59-e6d151d45105,rejection.network,available,58,2,9,,,
@@ -4938,7 +4939,7 @@ d05c7dbd-86d1-480b-a684-965e5835905d,repeated.network,available,64,2,8,,,
 a126961c-5f3b-4894-81e0-b8ab37fdf9dd,repel.network,available,70,4,5,,,
 37052dcd-a573-4b27-8543-688d10a7a23c,replace.network,available,78,9,7,,,
 5d2cd404-3400-41ab-9c6c-3e9dd92857eb,report.network,resell,98,26,6,Turkticaret.net Yazılım Hizmetleri Sanayi ve Ticaret A.Ş.,28/08/2016 19:58,28/08/2026 19:58
-a8329808-78e3-46a4-ba51-f5b9c5867baa,reported.network,available,64,4,8,,,
+a8329808-78e3-46a4-ba51-f5b9c5867baa,reported.network,available,64,3,8,,,
 45365f9f-95ea-4084-854c-254a07cc0c0c,reporting.network,available,66,13,9,,,
 2d060d97-90bf-423a-9e28-c67c647cca5d,reproving.network,available,66,1,9,,,
 a7d844be-cff2-43fd-98ce-8a935afd49b1,repugnant.network,available,52,2,9,,,
@@ -4953,7 +4954,7 @@ d3de3133-8ea3-4cbe-bd0a-b18edb1305a8,require.network,available,76,6,7,,,
 c444f402-90a2-47d2-a543-1574614fba28,resolvable.network,available,70,2,10,,,
 a5117896-8ab7-42b5-94eb-54e2f3c03ded,resonating.network,available,65,3,10,,,
 d00fb22c-321c-4213-a1d1-e19ee6f3e742,resort.network,resell,98,19,6,"Spaceship, Inc.",07/09/2022 15:13,07/09/2026 15:13
-ade13a23-259e-43ae-b52a-b8db00c7d967,resounding.network,available,88,4,10,,,
+ade13a23-259e-43ae-b52a-b8db00c7d967,resounding.network,available,88,3,10,,,
 b5bce7d7-1dbb-4e8b-ba13-d2ce576f0377,respected.network,available,81,4,9,,,
 2ea2c0ac-f795-4916-a72e-d97e340c6572,respectful.network,available,78,3,10,,,
 3fc17551-823c-43b0-a34d-b8eb02ce5eb1,respectively.network,available,56,1,12,,,
@@ -4980,7 +4981,7 @@ f0cf7edf-1aad-4a0e-9d03-b48f28a3cfd7,retrieve.network,available,92,5,8,,,
 99c0bb8e-4adc-4771-9e08-b404ff40e6d8,returning.network,available,71,5,9,,,
 03313fe3-a4c6-467b-9442-97b1b848b24e,returnticket.network,available,76,1,13,,,
 79114371-7deb-4ac6-90b3-2922ce2eba1f,reunion.network,resell,70,18,7,"Sav.com, LLC - 20",28/04/2025 15:15,28/04/2026 15:15
-4ba22f30-e4ad-4c7a-963d-02d2aa50f8e6,revealing.network,available,87,3,9,,,
+4ba22f30-e4ad-4c7a-963d-02d2aa50f8e6,revealing.network,available,87,2,9,,,
 6b715a27-697f-483f-b51a-a0cd58b16070,revelatory.network,available,62,2,10,,,
 6ade894a-1ef9-4fe7-a31c-b1adcf90908f,revered.network,available,77,4,7,,,
 12f5c64d-f494-4fb4-84d4-26248245908b,reverse.network,resell,114,24,7,"Sav.com, LLC",20/03/2023 17:01,20/03/2026 17:01
@@ -4992,13 +4993,13 @@ d004708c-54a7-4461-8884-ff62a43f3666,rheumy.network,available,54,1,6,,,
 69bdd58e-fb3f-4318-bf82-e2b5d739dc82,Rhianna.network,available,81,2,7,,,
 22ddb64f-4d70-424f-bbbf-cb7dd3dd40bf,Rhiannon.network,available,73,5,8,,,
 24069ed1-4593-4be9-a36b-f64ed88aad8a,Rhoda.network,available,69,4,5,,,
-6b7396f1-c049-42f8-929e-93e638f5043a,rhythmic.network,available,68,7,8,,,
+6b7396f1-c049-42f8-929e-93e638f5043a,rhythmic.network,available,68,6,8,,,
 20ef6d04-eaf0-49f0-af79-fc419ebfadae,ribald.network,available,64,1,6,,,
-e4014013-c105-4d4a-a2dd-b92666809707,rich.network,resell,72,28,4,Dynadot Inc,22/05/2018 15:30,22/05/2026 15:30
+e4014013-c105-4d4a-a2dd-b92666809707,rich.network,resell,72,27,4,Dynadot Inc,22/05/2018 15:30,22/05/2026 15:30
 4a1ea0f1-a7e7-4a4a-b2b4-0baf203014cb,richmond.network,available,66,22,8,,,
 11201356-d901-4bd3-98da-6fa8a79b7a27,rid.network,available,78,11,3,,,
 a25a2d16-4f67-49ce-b3f4-70c3d5dc7118,ridden.network,available,74,2,6,,,
-08555ab1-fdef-4b88-9f9c-39107c279117,ridiculous.network,available,58,9,10,,,
+08555ab1-fdef-4b88-9f9c-39107c279117,ridiculous.network,available,58,8,10,,,
 36f3544f-00ce-43d8-a7ff-c78ba3788d63,right.network,resell,82,26,5,Porkbun LLC,15/07/2018 09:25,15/07/2027 09:25
 ad2bf7e5-5d48-43ec-b4fc-6d1702b2935d,righteous.network,available,91,8,9,,,
 d389e704-7aad-4aa6-9226-101c1f544bd9,rigid.network,available,82,8,5,,,
@@ -5155,7 +5156,7 @@ e1d636b6-a0b1-41af-aeb4-095005d0cd4a,section.network,available,94,10,7,,,
 999a474a-40ad-421c-8171-195c2d35db96,security.network,resell,70,44,8,"Sav.com, LLC",31/01/2025 05:14,31/01/2026 05:14
 3fedf3fc-6991-4be1-8a1c-c584090d18c6,sedative.network,available,76,1,8,,,
 aa48e8d4-2f30-418f-98cd-351bd4bc37e3,sedulous.network,available,50,3,8,,,
-ad2be87f-c8eb-4a3b-b320-b6e335ec53e8,see.network,resell,88,31,3,"Sav.com, LLC - 16",19/03/2025 15:15,19/03/2026 15:15
+ad2be87f-c8eb-4a3b-b320-b6e335ec53e8,see.network,resell,88,30,3,"Sav.com, LLC - 16",19/03/2025 15:15,19/03/2026 15:15
 882b7c74-3a24-456c-9559-9aea9cd512d7,seeabout.network,available,,2,9,,,
 6d7dec73-4c2d-4617-b6f1-ae7ff6c949c3,seedy.network,available,56,5,5,,,
 874f1a1e-1ab6-471c-be6a-84220b634708,seeing.network,available,98,8,6,,,
@@ -5179,7 +5180,7 @@ a6687abb-1a6f-4933-9ae8-000e22cfaa8b,sensitive.network,available,84,8,9,,,
 c34ce1b4-7f98-45d5-bfc6-110550e7fac1,sentence.network,available,88,7,8,,,
 ea9c2f30-7068-4493-a83f-7a2c5e59d575,seoul.network,available,74,21,5,,,
 2443cd13-c335-4aaa-b615-0c24cec3fbc5,sep.network,available,72,14,3,,,
-b3716ac0-afbc-4a2a-81da-f1180217d4e9,separate.network,available,98,5,8,,,
+b3716ac0-afbc-4a2a-81da-f1180217d4e9,separate.network,available,98,4,8,,,
 0057dbe3-1fee-44b8-8646-943fe6e8b22d,separateschool.network,available,76,1,15,,,
 208f7c5a-7231-45a8-b8dc-a04c7704967f,separation.network,available,68,6,10,,,
 271706be-b243-4d00-85a1-8d81dbe3d078,september.network,available,72,13,9,,,
@@ -5219,7 +5220,7 @@ c20e7064-d952-49cc-8bb9-3818e9a58389,shadow.network,resell,60,38,6,"Global Domai
 814ede00-e3c1-49b8-82bb-af1603b59820,Shakespeare.network,available,96,16,11,,,
 6a37077b-141b-467e-a885-6ef1ed60f58e,shaking.network,available,66,3,7,,,
 6291ed4d-de81-48a7-9cec-d6f66cd948c6,Shakira.network,available,76,8,7,,,
-2f2d8fe5-aab3-4648-ab79-807ee2200ec3,shaky.network,available,61,6,5,,,
+2f2d8fe5-aab3-4648-ab79-807ee2200ec3,shaky.network,available,61,5,5,,,
 951702ac-dffe-4fed-8d31-e92913b882b0,shallow.network,available,54,5,7,,,
 aaa74e9b-abbd-4fa7-b8d8-abd1e6d59507,shame.network,available,110,10,5,,,
 60f0e035-e157-4248-96b8-1b9ec37f3ca9,sharing.network,resell,76,22,7,"GoDaddy.com, LLC",25/02/2020 08:21,25/02/2026 08:21
@@ -5239,7 +5240,7 @@ f84e016a-c068-4706-a860-dd9a262b2045,sheraton.network,available,52,12,8,,,
 cfc7e273-5383-46da-b781-fbb060f9389e,shift.network,resell,70,36,5,"Spaceship, Inc.",08/08/2023 15:15,08/08/2026 15:15
 0eb59e6b-cdd5-4374-a399-7b581c4cfbd0,shiftabout.network,available,,1,11,,,
 e59312c9-5856-4c4e-9928-2f1ee52ab69d,shifting.network,available,68,5,8,,,
-074f2530-e435-46e5-8d81-5e182e2b5a0c,shine.network,resell,80,31,5,"NameSilo, LLC",17/10/2019 09:17,17/10/2026 09:17
+074f2530-e435-46e5-8d81-5e182e2b5a0c,shine.network,resell,80,30,5,"NameSilo, LLC",17/10/2019 09:17,17/10/2026 09:17
 58f49ee8-0d0f-4078-8edf-115d34206e43,shineat.network,available,78,1,8,,,
 760a1799-3ed3-451f-aa25-52597d846ceb,shining.network,available,88,11,7,,,
 75ba04ad-1851-4627-a223-379929eddeff,ship.network,resell,90,38,4,Porkbun LLC,24/05/2018 08:21,24/05/2027 08:21
@@ -5262,7 +5263,7 @@ fdb9566b-8ed7-4471-9583-9a2b12343b4c,shoplift.network,available,70,5,8,,,
 3ef50405-6b9d-4d52-b00d-27581ba523cc,shoulderblade.network,available,66,1,14,,,
 c08198ee-984e-4dba-a189-516f530645f9,shouted.network,available,66,2,7,,,
 397ef1f9-5916-4b58-88f3-e4972c86102e,shove.network,available,82,5,5,,,
-cde78f4e-67fe-4db7-8baa-27a60b6830f6,show.network,resell,72,26,4,Dynadot Inc,08/04/2019 18:18,08/04/2026 18:18
+cde78f4e-67fe-4db7-8baa-27a60b6830f6,show.network,resell,72,25,4,Dynadot Inc,08/04/2019 18:18,08/04/2026 18:18
 af0ca2d4-5f41-4194-bf07-01c35304eabf,showandtell.network,available,74,9,13,,,
 a0327c6e-75aa-4878-b692-fe0eb5f2fad1,showering.network,available,76,2,9,,,
 2545a0cf-eee9-472f-85a2-3e3b399aa65a,showup.network,available,83,15,7,,,
@@ -5376,7 +5377,7 @@ dbe1f9af-c46b-4321-b0d7-b76d7cc47677,sodawater.network,available,70,3,10,,,
 9fcc3012-86ef-4a95-9fa1-a759155d68ee,softly.network,available,65,6,6,,,
 97f81970-0595-4f46-b8f8-b76f0a700676,softwareengineer.network,available,74,6,17,,,
 2a0a6edb-681c-4f87-a03e-ec1c4b2f3f03,softwarepackage.network,available,72,1,16,,,
-49b47e8f-b511-47b7-8961-9f2858c55b8b,soil.network,resell,92,20,4,GoDaddy Online Services Cayman Islands Ltd.,16/04/2015 19:42,16/04/2026 19:42
+49b47e8f-b511-47b7-8961-9f2858c55b8b,soil.network,resell,92,19,4,GoDaddy Online Services Cayman Islands Ltd.,16/04/2015 19:42,16/04/2026 19:42
 772928be-05f0-454f-9b00-cb61bb83b4a2,soldier.network,available,54,9,7,,,
 ac6ae04e-268e-4c3d-86ae-ec6c32ae2a00,sole.network,resell,72,17,4,"Spaceship, Inc.",11/08/2022 13:15,11/08/2026 13:15
 6633653b-ba9c-4dec-86b2-ca12fd0373af,solely.network,available,62,3,6,,,
@@ -5408,7 +5409,7 @@ b02ca6cf-7fe7-49ba-8be4-9ae9cadedc5f,sothat.network,available,70,2,7,,,
 1d373d80-c242-4a61-9444-344b259b7f7c,soul.network,resell,104,35,4,Dynadot Inc,19/03/2024 15:15,19/03/2030 15:15
 3e38f3d7-9a8f-40a3-949a-ec1f8bb0c8cb,soulmusic.network,available,,6,10,,,
 327228cc-4cd7-42b9-a60f-1f54a9fb59e7,soundbar.network,available,74,5,8,,,
-7a3342a6-8164-4c9e-9fbb-b9f3b31719cf,sounding.network,available,78,3,8,,,
+7a3342a6-8164-4c9e-9fbb-b9f3b31719cf,sounding.network,available,78,2,8,,,
 bdc12a6f-3155-4e6f-841a-1cbaec15aee0,soundthealarm.network,available,70,2,15,,,
 7782feeb-0dc8-43d4-8d5d-786eb25bbe49,soup.network,resell,96,22,4,"Global Domains International, Inc. DBA DomainCostClub.com",07/04/2017 18:31,07/04/2026 18:31
 7525da15-87ac-4cff-9dcc-2177954f9f5a,soupy.network,available,48,5,5,,,
@@ -5420,7 +5421,7 @@ d06a5ce7-2b39-49b9-a4a9-fe966fbe45fa,sovereign.network,resell,86,33,9,Porkbun LL
 ae386cd4-1792-4d2e-8646-131282c906b1,spaceshuttle.network,available,70,4,13,,,
 5503be0c-343b-4220-86f9-0a4e583e724e,spacious.network,available,67,7,8,,,
 73d602b7-ed96-4e37-8141-bb4c5dfd91e4,spanish.network,resell,68,13,7,"Global Domains International, Inc. DBA DomainCostClub.com",12/04/2019 11:45,12/04/2026 11:45
-9a2ce5d6-a1db-424c-b969-ca5aae936645,spare.network,available,62,13,5,,,
+9a2ce5d6-a1db-424c-b969-ca5aae936645,spare.network,available,62,12,5,,,
 c8fdb3da-501f-49b2-8e80-8b7be133ee4d,sparkly.network,available,68,12,7,,,
 8a7043dc-5226-44aa-8884-3b90ce86a34b,speak.network,resell,98,27,5,"NameSilo, LLC",29/05/2018 06:30,29/05/2026 06:30
 2a9d2aa0-86ed-4b48-87e7-2db711d01a69,specialized.network,available,66,11,11,,,
@@ -5450,7 +5451,7 @@ fbdfd0bd-88ec-4599-9685-44451074b15a,spinous.network,available,50,1,7,,,
 dcc43402-361d-4d73-a601-4f3af9a53635,spirit.network,resell,74,34,6,"Spaceship, Inc.",12/06/2020 10:01,12/06/2026 10:01
 d7dba7ad-6d8f-4db8-92c4-e9115c4d2629,spiritual.network,premium,62,24,9,,,
 041b0794-8a65-4c0c-80aa-6bc70af2954d,splashabout.network,available,,2,12,,,
-28f58ca4-34f9-4449-aa85-3b7d33b5143a,split.network,resell,46,25,5,"Sav.com, LLC - 34",12/08/2025 15:15,12/08/2026 15:15
+28f58ca4-34f9-4449-aa85-3b7d33b5143a,split.network,resell,46,24,5,"Sav.com, LLC - 34",12/08/2025 15:15,12/08/2026 15:15
 22fa4ee5-48a8-400b-bcc6-abeb5bd4b8c0,spontaneity.network,available,,3,11,,,
 2ff64de7-9773-4055-bfd3-6434f79d9b49,spontaneous.network,available,72,9,11,,,
 a85ba38c-f553-4432-812e-b8e8eecadb93,spoof.network,resell,104,9,5,"Sav.com, LLC - 16",15/06/2025 15:16,15/06/2026 15:16
@@ -5497,7 +5498,7 @@ d3811cab-5c4e-45a9-a7f1-a712658d4740,standing.network,available,58,5,8,,,
 c610b1d7-fb7c-422f-873e-b9ab4d9981e5,statistics.network,resell,60,32,10,"Global Domains International, Inc. DBA DomainCostClub.com",18/03/2015 00:20,18/03/2026 00:20
 fead11ad-79d7-4a7e-9aea-a1308f9a9696,statutoryrape.network,available,,1,14,,,
 a8c18d90-0528-4aca-846b-07294277a20c,StAugustine.network,available,68,9,13,,,
-28e656bf-64a1-4fbf-bde6-432a23cc55e2,stay.network,resell,62,27,4,"GoDaddy.com, LLC",14/05/2022 19:26,14/05/2026 19:26
+28e656bf-64a1-4fbf-bde6-432a23cc55e2,stay.network,resell,62,26,4,"GoDaddy.com, LLC",14/05/2022 19:26,14/05/2026 19:26
 1bbe2ec6-3e26-4cff-b716-39646b7d71fa,StCharles.network,available,66,5,11,,,
 8b51d755-fc2e-4af2-a175-cba873553b86,StClair.network,available,64,7,9,,,
 8f826df3-1761-4854-b82e-b3f521b1f684,steady.network,resell,122,20,6,Porkbun LLC,09/06/2024 00:24,09/06/2026 00:24
@@ -5520,7 +5521,7 @@ efdb31e6-6cde-437c-a0ae-c992e9ede0cd,steppingstone.network,available,74,10,14,,,
 368700b9-ac06-411b-a34a-79bfffde5141,stillborn.network,available,70,2,9,,,
 b136bd46-701c-4785-aa39-2278bd500024,stink.network,available,86,10,5,,,
 9b1b6618-5e2a-4bfc-b60f-584b32d8cbef,StMoritz.network,available,60,12,10,,,
-ed0ff2b8-7ae5-4f05-859a-b72170c66f0c,stock.network,premium,68,31,5,,,
+ed0ff2b8-7ae5-4f05-859a-b72170c66f0c,stock.network,premium,68,30,5,,,
 f187b298-7b96-47c3-8953-407b25fcabb4,stockexchange.network,available,70,9,14,,,
 6dab5242-3df4-4850-97bb-88391f079940,stockholm.network,available,90,13,9,,,
 e3e2bd8b-1791-4db2-a5eb-cb248d658cfa,stockupon.network,available,,1,11,,,
@@ -5528,7 +5529,7 @@ e3e2bd8b-1791-4db2-a5eb-cb248d658cfa,stockupon.network,available,,1,11,,,
 211d6522-c256-43e0-af85-b608a4140333,stopping.network,available,66,2,8,,,
 12c642d3-0de1-439d-81c9-27305378e498,stops.network,available,74,6,5,,,
 ac4cf9d6-3dab-4daf-8fef-484399d381cb,stormy.network,available,44,11,6,,,
-65f9062a-9569-4fcb-b5ec-69618c3549af,story.network,resell,70,35,5,Dynadot Inc,13/07/2017 14:29,13/07/2027 14:29
+65f9062a-9569-4fcb-b5ec-69618c3549af,story.network,resell,70,34,5,Dynadot Inc,13/07/2017 14:29,13/07/2027 14:29
 e81c031b-cf4d-4536-b2f8-999de33bd1f7,stove.network,available,88,11,5,,,
 a5dfbb23-23f7-48b6-ab8a-8e49c80d9f3c,StPauls.network,available,68,5,8,,,
 bdd38b75-24ae-459b-b52f-54831fddeea2,StPetersburgh.network,available,64,1,15,,,
@@ -5542,7 +5543,7 @@ b7001ee0-aca1-431b-8acb-563472024c1d,streetnumber.network,available,66,1,13,,,
 ef08f222-f269-4cef-827d-75883f7a6607,stress.network,resell,88,15,6,Dynadot Inc,28/04/2024 15:15,28/04/2026 15:15
 117d6dd5-81d3-45fd-b5bb-0d76088efec0,stricken.network,available,54,3,8,,,
 193fd651-d271-44f5-b068-be5ebb32623b,striking.network,available,89,6,8,,,
-a21c62dd-78d3-4eea-b9f2-02d26f341f97,strip.network,resell,84,16,5,"Sav.com, LLC",17/08/2024 17:05,17/08/2026 17:05
+a21c62dd-78d3-4eea-b9f2-02d26f341f97,strip.network,resell,84,15,5,"Sav.com, LLC",17/08/2024 17:05,17/08/2026 17:05
 661e985d-6f20-46ab-ab3a-110cc0ba1a7d,stripling.network,available,46,3,9,,,
 068858ee-481e-4aa6-a758-b817e0e446d7,strongly.network,available,64,3,8,,,
 4ef300af-8b85-4c0b-9440-9095381a80fa,strongpersonality.network,available,76,1,18,,,
@@ -5663,7 +5664,7 @@ d644001b-1c63-4f1e-8384-50ee58067450,takepart.network,available,,5,9,,,
 6b5a8cbb-a6a1-453f-8d82-1e86e6e2e79b,talkabout.network,available,,9,10,,,
 099900f1-7c9a-41e2-bf25-cb98146fdab7,talkedabout.network,available,62,1,12,,,
 ab8f3650-701c-4655-8828-7e6b2e651eaa,talkingpoint.network,available,68,3,13,,,
-7adaa745-6cf4-4705-a721-5d3313bd5b36,tall.network,available,106,11,4,,,
+7adaa745-6cf4-4705-a721-5d3313bd5b36,tall.network,available,106,10,4,,,
 5728b5b1-56f0-4f8b-89d4-38b2b5666b87,tanks.network,available,64,7,5,,,
 406f0f6c-7c40-4d13-ae27-a051363319f4,tardy.network,available,40,4,5,,,
 e0def533-c89a-47b1-870c-79c1621c0ec5,task.network,resell,96,34,4,Dynadot Inc,23/04/2018 07:37,23/04/2026 07:37
@@ -5829,7 +5830,7 @@ a52ddf2d-cdc4-4e3f-865e-c787b8e3e5fe,tooneself.network,available,62,1,10,,,
 7db3d0d7-666a-48ca-a51b-425fbf612a8d,toorder.network,available,56,1,8,,,
 8015a32a-6903-408b-988e-19fa4b5b0e5c,tooshie.network,available,42,1,7,,,
 56756091-ed6f-42f3-9a99-1fa5c70716bf,tooth.network,resell,64,13,5,"GoDaddy.com, LLC",04/09/2025 00:51,04/09/2026 00:51
-88df52a9-da16-4ba1-ab6b-f79ad298424c,top.network,available,82,35,3,,,
+88df52a9-da16-4ba1-ab6b-f79ad298424c,top.network,available,82,34,3,,,
 965d0629-11b1-4d98-8112-5d23063a101d,topic.network,resell,90,16,5,"Sav.com, LLC",20/01/2023 17:00,20/01/2026 17:00
 b092899e-faa5-4c86-9691-91986205fc09,topless.network,available,70,11,7,,,
 c765ba12-8aa5-468c-9db9-440d588ef4da,topnotch.network,available,54,18,8,,,
@@ -5857,7 +5858,7 @@ af5e7543-c9ad-42fd-83ad-8755b06625c1,toward.network,available,62,6,6,,,
 7743a2b9-d2cb-432f-a91a-708bb4be7216,towheaded.network,available,54,1,9,,,
 c3bf32bc-da5c-4aff-8a66-f5b69fc6317e,toying.network,available,68,2,6,,,
 a3704a31-b2ee-494b-a1f8-22ae75a3cd65,trace.network,resell,58,34,5,Edomains LLC,09/03/2025 15:15,09/03/2026 15:15
-1ad51465-34e8-4e06-8c73-f35141cf20fa,track.network,resell,94,35,5,"Global Domains International, Inc. DBA DomainCostClub.com",21/08/2024 15:15,21/08/2026 15:15
+1ad51465-34e8-4e06-8c73-f35141cf20fa,track.network,resell,94,34,5,"Global Domains International, Inc. DBA DomainCostClub.com",21/08/2024 15:15,21/08/2026 15:15
 afb87c0f-e7ed-427c-9fad-f17f7b866662,tracked.network,available,66,6,7,,,
 ed66ca6f-f110-450b-a386-5a72341f5933,traffic.network,resell,102,29,7,"Sav.com, LLC",22/02/2021 17:11,22/02/2026 17:11
 50da9bf2-5e3b-430c-8755-803dd265aaea,trafficsign.network,available,66,4,12,,,
@@ -5865,7 +5866,7 @@ bfc2bbcc-ce88-4442-b36d-285c2ef3d426,tragic.network,available,80,6,6,,,
 e2d9f36b-daca-4bff-ad89-6225f0117194,transferableskill.network,available,76,1,18,,,
 8232a50e-d94b-4cb8-9f8a-3120b3daa9bd,transient.network,available,78,8,9,,,
 b968d81d-1876-4bc3-ad17-bb5deca3e080,trapped.network,available,46,5,7,,,
-cbc87170-b949-42f9-af94-85f3a5c5fa53,travel.network,premium,115,31,6,,,
+cbc87170-b949-42f9-af94-85f3a5c5fa53,travel.network,premium,115,29,6,,,
 03a300cb-7b08-4ad0-8b58-748320545a3c,travelagency.network,available,72,9,13,,,
 39717812-43b9-4b18-b58e-8dcc038eaff4,traveled.network,available,68,3,8,,,
 f8cc57fc-62e0-42c2-8b53-759faba6b688,traveling.network,resell,82,16,9,Dynadot Inc,30/05/2025 17:00,30/05/2026 17:00
@@ -5897,7 +5898,7 @@ f25d86dd-1ced-4c30-8d20-02c6ea86df08,troll.network,resell,58,24,5,Dynadot Inc,09
 0db5a77d-1cdf-4236-b835-d483b11b3e9b,troublemaker.network,available,48,9,13,,,
 574b4dcb-c929-46e1-84c1-7e1feaa17b2f,trounce.network,available,74,3,7,,,
 fdef347a-5b06-46d5-80b5-b73a9ca3a34d,truant.network,available,98,6,6,,,
-f27f4c31-a127-4020-b741-734d2d8cee11,true.network,resell,86,43,4,Dynadot Inc,29/05/2018 06:32,29/05/2026 06:32
+f27f4c31-a127-4020-b741-734d2d8cee11,true.network,resell,86,42,4,Dynadot Inc,29/05/2018 06:32,29/05/2026 06:32
 06df8d2f-d779-428c-996b-b401d277e8ba,Trumpian.network,available,72,3,8,,,
 18597202-b330-43f9-a77e-ef4c7f0b3404,try.network,resell,116,33,3,Turkticaret.net Yazılım Hizmetleri Sanayi ve Ticaret A.Ş.,15/08/2016 09:03,15/08/2026 09:03
 22388c02-1564-4db2-81b0-4fae327502d5,tshirt.network,available,80,23,7,,,
@@ -5906,7 +5907,6 @@ f8ee898f-8e52-4dca-b39c-a32edddc1b02,ttyl.network,available,,10,4,,,
 df979c98-3d11-460f-b59b-396d61acc4fa,tuesday.network,resell,80,16,7,One.com A/S,05/08/2025 19:47,05/08/2026 19:47
 e95f27d6-f5d1-4a59-9375-ed1ac2cba22b,Tuesdays.network,available,,5,8,,,
 a023a795-898d-422a-8ae6-74b7049029db,tug.network,available,88,9,3,,,
-27f6c123-a1fc-44ed-8f0a-3215f862ea1c,turn.network,resell,112,17,4,"Sav.com, LLC",29/12/2024 17:05,29/12/2025 17:05
 16c2a955-f80d-4b78-a8d7-110c263427a7,turnabout.network,available,,4,10,,,
 0af6ce44-c4bc-4662-a96b-d0f490066e3f,turncoat.network,available,66,2,8,,,
 fc713194-af87-45fe-be82-cf53ede3d4a1,turned.network,available,66,4,6,,,
@@ -5976,7 +5976,7 @@ e9638eed-9e9b-40c0-882e-63b4ba821205,unending.network,available,60,5,8,,,
 e9d7b6af-b329-4d11-b6d1-6f0dcb9fb3d5,unfearing.network,available,66,1,9,,,
 59991fd8-5865-4284-b1ec-7e85e3b7d912,unfortunately.network,available,52,3,13,,,
 5929d2a2-29d7-4d7e-949a-a152f5408e63,unfounded.network,available,33,4,9,,,
-320f2a4d-15d2-4e8d-8714-e1bff149a565,unhappy.network,available,100,5,7,,,
+320f2a4d-15d2-4e8d-8714-e1bff149a565,unhappy.network,available,100,4,7,,,
 7230bd48-2662-4090-a1e9-a25bf997a862,unimportant.network,available,54,3,11,,,
 0aae0e7a-58b7-4865-bca0-0879031c5861,union.network,resell,90,34,5,Porkbun LLC,25/07/2018 06:51,25/07/2027 06:51
 a48bc606-5080-4e87-a02a-6e458da8dc5b,UnitedKingdom.network,available,,5,14,,,
@@ -6014,7 +6014,7 @@ f6fa3a83-b565-4614-8b31-d98ae3f28ce8,upsidedowncake.network,available,76,1,16,,,
 ee5a2f2d-90fd-4043-9d7f-454ba211d83b,upstage.network,available,98,7,7,,,
 3586d140-b456-4fbf-a5ac-ba1a19066700,upstairs.network,available,88,10,8,,,
 f186aa1b-679c-4594-bff3-a0bcd26bfd67,upto.network,available,66,10,5,,,
-0c71b18f-c0d6-4492-a29a-39aef182cd54,uptodate.network,available,,7,10,,,
+0c71b18f-c0d6-4492-a29a-39aef182cd54,uptodate.network,available,70,7,10,,,
 6061ceac-6efe-482d-b8f8-90a2fae95783,uptonow.network,available,,1,9,,,
 037d7483-182d-4283-ac05-8749095529b4,uptospeed.network,available,66,5,11,,,
 95768b66-3a68-4d02-bee9-75bbd185f5c1,upwards.network,available,66,8,7,,,
@@ -6022,7 +6022,7 @@ fdf194f1-c533-4526-a0cc-ae829d250e62,uraemic.network,available,56,0,7,,,
 bb5d32e9-df91-49c6-b345-bc05ded6ce24,urban.network,resell,62,28,5,"Global Domains International, Inc. DBA DomainCostClub.com",27/06/2024 15:15,27/06/2026 15:15
 51cf9ff9-d92e-4863-ab9d-46439ad1c86d,uremic.network,available,56,1,6,,,
 f5ad05c9-8b6b-45b2-9c65-dfbc5cc20b58,urge.network,available,93,10,4,,,
-ea41c2b2-de4e-44b4-90fc-2d8f1fbbcfb7,usage.network,available,70,6,5,,,
+ea41c2b2-de4e-44b4-90fc-2d8f1fbbcfb7,usage.network,available,70,5,5,,,
 6d098a1d-c6df-4d31-8f56-cae69b142818,USBdrive.network,available,72,2,9,,,
 07172af7-3277-4de5-98b1-5cdac0c9aef7,USdollar.network,available,72,4,9,,,
 380127a6-8e88-48c9-b837-7d9c01f2b34e,used.network,resell,80,14,4,Edomains LLC,14/06/2021 08:19,14/06/2026 08:19
@@ -6068,7 +6068,7 @@ d2171c50-8337-4761-974e-e96da75f07e9,vexatious.network,available,38,3,9,,,
 d2e7decf-9d6c-4653-80d8-ffc351c89256,vexing.network,available,66,4,6,,,
 e8ae0b59-18bc-4409-b81f-79cd1930a7d9,vibrate.network,available,91,7,7,,,
 0d992464-ce16-45fa-b940-aeb3e95ceff1,victor.network,available,68,25,6,,,
-c8439197-1656-440e-a474-955d162f8e5b,victorian.network,available,81,7,9,,,
+c8439197-1656-440e-a474-955d162f8e5b,victorian.network,available,81,6,9,,,
 6f2388fe-28ed-4c38-a711-8809c850446a,video.network,resell,106,41,5,"Wild West Domains, LLC",07/12/2014 16:00,07/12/2026 16:00
 8215f02b-6859-4ab3-9043-059c136980cc,vigor.network,resell,80,16,5,Porkbun LLC,08/06/2024 19:11,08/06/2026 19:11
 4fcbce01-9db9-4dbf-99a0-fcbd4bd5f859,viii.network,available,54,6,4,,,
@@ -6087,7 +6087,7 @@ dd2def22-874f-41b8-8ed8-fb5c8c74512c,visualized.network,available,70,5,10,,,
 c313fd4f-6e3d-4687-be11-5801ba9e2d0e,vitaminc.network,available,76,7,9,,,
 e3984a19-649b-4d9b-b365-9eb327fa8f75,vitriolic.network,available,44,1,9,,,
 3b96ad92-1294-492c-9d6c-f55c4cd744d9,vivid.network,resell,94,24,5,"Global Domains International, Inc. DBA DomainCostClub.com",23/07/2023 15:49,23/07/2026 15:49
-b0d0e86e-2474-4c0d-b4c4-eb9cbd8af698,vocal.network,resell,90,15,5,"Sav.com, LLC - 38",21/10/2025 15:15,21/10/2026 15:15
+b0d0e86e-2474-4c0d-b4c4-eb9cbd8af698,vocal.network,resell,90,14,5,"Sav.com, LLC - 38",21/10/2025 15:15,21/10/2026 15:15
 05396b8d-8a69-4e71-945a-4610cc2ad56b,vodka.network,available,76,18,5,,,
 2a2289e6-3d0f-4de8-9168-fa190c0d1336,voicecall.network,available,90,5,10,,,
 46a3c2b1-674f-42a1-8330-f82c75afbdab,voicemessage.network,available,72,4,13,,,
@@ -6144,7 +6144,7 @@ cd09ddc2-7ee7-45c2-8faf-68951ff2eec0,wave.network,resell,74,41,4,"NameSilo, LLC"
 da61e9b0-1baa-473c-99a1-b6640c8c429d,ways.network,resell,78,15,4,"GoDaddy.com, LLC",29/07/2023 04:55,29/07/2026 04:55
 7f7ba01d-ac30-48f0-9ba1-930e316b3b85,weak.network,available,62,7,4,,,
 c0d9e476-6721-4c5f-9d88-479125fc711f,weakened.network,available,52,1,8,,,
-bd05d913-3665-4ee6-9af6-8519d6d364c2,wear.network,resell,70,16,4,"NameSilo, LLC",18/07/2019 02:46,18/07/2026 02:46
+bd05d913-3665-4ee6-9af6-8519d6d364c2,wear.network,resell,70,15,4,"NameSilo, LLC",18/07/2019 02:46,18/07/2026 02:46
 d0869bd3-034b-4677-840d-a95c50787cb3,wearoff.network,available,,1,8,,,
 fdaff300-40c6-452c-9605-d2e60a1337fb,weary.network,available,64,5,5,,,
 baf54616-288f-462b-8646-69364a243958,web.network,resell,72,50,3,PDR Ltd. d/b/a PublicDomainRegistry.com,08/09/2016 12:51,08/09/2026 12:51
@@ -6155,7 +6155,7 @@ baf54616-288f-462b-8646-69364a243958,web.network,resell,72,50,3,PDR Ltd. d/b/a P
 fb87bfcc-df6d-4a8d-90e1-9a7ce80d0ac1,week.network,resell,98,12,4,Unstoppable Domains Inc,30/11/2022 17:21,30/11/2026 17:21
 e7f09e75-6d2b-40e0-9526-d35fb6b79da1,weeks.network,available,,13,5,,,
 a7c1a96b-987a-4d6e-80da-5e917c8c4702,welfarecheck.network,available,66,1,13,,,
-f525dfc6-c384-4acf-87e3-2dc65bdb3eaf,well.network,resell,74,32,4,Dynadot Inc,17/11/2019 15:30,17/11/2026 15:30
+f525dfc6-c384-4acf-87e3-2dc65bdb3eaf,well.network,resell,74,31,4,Dynadot Inc,17/11/2019 15:30,17/11/2026 15:30
 3465b165-1bc9-472d-9ad4-e47010f50e62,wellcovered.network,available,70,1,12,,,
 fd438556-3149-4b98-a736-40c275098f81,welltimed.network,available,50,3,10,,,
 79b9e47a-a996-47b8-8a94-eace54591ccd,wellworn.network,available,42,3,9,,,
@@ -6169,7 +6169,7 @@ d613cc96-b430-4b99-8766-99dc82349a63,west.network,resell,62,24,4,Dynadot Inc,05/
 17590bf7-a170-4720-8950-30b541641f15,whatsoever.network,available,60,3,10,,,
 04fa78a0-6101-4940-90d7-709f9f6d14c7,whattheheck.network,available,,3,13,,,
 d6fba70b-a340-4385-bdd5-caba2b4c095c,whatthehell.network,available,,4,13,,,
-b979c1d7-af49-40f9-ad89-b746d365d8c2,wheel.network,resell,100,18,5,"Global Domains International, Inc. DBA DomainCostClub.com",07/04/2017 18:31,07/04/2026 18:31
+b979c1d7-af49-40f9-ad89-b746d365d8c2,wheel.network,resell,100,17,5,"Global Domains International, Inc. DBA DomainCostClub.com",07/04/2017 18:31,07/04/2026 18:31
 fb7bcbdd-803e-4dbb-a9a4-53238adcdc99,wheelabout.network,available,,1,11,,,
 305feccc-9960-43f3-a6f6-dc340be4c4b2,wheezing.network,available,44,2,8,,,
 29078008-2d87-4355-ad04-83ca2cb3b7e0,wheezy.network,available,42,4,6,,,
@@ -6208,7 +6208,7 @@ a89d5d47-9a43-4685-a259-1b3c5a51b2d5,whotheheck.network,available,,1,12,,,
 19dcfbc6-2bd3-4949-b8eb-ccb8f2beba5c,widely.network,available,62,5,6,,,
 3adc1081-efe0-400c-bcbf-105ca90f8ecd,widen.network,available,68,7,5,,,
 9dd62c29-8480-4473-8354-b4685517b5d3,wideopen.network,available,,6,9,,,
-c000f402-db5c-4e84-a685-fcee1d3cb07a,widespread.network,available,66,4,10,,,
+c000f402-db5c-4e84-a685-fcee1d3cb07a,widespread.network,available,66,3,10,,,
 71ed6d9a-4d10-47ea-b761-696c4f11db2f,widowed.network,available,60,2,7,,,
 6d33dda1-c8dc-48f0-9d62-85a400a1f5b2,wind.network,resell,76,21,4,Dynadot Inc,29/04/2021 07:57,29/04/2026 07:57
 2b15e040-7989-43a4-9925-fde67a4d350a,window.network,resell,102,19,6,"NameSilo, LLC",28/06/2018 08:52,28/06/2026 08:52
@@ -6223,7 +6223,7 @@ f608a92a-75ef-45c6-8322-659cfd13031d,wintertime.network,available,,3,11,,,
 513b84a2-6456-4637-8355-d29cd0297ea8,wintertire.network,available,72,1,11,,,
 1c836f0e-8077-4589-b603-6a417d193984,wipeup.network,available,70,1,7,,,
 066663d4-d5e1-4a5c-806c-31b106454443,wireless.network,premium,106,19,8,,,
-d8f13861-d4d1-425d-a861-aa5d952a3863,wise.network,resell,98,36,4,"Sav.com, LLC",11/07/2017 08:04,11/07/2026 08:04
+d8f13861-d4d1-425d-a861-aa5d952a3863,wise.network,resell,98,35,4,"Sav.com, LLC",11/07/2017 08:04,11/07/2026 08:04
 14e0f643-de0f-4ba0-a836-dfd8dfd2b0c4,wishful.network,available,48,5,7,,,
 351b2bbc-9124-4585-b73c-321d5a866e0e,wishing.network,available,78,6,7,,,
 8ad181ed-6600-4064-a63a-ef83a2eca163,withering.network,available,37,2,9,,,
