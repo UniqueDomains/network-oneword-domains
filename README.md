@@ -1,22 +1,22 @@
-# Available .NETWORK One-Word Domains (7,340)
+# Available .NETWORK One-Word Domains (7,344)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-7%2C344%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-7%2C340%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-7%2C342%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-7%2C344%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .network one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .network one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 7,342-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **7,344 domains** on the canonical page below.
 
-**Public extract:** 7,344 rows · **Live catalog:** 7,340 domains
+**Public extract:** 7,342 rows · **Live catalog:** 7,344 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/network`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .NETWORK one-word doma
 
 ### Files
 
-- `network.csv` — public CSV extract (7,344 rows)
-- `network.json` — public JSON extract (7,344 rows)
+- `network.csv` — public CSV extract (7,342 rows)
+- `network.json` — public JSON extract (7,342 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -77,13 +77,13 @@ print(df.head())
 | box.network       | resell    | —         | —             | 68             | 78     | 3      | Spaceship, Inc.                                           |
 | adaptive.network  | premium   | $41.49    | $41.25        | 76             | 31     | 8      | name.com                                                  |
 | hundred.network   | available | $7.99     | $45.99        | 88             | 18     | 7      | name.com                                                  |
-| boss.network      | resell    | —         | —             | 76             | 73     | 4      | Sav.com, LLC - 22                                         |
+| wise.network      | resell    | —         | —             | 98             | 72     | 4      | Sav.com, LLC                                              |
 | adult.network     | premium   | $250      | $250          | 110            | 30     | 5      | name.com                                                  |
 | birth.network     | available | $7.99     | —             | 82             | 18     | 5      | name.com                                                  |
-| wise.network      | resell    | —         | —             | 98             | 72     | 4      | Sav.com, LLC                                              |
+| easy.network      | resell    | —         | —             | 128            | 68     | 4      | Spaceship, Inc.                                           |
 | services.network  | premium   | $260      | $260          | 72             | 29     | 8      | namecheap                                                 |
 | drawing.network   | available | $46.98    | —             | 82             | 18     | 7      | namecheap                                                 |
-| easy.network      | resell    | —         | —             | 128            | 68     | 4      | Spaceship, Inc.                                           |
+| flow.network      | resell    | —         | —             | 96             | 67     | 4      | Porkbun LLC                                               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 7,344-row public sample | 7,340 live domains                               |
+| 7,342-row public sample | 7,344 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .NETWORK One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .NETWORK One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
