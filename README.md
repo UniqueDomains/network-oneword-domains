@@ -3,7 +3,7 @@
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-7%2C342%20rows-8250df">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-7%2C341%20rows-8250df">
   <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-7%2C344%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
@@ -11,10 +11,10 @@
 
 Daily-updated public extract of available and resale .network one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 7,342-row extract**, not the full live catalog.
+> **Important:** this repository is a **public 7,341-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **7,344 domains** on the canonical page below.
 
-**Public extract:** 7,342 rows · **Live catalog:** 7,344 domains
+**Public extract:** 7,341 rows · **Live catalog:** 7,344 domains
 
 **Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/network`  
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .NETWORK one-word doma
 
 ### Files
 
-- `network.csv` — public CSV extract (7,342 rows)
-- `network.json` — public JSON extract (7,342 rows)
+- `network.csv` — public CSV extract (7,341 rows)
+- `network.json` — public JSON extract (7,341 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -69,11 +69,11 @@ print(df.head())
 | hotel.network     | premium   | $520      | $520          | 70             | 45     | 5      | namecheap                                                 |
 | later.network     | available | $7.99     | $45.99        | 74             | 20     | 5      | name.com                                                  |
 | iron.network      | resell    | —         | —             | 84             | 98     | 4      | Porkbun LLC                                               |
-| content.network   | premium   | $250      | $250          | 138            | 40     | 7      | name.com                                                  |
+| content.network   | premium   | $250      | $250          | 138            | 39     | 7      | name.com                                                  |
 | diligent.network  | available | $7.99     | $45.99        | 68             | 20     | 8      | name.com                                                  |
 | swift.network     | resell    | —         | —             | 68             | 85     | 5      | NameSilo, LLC                                             |
 | menu.network      | premium   | $42.90    | $42.90        | 70             | 36     | 4      | namecheap                                                 |
-| confident.network | available | $7.99     | $45.99        | 93             | 18     | 9      | name.com                                                  |
+| confident.network | available | $7.99     | $45.99        | 93             | 19     | 9      | name.com                                                  |
 | box.network       | resell    | —         | —             | 68             | 78     | 3      | Spaceship, Inc.                                           |
 | adaptive.network  | premium   | $41.49    | $41.25        | 76             | 31     | 8      | name.com                                                  |
 | hundred.network   | available | $7.99     | $45.99        | 88             | 18     | 7      | name.com                                                  |
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 7,342-row public sample | 7,344 live domains                               |
+| 7,341-row public sample | 7,344 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
