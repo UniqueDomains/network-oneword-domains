@@ -1,10 +1,10 @@
-# Available .NETWORK One-Word Domains (9,549)
+# Available .NETWORK One-Word Domains (9,988)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C549%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C988%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .network one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **9,549 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **9,988 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 9,549 domains
+**Public extract:** 1,000 rows · **Live catalog:** 9,988 domains
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/network`  
 **Best for:** founders, investors, studios
 
@@ -65,25 +65,25 @@ print(df.head())
 | domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
 | -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
 | translation.network  | available | $7.99     | —             | 76             | 24     | 11     | name.com                                                  |
-| ADS.network          | resell    | —         | —             | 70             | 43     | 3      | Porkbun LLC                                               |
+| elite.network        | resell    | —         | —             | 76             | 41     | 5      | Porkbun LLC                                               |
 | jobs.network         | premium   | $560      | $1,120        | 79             | 42     | 4      | namecheap                                                 |
 | makemoney.network    | available | $7.99     | —             | 88             | 23     | 10     | name.com                                                  |
-| elite.network        | resell    | —         | —             | 76             | 42     | 5      | Porkbun LLC                                               |
+| intelligence.network | resell    | —         | —             | 84             | 38     | 12     | Spaceship, Inc.                                           |
 | SanDiego.network     | premium   | $140      | $280          | 74             | 29     | 9      | namecheap                                                 |
 | HarryPotter.network  | available | $46.98    | —             | 72             | 20     | 12     | namecheap                                                 |
-| intelligence.network | resell    | —         | —             | 84             | 38     | 12     | Spaceship, Inc.                                           |
+| homes.network        | resell    | —         | —             | 86             | 34     | 5      | Global Domains International, Inc. DBA DomainCostClub.com |
 | doctors.network      | premium   | $23.10    | $46.20        | 56             | 26     | 7      | namecheap                                                 |
 | generations.network  | available | $7.99     | —             | 56             | 20     | 11     | name.com                                                  |
-| homes.network        | resell    | —         | —             | 86             | 34     | 5      | Global Domains International, Inc. DBA DomainCostClub.com |
-| users.network        | premium   | $140      | $280          | 54             | 18     | 5      | namecheap                                                 |
-| knows.network        | available | $7.99     | —             | 48             | 20     | 5      | name.com                                                  |
 | boring.network       | resell    | —         | —             | 62             | 34     | 6      | Global Domains International, Inc. DBA DomainCostClub.com |
 | ladies.network       | premium   | $14       | $28           | 80             | 17     | 6      | namecheap                                                 |
-| prints.network       | available | $7.99     | —             | 54             | 18     | 6      | name.com                                                  |
-| affiliate.network    | resell    | —         | —             | 80             | 32     | 9      | Porkbun LLC                                               |
-| hits.network         | premium   | $140      | $280          | 62             | 16     | 4      | namecheap                                                 |
-| dont.network         | available | $7.99     | —             | 42             | 18     | 4      | name.com                                                  |
+| knows.network        | available | $7.99     | —             | 48             | 20     | 5      | name.com                                                  |
 | database.network     | resell    | —         | —             | 85             | 31     | 8      | Global Domains International, Inc. DBA DomainCostClub.com |
+| hits.network         | premium   | $140      | $280          | 62             | 16     | 4      | namecheap                                                 |
+| prints.network       | available | $7.99     | —             | 54             | 18     | 6      | name.com                                                  |
+| fund.network         | resell    | —         | —             | 78             | 31     | 4      | Porkbun LLC                                               |
+| updates.network      | premium   | $280      | $560          | 54             | 15     | 7      | namecheap                                                 |
+| dont.network         | available | $7.99     | —             | 42             | 18     | 4      | name.com                                                  |
+| blocks.network       | resell    | —         | —             | 53             | 29     | 6      | Porkbun LLC                                               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 9,549 live domains                               |
+| 1,000-row public sample | 9,988 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .NETWORK One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .NETWORK One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
