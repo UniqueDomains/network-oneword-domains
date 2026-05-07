@@ -617,6 +617,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 3cc9ff89-619e-4acd-ade6-eaa1c5a7c49f,paintthinner.network,available,7.99,,56,1,13,name.com,,
 3cde64ce-1347-4386-804b-3a6617aa3cbb,leavethenest.network,available,7.99,,70,1,14,name.com,,
 3cef7741-96c6-48f6-9498-fcdc2c5143b7,comeintoeffect.network,available,7.99,,70,0,16,name.com,,
+3d07eb90-6c8f-42af-b038-af0e8d3ec1b8,hair.network,resell,,,72,24,4,"GoDaddy.com, LLC",10/09/2020 09:56,10/09/2026 09:56
 3d6590af-f927-4189-8112-b769c723a625,dogsledding.network,available,7.99,,76,2,11,name.com,,
 3d6cebc6-1cf3-4b12-a0d5-89b3e0c92118,DakotaCounty.network,available,46.98,,52,2,13,namecheap,,
 3d7b9d04-31eb-4830-b6da-9b695b46004b,coffeesyrup.network,available,7.99,,80,2,12,name.com,,
@@ -944,7 +945,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5c913eed-ebcc-4b8c-a674-cfa251ce614b,roastpork.network,available,7.99,,76,1,10,name.com,,
 5ca3e0aa-a32c-4e6f-b333-801e292da1f9,ontop.network,available,7.99,,66,14,6,name.com,,
 5cb6fcdc-a3ab-4e55-9b1c-7604b62a50fd,getoninyears.network,available,7.99,,44,0,15,name.com,,
-5cc1814b-0d7d-43e4-ab8b-fa630d750a43,fund.network,resell,,,78,31,4,Porkbun LLC,02/03/2021 23:34,02/03/2027 23:34
+5cc1814b-0d7d-43e4-ab8b-fa630d750a43,fund.network,resell,,,78,30,4,Porkbun LLC,02/03/2021 23:34,02/03/2027 23:34
 5d09fd17-7ec7-44e2-bd14-64e3b0997c4a,uncared.network,available,7.99,,57,1,7,name.com,,
 5d154b03-1d6a-41ef-bd7e-a1509707c1c1,commonhippopotamus.network,available,7.99,,66,1,19,name.com,,
 5d1af3c5-9cb5-444c-8177-5ff78db7ceb1,mattresses.network,available,7.99,,56,8,10,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 6183d745-bdc8-4758-82ff-45a3224e655c,getmedieval.network,available,7.99,,70,1,12,name.com,,
 61bccb77-a2d6-43fb-9385-3b4198f73560,setapart.network,available,7.99,,72,8,9,name.com,,
 61d07a2f-b4ce-4726-abc3-37f57bb8235c,havenoidea.network,available,7.99,,74,1,12,name.com,,
-61e120a9-e90e-46ca-83d0-12ef96f0e423,bankers.network,resell,,,52,11,7,"Sav.com, LLC",11/06/2024 01:05,11/06/2026 01:05
