@@ -414,6 +414,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 29d387d9-eba8-4554-a788-f7d0c38df5e2,intelligence.network,resell,,,84,38,12,"Spaceship, Inc.",06/07/2023 15:15,06/07/2026 15:15
 2a1d5ecc-8e49-4ad7-b355-2af6950a6544,GoldenValley.network,available,46.98,,58,6,13,namecheap,,
 2a45dc7e-4473-4076-94f5-ec03a43a0914,overwhelmed.network,available,7.99,,48,5,11,name.com,,
+2a4956fc-5c04-45d9-b325-41d7a83fe14c,ole.network,premium,,,74,25,3,,,
 2a5a1890-b5ed-46e6-ad69-41739a33e0cd,comeof.network,available,7.99,,74,1,7,name.com,,
 2a612388-e04b-4589-9a57-811e3141ca67,musts.network,available,7.99,,57,2,5,name.com,,
 2aa07625-113d-4599-acf4-2360d92b5add,getoutta.network,available,7.99,,54,1,9,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 614899b9-d122-4163-b060-0252022b7073,knows.network,available,7.99,,48,20,5,name.com,,
 6183d745-bdc8-4758-82ff-45a3224e655c,getmedieval.network,available,7.99,,70,1,12,name.com,,
 61bccb77-a2d6-43fb-9385-3b4198f73560,setapart.network,available,7.99,,72,8,9,name.com,,
-61d07a2f-b4ce-4726-abc3-37f57bb8235c,havenoidea.network,available,7.99,,74,1,12,name.com,,
