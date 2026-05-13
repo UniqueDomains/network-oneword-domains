@@ -411,7 +411,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 298cd6a9-28a9-41d7-89ad-e77270fc07c9,arrivals.network,available,7.99,,50,8,8,name.com,,
 29963055-f46f-4511-85ff-937c6fd253a3,herbalmedicines.network,available,7.99,,52,2,16,name.com,,
 29bee664-929b-4436-9316-b5135fc3b198,noticable.network,available,7.99,,52,1,9,name.com,,
-29d387d9-eba8-4554-a788-f7d0c38df5e2,intelligence.network,resell,,,84,38,12,"Spaceship, Inc.",06/07/2023 15:15,06/07/2026 15:15
+29d387d9-eba8-4554-a788-f7d0c38df5e2,intelligence.network,resell,,,84,39,12,"Spaceship, Inc.",06/07/2023 15:15,06/07/2026 15:15
 2a1d5ecc-8e49-4ad7-b355-2af6950a6544,GoldenValley.network,available,46.98,,58,6,13,namecheap,,
 2a45dc7e-4473-4076-94f5-ec03a43a0914,overwhelmed.network,available,7.99,,48,5,11,name.com,,
 2a4956fc-5c04-45d9-b325-41d7a83fe14c,ole.network,premium,,,74,25,3,,,
@@ -583,7 +583,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 39991226-fc31-47e5-9750-88512cb51331,variables.network,available,7.99,,50,6,9,name.com,,
 39ae2779-e5d5-4c40-aa6b-0df5d1c3af8b,Frenchicecream.network,available,46.98,,72,1,16,namecheap,,
 39b3caed-aac7-449d-9ff2-0501bdfd6f2e,carols.network,premium,14,28,56,7,6,namecheap,,
-39c5786c-4983-41ae-ae19-b410f003f505,translation.network,available,7.99,,76,24,11,name.com,,
+39c5786c-4983-41ae-ae19-b410f003f505,translation.network,available,7.99,,76,26,11,name.com,,
 39d5112f-b557-4149-95e3-662928cd6b66,toboggans.network,available,7.99,,59,1,9,name.com,,
 39db6533-320d-4535-b75b-f973730491ff,prejudices.network,available,7.99,,38,1,10,name.com,,
 39f984ea-bd66-45cc-8529-c83a1add0064,YankeeDoodle.network,available,46.98,,63,2,13,namecheap,,
