@@ -75,7 +75,7 @@ print(df.head())
 | translation.network  | available | $7.99     | —             | 76             | 26     | 11     | name.com                                                  |
 | elite.network        | resell    | —         | —             | 76             | 41     | 5      | Porkbun LLC                                               |
 | jobs.network         | premium   | $560      | $1,120        | 79             | 42     | 4      | namecheap                                                 |
-| makemoney.network    | available | $7.99     | —             | 88             | 23     | 10     | name.com                                                  |
+| makemoney.network    | available | $7.99     | —             | 88             | 22     | 10     | name.com                                                  |
 | intelligence.network | resell    | —         | —             | 84             | 39     | 12     | Spaceship, Inc.                                           |
 | SanDiego.network     | premium   | $140      | $280          | 74             | 29     | 9      | namecheap                                                 |
 | HarryPotter.network  | available | $46.98    | —             | 72             | 20     | 12     | namecheap                                                 |
