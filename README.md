@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .network one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 19,166 domains · **Median ask:** $9.70 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-12
+**Last updated:** 2026-09-13
 **Canonical page:** `https://unique.domains/domains/tld/network`
 **Best for:** founders, investors, studios
 
@@ -69,6 +69,7 @@ print(df.head())
 | great.network | resell    | —         | —             | high           | low    | 5      | Global Domains International, Inc. DBA DomainCostClub.com |
 | clean.network | resell    | —         | —             | high           | low    | 5      | Spaceship, Inc.                                           |
 | count.network | resell    | —         | —             | high           | low    | 5      | Sav.com, LLC                                              |
+| bully.network | available | —         | —             | high           | low    | 5      | —                                                         |
 | ashy.network  | available | $6.48     | $46.98        | low            | low    | 4      | namecheap                                                 |
 | ape.network   | resell    | —         | —             | medium         | low    | 3      | Dynadot Inc                                               |
 | are.network   | premium   | $140      | $280          | high           | low    | 3      | namecheap                                                 |
@@ -83,7 +84,6 @@ print(df.head())
 | cxx.network   | premium   | $13       | $26           | low            | low    | 3      | namecheap                                                 |
 | flak.network  | available | $6.48     | $46.98        | low            | low    | 4      | namecheap                                                 |
 | cow.network   | resell    | —         | —             | high           | low    | 3      | Dynadot Inc                                               |
-| him.network   | premium   | $14       | $28           | high           | low    | 3      | namecheap                                                 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .NETWORK One-Word Domains*. Version 2026-09-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .NETWORK One-Word Domains*. Version 2026-09-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
