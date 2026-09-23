@@ -2,7 +2,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 7b453da6-62c1-4c4e-810f-1af40a1c1566,against.network,available,7.99,,medium,low,7,name.com,,,
 6281b1a3-2644-429a-9418-70a8baee6f90,candidacy.network,available,7.99,,high,low,9,name.com,,,
 036b6376-c5ad-4072-bd1b-bbe3ce716d97,activity.network,resell,,,high,low,8,Turkticaret.net Yazılım Hizmetleri Sanayi ve Ticaret A.Ş.,15/08/2016 10:42,15/08/2027 10:42,
-8d1ffaa2-48ec-44ab-a3ad-dbee906ecc71,stunning.network,available,7.99,,high,low,8,name.com,,,
+8d1ffaa2-48ec-44ab-a3ad-dbee906ecc71,stunning.network,available,7.99,34.99,medium,low,8,namesilo,,,22/09/2026 08:34
 5503be0c-343b-4220-86f9-0a4e583e724e,spacious.network,available,7.99,,medium,low,8,name.com,,,
 292761f9-3062-4134-8fa0-c291da5c4d24,gobad.network,available,7.99,,high,low,6,name.com,,,
 cb1827b1-75bd-4444-b735-e4af45b4b8bc,aborticide.network,available,6.48,46.98,low,low,10,namecheap,,,
@@ -23,6 +23,7 @@ e184dac0-d76d-43c7-a729-2982fd2a0a27,suitable.network,available,7.99,,medium,low
 b619e635-af0d-4a97-9688-fc1a4bdfaa04,notes.network,resell,,,medium,low,5,"Spaceship, Inc.",17/07/2023 16:01,17/07/2027 16:01,19/09/2026 10:15
 dc5ea37d-a374-4e76-a9b2-e6764866fcaa,carryout.network,available,7.99,,high,low,9,name.com,,,
 bf720127-c6a0-4f0a-bf7a-a95ee67119c2,cinderella.network,available,7.99,,high,low,10,name.com,,,
+0ede2db3-96b5-41d9-9f63-5143bf6e8f80,automotive.network,resell,,,medium,low,10,,,,22/09/2026 14:07
 e04f44d7-8eb9-48a6-9301-82fe5a8fa22d,lisbon.network,premium,140,280,high,low,6,namecheap,,,
 30727351-584b-4044-a237-ffd0f928bb85,pal.network,resell,,,high,low,3,Porkbun LLC,06/09/2018 14:20,06/09/2027 14:20,
 88298e07-2eeb-48d8-8771-c91d90837e3e,paper.network,resell,,,high,low,5,"GoDaddy.com, LLC",17/04/2015 07:49,17/04/2027 07:49,
@@ -46,7 +47,7 @@ beabefc4-1460-4a72-b996-8464ff796ca1,homoecious.network,available,6.48,46.98,low
 6b78bd9b-c98d-43f6-9828-c3ba36d50329,fanletter.network,available,7.99,,medium,low,10,name.com,,,
 04a4ecac-e748-47f6-8ebc-8ba3e4ae4ef9,bantoid.network,available,6.48,46.98,low,low,7,namecheap,,,08/08/2026 14:45
 c0380bfb-36f2-4e19-bc6b-68801e54d484,hiding.network,available,6.48,46.98,low,low,6,namecheap,,,08/09/2026 11:45
-03748e6f-3b70-4636-afc1-54e036428985,feel.network,resell,,,high,low,4,Squarespace Domains II LLC,15/03/2022 13:15,15/03/2027 13:15,
+03748e6f-3b70-4636-afc1-54e036428985,feel.network,resell,,,high,low,4,Squarespace Domains II LLC,15/03/2022 13:15,15/03/2027 13:15,22/09/2026 16:17
 5a58fe0a-9b68-40a6-a7c6-c6ef9794935b,deposit.network,resell,,,high,low,7,"Sav.com, LLC - 13",25/06/2024 15:15,25/06/2026 15:15,
 74a09c17-7440-45e9-a9e0-a29e5e4d7904,condemn.network,available,7.99,,medium,low,7,name.com,,,
 2d87f351-d6ce-43be-9f03-0727f0ee2243,alexander.network,resell,,,high,low,9,"Sav.com, LLC - 47",08/09/2026 15:15,08/09/2027 15:15,18/09/2026 04:02
@@ -55,9 +56,9 @@ c0380bfb-36f2-4e19-bc6b-68801e54d484,hiding.network,available,6.48,46.98,low,low
 d1d46a31-3f53-4eef-bd83-08dbfe818f7d,apsidal.network,available,6.48,46.98,low,low,7,namecheap,,,06/08/2026 10:18
 18fdfe26-2cce-4aea-8725-be0786b96ddc,sixer.network,available,6.48,46.98,low,low,5,namecheap,,,
 5dc57a09-3884-4335-be7f-2c491d1f5877,naturewriting.network,available,7.99,,low,low,14,name.com,,,
-31b73cbb-c8dd-4b8b-944a-f50a1a32173d,abouteast.network,available,7.99,,medium,low,10,name.com,,,
+31b73cbb-c8dd-4b8b-944a-f50a1a32173d,abouteast.network,available,7.99,,low,low,10,name.com,,,
 002a63cb-d8ca-4099-aa84-db8fb069c7e1,irritable.network,available,7.99,,medium,low,9,name.com,,,
-24ea7e70-2b98-4333-bad7-a1f01a474a51,absorbent.network,available,6.48,46.98,low,low,9,namecheap,,,
+24ea7e70-2b98-4333-bad7-a1f01a474a51,absorbent.network,available,6.48,46.98,medium,low,9,namecheap,,,
 33577e1f-13a7-4d2f-950c-c62a195af7a3,ghostlike.network,available,6.48,46.98,low,low,9,namecheap,,,06/08/2026 05:23
 3e9a3b79-4da0-43a0-a0a3-24bf8067a9c3,inevitable.network,available,,,medium,low,10,,,,
 a7d844be-cff2-43fd-98ce-8a935afd49b1,repugnant.network,available,6.48,46.98,low,low,9,namecheap,,,
@@ -66,7 +67,7 @@ a6cb330b-0a1c-4e1f-8e89-b963a83d9b5f,netherlands.network,available,,,medium,low,
 2ed8f883-e370-47d1-bf87-9499406f2220,suntea.network,available,7.99,,high,low,7,name.com,,,
 8d083426-99bc-4f62-be14-e699005075fd,enjoy.network,available,,,high,low,5,,,,
 d25eb106-fb55-459c-99e8-b84f8a80f93f,generalgoods.network,available,7.99,,medium,low,13,name.com,,,
-7833f204-8b64-4bdd-9e68-eaa7c6b2a360,bland.network,available,7.99,,medium,low,5,name.com,,,
+7833f204-8b64-4bdd-9e68-eaa7c6b2a360,bland.network,available,7.99,34.99,low,low,5,namesilo,,,22/09/2026 21:44
 9092c714-0860-4d16-ab07-5581993403b2,frenchlavender.network,available,7.99,,high,low,15,name.com,,,
 2149cf0f-3d89-494a-8c26-191bff1b6d41,lamp.network,resell,,,medium,low,4,"NameSilo, LLC",17/05/2018 07:54,17/05/2027 07:54,
 3382fd6e-31f3-4c7e-bdba-8e2f46e2b58f,campaigning.network,available,7.99,,medium,low,11,name.com,,,
@@ -93,27 +94,27 @@ b337ffd3-4a92-4510-aec4-31bd2c1976a2,lowercase.network,available,7.99,,high,low,
 74e8e6b8-970d-42a2-800e-0dfca0e24021,bro.network,resell,,,medium,low,3,"NameCheap, Inc.",07/09/2025 15:15,07/09/2026 15:15,
 e8cb3e37-4432-4e69-892c-ee4ba2256a40,rotated.network,available,7.99,,medium,low,7,name.com,,,
 4e264dd7-80d6-4cde-868e-7caa89f23f6e,sympathise.network,available,7.99,,high,low,10,name.com,,,
-1f6d2524-b6da-4353-852c-c4adf39c3676,awesome.network,resell,,,high,medium,7,"Spaceship, Inc.",29/07/2024 15:15,29/07/2027 15:15,20/09/2026 03:42
+1f6d2524-b6da-4353-852c-c4adf39c3676,awesome.network,resell,,,medium,low,7,"Spaceship, Inc.",29/07/2024 15:15,29/07/2027 15:15,22/09/2026 15:04
 1e11d223-9233-4738-a840-083b2dbf2150,alabaster.network,available,6.48,46.98,low,low,9,namecheap,,,
-05498c66-2f63-4811-a1ab-a7d02a1bf513,cleared.network,available,7.99,45.99,high,low,7,name.com,,,
+05498c66-2f63-4811-a1ab-a7d02a1bf513,cleared.network,available,7.99,34.99,medium,low,7,namesilo,,,21/09/2026 14:48
 40acd6a4-61da-41c2-bec5-7183a0c0bb0b,masterful.network,available,7.99,45.99,high,low,9,name.com,,,
 08b8ab49-0a44-491a-8f54-a554244361f8,sink.network,available,,,medium,low,4,,,,
 ec3fee85-7260-42bd-9078-0643fc69dd2e,anestric.network,available,6.48,46.98,low,low,8,namecheap,,,
 e2ea0e07-2105-451f-ab19-a08040109d3a,radioactivity.network,available,7.99,,low,low,13,name.com,,,
 8865988d-1899-47f7-ad0d-0ae6c1b4f9f0,visual.network,resell,,,medium,low,6,"Spaceship, Inc.",29/07/2017 12:19,29/07/2027 12:19,19/09/2026 17:59
-d8afbd15-31bc-4302-88c1-f4fa45fcd611,trial.network,resell,,,high,low,5,"Sav.com, LLC",01/08/2024 17:07,01/08/2026 17:07,
+d8afbd15-31bc-4302-88c1-f4fa45fcd611,trial.network,resell,,,high,low,5,"Spaceship, Inc.",01/08/2024 17:07,01/08/2027 17:07,20/09/2026 09:32
 d09fc508-774e-4d8b-83ba-ef37fd752640,unemployed.network,available,7.99,,medium,low,10,name.com,,,
 8442d645-4d82-441a-9e80-17b65ae9b4f9,howareyou.network,available,7.99,,medium,low,11,name.com,,,
 7ee07209-bbc0-474c-ad8f-d4911a88aca7,chiefexecutive.network,available,7.99,,high,low,15,name.com,,,
-9190ea1e-3895-4ff5-9746-f8bf626beda2,alphabetic.network,available,7.99,45.99,medium,low,10,name.com,,,
+9190ea1e-3895-4ff5-9746-f8bf626beda2,alphabetic.network,available,7.99,34.99,low,low,10,namesilo,,,22/09/2026 02:10
 e57ccf44-918f-4b41-bc99-8e18098cb928,hardfacts.network,available,7.99,,medium,low,10,name.com,,,
 f61167b7-1986-49bb-82a6-9bdd1b3bf7cf,ascetical.network,available,6.48,46.98,low,low,9,namecheap,,,07/08/2026 01:01
-22f1b2fc-2cde-47c5-8870-f5e4833577a2,decorated.network,available,7.99,45.99,medium,low,9,name.com,,,
+22f1b2fc-2cde-47c5-8870-f5e4833577a2,decorated.network,available,7.99,34.99,low,low,9,namesilo,,,21/09/2026 19:45
 cc0f0d23-f762-478d-886d-e8a046792204,slighting.network,available,6.48,46.98,low,low,9,namecheap,,,09/08/2026 13:15
 e72be571-6cdd-4878-9114-0d6a1428d14a,antsy.network,available,6.48,46.98,low,low,5,namecheap,,,05/08/2026 20:27
 85cc55ed-9c43-4370-981f-461461f5438d,nowandthen.network,available,7.99,,low,low,12,name.com,,,
 58686754-b8d9-4994-8268-ac4a826b1ba7,havegot.network,available,7.99,,high,low,8,name.com,,,
-f691adf0-cce7-409f-85a7-b0e8ef32cc76,nought.network,available,7.99,45.99,high,low,6,name.com,,,
+f691adf0-cce7-409f-85a7-b0e8ef32cc76,nought.network,available,7.99,34.99,medium,low,6,namesilo,,,21/09/2026 10:34
 5fdd4f6a-7566-4e23-9f28-38891e194a94,subjective.network,available,7.99,,medium,low,10,name.com,,,
 8647d4bc-12c9-43f4-9731-7abf59889313,businessventure.network,available,7.99,,high,low,16,name.com,,,
 482c9b14-f2f1-400c-903e-ff121ef398e6,frenchroast.network,available,7.99,,medium,low,12,name.com,,,
@@ -121,12 +122,12 @@ dae58995-5e04-4cfe-b5d1-aee75943582e,veal.network,available,7.99,,medium,low,4,n
 3fdcc508-7883-4607-ab2c-bfdc0585434e,flyingsaucer.network,available,7.99,,high,low,13,name.com,,,
 0a00addc-804f-46dc-973b-3521d61686d7,eightyone.network,available,6.48,46.98,low,low,10,namecheap,,,
 cd3f2acc-8790-4424-af9f-41c523be74f1,inexpert.network,available,6.48,46.98,low,low,8,namecheap,,,
-25320a5a-2559-4e49-81d8-b97d9912bc68,out.network,resell,,,medium,low,3,Dynadot Inc,11/06/2024 01:05,11/06/2027 01:05,19/09/2026 10:34
+25320a5a-2559-4e49-81d8-b97d9912bc68,out.network,resell,,,medium,low,3,Dynadot Inc,11/06/2024 01:05,11/06/2027 01:05,23/09/2026 05:30
 9dfd488f-625d-4a94-bedf-056589635771,bemother.network,available,7.99,,low,low,9,name.com,,,
 b136bd46-701c-4785-aa39-2278bd500024,stink.network,available,7.99,,high,low,5,name.com,,,
 ec18c2bd-5366-4aec-b0d8-0bc2f7a1cf5b,nothanks.network,available,7.99,,medium,low,9,name.com,,,
 8ab4a656-dfb0-49fc-a5d4-6d957535573d,autarkical.network,available,6.48,46.98,low,low,10,namecheap,,,07/08/2026 18:42
-46bd4609-4522-48df-97b7-f0e137cf1b94,damned.network,available,7.99,,medium,low,6,name.com,,,
+46bd4609-4522-48df-97b7-f0e137cf1b94,damned.network,available,7.99,34.99,low,low,6,namesilo,,,22/09/2026 21:41
 732f5ada-3036-48d6-b54e-28591cfb5b84,westham.network,available,7.99,,low,low,8,name.com,,,
 6993ab13-cdd8-49b0-8fd6-eb6f328c831f,bali.network,resell,,,medium,medium,4,"Sav.com, LLC",11/04/2023 09:36,11/04/2027 09:36,
 3084ea2e-c5cb-41ca-bd91-96958e620a87,frenchmustard.network,available,7.99,,high,low,14,name.com,,,
@@ -221,7 +222,7 @@ c444f402-90a2-47d2-a543-1574614fba28,resolvable.network,available,7.99,,high,low
 82cbf806-d5d1-48fe-a20c-e82a23a426cd,sweatshirt.network,available,7.99,,high,low,10,name.com,,,
 3ae29437-717c-4ca9-b515-ac106c0217d7,fixitagaintony.network,available,7.99,,medium,low,17,name.com,,,
 e2d4a366-50bf-4dc0-8835-9c2405fa4cd7,adulterant.network,available,6.48,46.98,low,low,10,namecheap,,,
-75ba3c57-2e69-4cee-a474-55120aeb5a0e,xxvi.network,available,7.99,45.99,medium,low,4,name.com,,,
+75ba3c57-2e69-4cee-a474-55120aeb5a0e,xxvi.network,available,7.99,34.99,low,low,4,namesilo,,,21/09/2026 12:52
 4d159f16-2829-446d-bbf5-dfee547020b2,comeby.network,available,7.99,,high,low,7,name.com,,,
 c611e472-30b0-473d-9d77-5d6baf5aecbe,acheronian.network,available,6.48,46.98,low,low,10,namecheap,,,
 8606dca9-5e3e-48fe-b0bc-6a1d1c187fea,successfully.network,available,7.99,,medium,low,12,name.com,,,
@@ -255,19 +256,19 @@ eada4be9-e9c5-4b2f-be13-5fe15899f6cf,industrial.network,resell,,,medium,low,10,"
 54159382-7a08-48d6-8884-1f85f3034b2b,parkingattendant.network,available,7.99,,medium,low,17,name.com,,,
 29fedb79-1a34-484d-a024-2622f8228c4f,keepthepeace.network,available,7.99,,high,low,14,name.com,,,
 b5a6ba5a-5883-40ce-92cf-4babeb30eda3,nectarous.network,available,6.48,46.98,low,low,9,namecheap,,,
-8876d6a2-4c7e-4a49-a2ea-9416cd017cda,orso.network,available,7.99,45.99,medium,low,5,name.com,,,
+8876d6a2-4c7e-4a49-a2ea-9416cd017cda,orso.network,available,7.99,34.99,low,low,5,namesilo,,,21/09/2026 14:25
 a1fe222b-e58b-41bb-b987-3b65366cdb66,belarusian.network,available,6.48,46.98,low,low,10,namecheap,,,09/08/2026 12:32
 46681d1e-4294-4d13-b58a-5fc54aba40b3,lxvi.network,available,6.48,46.98,low,low,4,namecheap,,,
 e688cd49-008d-47d9-a3dc-90c14b05b6ae,cheerfully.network,available,7.99,,high,low,10,name.com,,,
 c5325baf-603d-42e2-a23b-88e3b74da3fe,duchess.network,available,7.99,,high,low,7,name.com,,,
-17508546-a1f8-423f-90f1-6d4dec24a8e0,prenatal.network,available,7.99,,high,low,8,name.com,,,
+17508546-a1f8-423f-90f1-6d4dec24a8e0,prenatal.network,available,7.99,34.99,medium,low,8,namesilo,,,22/09/2026 05:55
 f7fddf60-f55a-4e80-b93f-e7bdd16f2692,serveup.network,available,7.99,,high,low,8,name.com,,,
 fb9c77fe-849c-41bd-a0d4-88505aa1dc06,nipping.network,available,6.48,46.98,low,low,7,namecheap,,,08/08/2026 16:46
 97a19927-9207-4f25-ac3d-a2b10d5243b4,pot.network,premium,560,1120,high,low,3,namecheap,,,
 b6cf6900-4460-4e04-86a9-e08f77b25138,peppermintoil.network,available,7.99,,low,low,14,name.com,,,
 9df5f705-48cd-4ecf-849e-4a609a7a7fcc,aversive.network,available,6.48,46.98,low,low,8,namecheap,,,07/08/2026 22:40
 989f83bd-1196-4f49-872e-f6a855599d0c,drawn.network,available,7.99,,medium,low,5,name.com,,,
-e3f93385-3230-46ff-861a-4815e21b7ed7,adequate.network,available,7.99,45.99,high,low,8,name.com,,,
+e3f93385-3230-46ff-861a-4815e21b7ed7,adequate.network,available,6.48,46.98,medium,low,8,namecheap,,,21/09/2026 18:22
 e5c9d150-a1be-499e-b000-9692ca8fc2eb,havesomeonethere.network,available,7.99,,medium,low,18,name.com,,,
 0e83c376-725a-414a-a6ef-2c382a3c604f,avifaunal.network,available,6.48,46.98,low,low,9,namecheap,,,07/08/2026 23:30
 12007877-a780-4b3c-9a5a-49b6e5ef91b3,sliding.network,available,7.99,,high,low,7,name.com,,,
@@ -280,7 +281,7 @@ b196ef8f-1fc6-495e-8a84-36078154c0c0,makeitbig.network,available,7.99,,medium,lo
 4b99998f-f822-4f56-88b3-6f2b6f4a7653,whichever.network,available,7.99,,medium,low,9,name.com,,,
 869cd1f3-52ac-4d86-a446-25da4115a13f,manythanks.network,available,7.99,,high,low,11,name.com,,,
 c0aff47a-412a-41d7-adb1-7beb9eafa1d7,acceptant.network,available,6.48,46.98,low,low,9,namecheap,,,
-a25d8f87-496e-48e6-96f8-ab8d2550eacb,auditory.network,available,7.99,,high,low,8,name.com,,,
+a25d8f87-496e-48e6-96f8-ab8d2550eacb,auditory.network,available,6.48,46.98,medium,low,8,namecheap,,,22/09/2026 12:39
 11e01ffd-39d4-4f5c-a68c-b0ffa4cb534e,goforgold.network,available,7.99,,high,low,11,name.com,,,
 9b66455b-f0b0-47c5-9be6-62b77dbc0099,abeyant.network,available,6.48,46.98,low,low,7,namecheap,,,
 3d4e0d3c-f37e-4984-8b3a-45db678f93a1,basinal.network,available,6.48,46.98,low,low,7,namecheap,,,08/08/2026 22:32
@@ -288,7 +289,7 @@ ce4b7fef-0407-4486-a61b-a7c00faaa289,affirmative.network,available,7.99,,high,lo
 2e057e77-e41a-4724-af14-2dad17903c74,eyeofthebeholder.network,available,7.99,,high,low,19,name.com,,,
 24069ed1-4593-4be9-a36b-f64ed88aad8a,rhoda.network,available,7.99,,medium,low,5,name.com,,,
 8e61ba2b-0180-46b0-9cbe-192408c2e0c4,gregor.network,available,7.99,,medium,low,6,name.com,,,
-bff4d843-2815-4762-9a3c-a306ec195548,genius.network,resell,,,high,medium,6,"Spaceship, Inc.",10/12/2014 16:28,10/12/2026 16:28,
+bff4d843-2815-4762-9a3c-a306ec195548,genius.network,resell,,,medium,low,6,"Spaceship, Inc.",10/12/2014 16:28,10/12/2026 16:28,21/09/2026 17:41
 7caaca11-fa1e-41fe-929b-2920ee94d455,ammoniacal.network,available,6.48,46.98,low,low,10,namecheap,,,
 852fb133-3bab-4828-a718-4ce6d2a4dcf1,clxv.network,available,6.48,46.98,low,low,4,namecheap,,,
 41da84b8-b597-453b-8da2-f60ac8e6d65f,assistive.network,available,6.48,46.98,low,low,9,namecheap,,,07/08/2026 06:40
@@ -297,8 +298,9 @@ ef839fde-3e92-45c9-a317-e8681ed8e62b,sauce.network,resell,,,high,low,5,"Sav.com,
 8acdd9fe-e94d-4407-944d-0a7f66b686cb,bluetooth.network,premium,140,280,high,low,9,namecheap,,,
 723e4249-9b20-4c1f-b37b-ee96a2ee1f11,encouraged.network,available,7.99,,medium,low,10,name.com,,,
 d0c82b0b-514b-41ea-ba0d-7b10361ae0b7,generalelection.network,available,7.99,,medium,low,16,name.com,,,
-1fb63801-d4ff-4394-a33b-9b20aa75cc3f,word.network,resell,,,high,low,4,"Spaceship, Inc.",08/08/2023 17:00,08/08/2026 17:00,
+1fb63801-d4ff-4394-a33b-9b20aa75cc3f,word.network,resell,,,high,low,4,"Spaceship, Inc.",08/08/2023 17:00,08/08/2027 17:00,20/09/2026 15:34
 b5f17b26-a067-4b2a-89fc-d3a9f52ecef0,kitchensink.network,available,7.99,,medium,low,12,name.com,,,
+0ffe2bd2-5503-4b19-9df6-7e30b7235f7d,easy.network,resell,,,medium,low,4,"Spaceship, Inc.",15/05/2018 08:15,15/05/2027 08:15,23/09/2026 04:35
 6fe4a680-1dd7-4bf3-be0c-6a8a9f1e8e4e,figure.network,resell,,,high,low,6,"Global Domains International, Inc. DBA DomainCostClub.com",10/03/2023 19:03,10/03/2027 19:03,
 a5167fb4-d52a-4cd7-8bfb-d7b02904ba7a,apolitical.network,available,6.48,46.98,low,low,10,namecheap,,,06/08/2026 02:02
 54c5562a-3b21-48e4-8d55-9b62d7dff178,aciculate.network,available,6.48,46.98,low,low,9,namecheap,,,
@@ -319,11 +321,11 @@ d1bae8a9-7406-4f1f-8a15-1a7f861734cb,ideally.network,available,7.99,,medium,low,
 9d4b843d-78b5-4848-a20f-21ef225b5ace,lowbrow.network,available,6.48,46.98,low,low,7,namecheap,,,
 71b085ea-423d-43a7-9a3f-99075daf5c0f,shoes.network,resell,,,high,low,5,"Global Domains International, Inc. DBA DomainCostClub.com",05/04/2015 03:12,05/04/2027 03:12,
 85bf89a8-6500-426a-af49-ddbad12c44d4,glittering.network,available,6.48,46.98,low,low,10,namecheap,,,
-66fa45c1-1a87-4170-8b2a-23ba49f122bb,subsidiary.network,available,7.99,,high,low,10,name.com,,,
+66fa45c1-1a87-4170-8b2a-23ba49f122bb,subsidiary.network,available,7.99,34.99,medium,low,10,namesilo,,,22/09/2026 14:17
 4b6112cc-4cf8-4057-a6af-e3c45805773c,scale.network,resell,,,high,medium,5,Porkbun LLC,13/01/2018 09:51,13/01/2027 09:51,
-b140ef87-bf52-438a-a155-125cd95a43f0,tenner.network,available,7.99,45.99,medium,low,6,name.com,,,
+b140ef87-bf52-438a-a155-125cd95a43f0,tenner.network,available,6.48,46.98,low,low,6,namecheap,,,21/09/2026 10:53
 2568d899-30b3-4e8a-8989-0eb32fde0722,amnionic.network,available,6.48,46.98,low,low,8,namecheap,,,
-4c4902e1-97d0-4ba3-85ae-6ee4f9a32f1d,thousand.network,available,7.99,45.99,high,low,8,name.com,,,
+4c4902e1-97d0-4ba3-85ae-6ee4f9a32f1d,thousand.network,available,7.99,34.99,medium,low,8,namesilo,,,21/09/2026 11:02
 b17b0b77-2154-44cd-9d02-b69977623ae9,gotothetoilet.network,available,7.99,,medium,low,16,name.com,,,
 c767b12f-a8b1-429c-913b-579ed0a8093e,bankrupt.network,available,6.48,46.98,low,low,8,namecheap,,,08/08/2026 13:29
 5f0ccbf8-8732-4b01-90ac-fd78ae69636a,frenchrepublic.network,available,,,medium,low,15,,,,
@@ -349,7 +351,7 @@ ead2eadc-634d-4d1b-ae07-bffc49548bc2,ape.network,resell,,,medium,low,3,Dynadot I
 0adb38f7-57d3-4bd1-b7bc-76ac7a4b2c16,distinctness.network,available,7.99,,high,low,12,name.com,,,
 43a3c7e7-e171-47dd-8127-846ae91ef899,aphakic.network,available,6.48,46.98,low,low,7,namecheap,,,05/08/2026 22:56
 e29d045b-a6ec-4de7-9b2e-8be5770eac8a,apocarpous.network,available,6.48,46.98,low,low,10,namecheap,,,06/08/2026 01:00
-5261e0d7-3927-4b8a-8a52-d0a520b0f893,born.network,resell,,,high,low,4,"Sav.com, LLC",14/09/2025 13:32,14/09/2026 13:32,
+5261e0d7-3927-4b8a-8a52-d0a520b0f893,born.network,resell,,,medium,low,4,"Sav.com, LLC",14/09/2025 13:32,14/09/2027 13:32,23/09/2026 00:37
 e53362d7-d41c-478f-85cb-a1e454f40842,atthelast.network,available,7.99,,medium,low,11,name.com,,,
 e6b7a031-5711-44d1-bc2a-8a61d420f7d5,cookie.network,resell,,,high,low,6,Automattic Inc.,04/07/2022 13:15,04/07/2029 13:15,
 5d6cf452-f67c-4d52-9e77-f559d63af444,nightlong.network,available,6.48,46.98,low,low,9,namecheap,,,
@@ -361,7 +363,7 @@ d23e66b8-f047-4e48-89ad-fbab6e182fe2,arbitrable.network,available,6.48,46.98,low
 fd027863-1dd6-4492-bc83-c5ab34b9cf8c,committee.network,available,,,medium,low,9,,,,
 bb2e405e-cc76-4f25-a3dd-9e5d53f81071,tested.network,available,7.99,,high,low,6,name.com,,,
 7e43eb38-7ad6-4d65-b842-8ac918b29be3,satisfied.network,available,7.99,,high,low,9,name.com,,,
-19a821b7-1987-4037-93cf-7726f773ca21,beatenup.network,available,7.99,,medium,low,9,name.com,,,
+19a821b7-1987-4037-93cf-7726f773ca21,beatenup.network,available,6.48,46.98,low,low,9,namecheap,,,22/09/2026 18:22
 88d4d421-40ea-402c-a71b-37abe3aa296a,accessary.network,available,6.48,46.98,low,low,9,namecheap,,,
 6f5d005f-679c-4a94-8a1f-a12a74bb8648,crosswordpuzzle.network,available,7.99,,high,low,16,name.com,,,
 e14c2ef5-25bf-4c04-ab44-2f2606d70808,breathoffreshair.network,available,7.99,,high,low,19,name.com,,,
@@ -380,7 +382,7 @@ b9bb7680-0c2b-41a9-94cc-20e9badebb97,destined.network,available,7.99,45.99,high,
 cd2063df-0897-4bcc-af4f-ab299efeccb0,garbed.network,available,6.48,46.98,low,low,6,namecheap,,,06/08/2026 04:52
 baccde16-890f-4db5-b5c9-68049ab9335c,cliche.network,available,7.99,,high,low,6,name.com,,,
 e85bf97f-ca73-42ce-8f4a-912f92085be0,abashed.network,available,6.48,46.98,low,low,7,namecheap,,,
-2a1e378e-3b53-4c4e-bc27-bd242df67739,adjustable.network,available,7.99,45.99,high,low,10,name.com,,,
+2a1e378e-3b53-4c4e-bc27-bd242df67739,adjustable.network,available,6.48,46.98,medium,low,10,namecheap,,,21/09/2026 18:40
 618ea64b-0f9e-43cd-b376-516b1bc9e539,ballroom.network,available,7.99,,high,low,8,name.com,,,
 8e81697c-fd5b-4b0e-a89c-ee143732d12d,laughter.network,available,7.99,,high,low,8,name.com,,,
 88f381dd-4728-4e4c-8a1f-23d0cda4bb18,thisisit.network,available,7.99,,low,low,10,name.com,,,
@@ -388,14 +390,13 @@ e85bf97f-ca73-42ce-8f4a-912f92085be0,abashed.network,available,6.48,46.98,low,lo
 cc916192-e978-4ec9-bf2b-ee9e6bb9e12d,baggagecheck.network,available,7.99,,high,low,13,name.com,,,
 51d930d8-debd-45e8-b1c2-9b1049138f34,beating.network,available,7.99,,high,low,7,name.com,,,
 891b6901-8c31-42a9-8c63-82c9a967e3cf,gomental.network,available,7.99,,medium,low,9,name.com,,,
-fee0e8c2-92fc-4967-9f33-32db56442fcb,acentric.network,available,,,medium,low,8,,,,
+fee0e8c2-92fc-4967-9f33-32db56442fcb,acentric.network,available,,,low,low,8,,,,
 03351496-e3d7-4700-aaae-62a738d87c20,bossy.network,available,,,high,low,5,,,,
 71ed6d9a-4d10-47ea-b761-696c4f11db2f,widowed.network,available,7.99,,medium,low,7,name.com,,,
-f5da4b23-d8b6-46ac-8d30-7b1030d4499c,roi.network,resell,,,high,low,3,"NameCheap, Inc.",15/08/2025 15:15,15/08/2026 15:15,
+f5da4b23-d8b6-46ac-8d30-7b1030d4499c,roi.network,resell,,,high,low,3,"Spaceship, Inc.",15/08/2025 15:15,15/08/2027 15:15,20/09/2026 22:23
 bd99f2bc-5ab1-4cd4-b623-4be712591301,seriousness.network,available,7.99,,low,low,11,name.com,,,
 36d9f4f0-06ac-40b5-b9fc-a05e28317d13,considered.network,available,7.99,45.99,high,low,10,name.com,,,
-66a268fc-e5c6-42ff-bf17-fcdacafac9b8,binding.network,available,7.99,,high,low,7,name.com,,,
-38dfc18a-ed63-423c-bc6f-89b8214f3b97,courageous.network,available,,,high,high,10,,,,
+66a268fc-e5c6-42ff-bf17-fcdacafac9b8,binding.network,available,6.48,46.98,medium,low,7,namecheap,,,22/09/2026 20:51
 3ce35620-6d86-476c-a174-c4f315c618b9,holycrap.network,available,7.99,,medium,low,9,name.com,,,
 7cda44ca-f1d4-46eb-bad7-b51b657d4ab3,cherryblossom.network,available,,,high,low,14,,,,
 2edfb7ea-b017-4324-8988-bd18ae45136b,hypocritically.network,available,7.99,,medium,low,14,name.com,,,
@@ -445,7 +446,7 @@ f8183790-f317-440f-8e59-cdc631b5688a,abaxial.network,available,6.48,46.98,low,lo
 c34bff16-c431-4f50-aabb-1ee32e5c92cb,wikileaks.network,available,7.99,,low,low,9,name.com,,,
 0fd59f4d-7e65-4112-9018-9d549c95d50a,crash.network,resell,,,high,low,5,"Spaceship, Inc.",08/06/2024 15:15,08/06/2026 15:15,
 b66eb541-12f0-4864-9377-cbac1bd29981,allow.network,resell,,,low,low,5,Dynadot Inc,20/06/2026 20:35,20/06/2027 20:35,06/08/2026 09:03
-cbcfebfa-663f-43d5-b3f3-c32ff8f5efca,brag.network,available,7.99,,high,low,4,name.com,,,
+cbcfebfa-663f-43d5-b3f3-c32ff8f5efca,brag.network,available,7.99,34.99,medium,low,4,namesilo,,,23/09/2026 00:49
 1bc8ecba-e667-4330-80b9-b2c6fed266a1,ixl.network,premium,13,26,low,low,3,namecheap,,,
 b742c0e4-8d80-46a4-84c5-19cb911a47bb,nutrient.network,available,6.48,46.98,medium,low,8,namecheap,,,08/09/2026 11:42
 6525e6e3-42a5-4835-a9ed-b04628289be6,boy.network,premium,140,280,medium,low,3,namecheap,,,
@@ -465,7 +466,7 @@ c926de1f-7506-41b7-8aaf-87d62d0f190a,laptop.network,resell,,,high,low,6,Automatt
 e001278d-b373-41cc-8174-dc713c7828da,amaurotic.network,available,6.48,46.98,low,low,9,namecheap,,,
 7a6ee880-03d4-4abf-aa83-fdbb5bc508aa,californian.network,available,7.99,,high,low,11,name.com,,,
 b9440b39-3062-4cf0-a5ac-b1f5e0eb13ae,adonic.network,available,6.48,46.98,low,low,6,namecheap,,,
-cd020949-0566-40e5-8b81-4637a7b30490,abovewritten.network,available,7.99,,medium,low,13,name.com,,,
+cd020949-0566-40e5-8b81-4637a7b30490,abovewritten.network,available,7.99,,low,low,13,name.com,,,
 39cdf872-5904-4af6-94f9-e6359248ead0,aerobiotic.network,available,6.48,46.98,low,low,10,namecheap,,,
 ee3af81c-b0d0-4c2f-b438-796be66b01ef,mothafuggah.network,available,7.99,,medium,low,11,name.com,,,
 c5efe3a2-8054-48eb-8156-419e68d67693,antimonial.network,available,6.48,46.98,low,low,10,namecheap,,,
@@ -476,11 +477,11 @@ b10d4b78-738e-4d44-956b-19f9c6280ba3,are.network,premium,140,280,high,low,3,name
 701bc42f-dcd1-4ed0-8dbd-bd0a22f4513a,abranchial.network,available,6.48,46.98,low,low,10,namecheap,,,
 472f1ae8-6ea2-4495-a652-3c9f8c4490c7,anurous.network,available,6.48,46.98,low,low,7,namecheap,,,05/08/2026 21:27
 41fad786-3d1b-4b9c-a978-932c4ed46be7,goalong.network,available,7.99,,high,low,8,name.com,,,
-7ec6acce-9916-4016-afa1-2a0f2a3a3f88,angular.network,available,7.99,,high,low,7,name.com,,,
+7ec6acce-9916-4016-afa1-2a0f2a3a3f88,angular.network,available,7.99,34.99,low,low,7,namesilo,,,22/09/2026 04:30
 921ce928-64c5-4300-a4a3-01fd7e89a971,effective.network,premium,500,500,high,low,9,name.com,,,
 87804454-7d68-4b01-95ae-814acd6ca66e,psychologist.network,premium,23.1,46.2,medium,low,12,namecheap,,,
 7998ff27-1ecf-438b-902b-3affade5b190,anabatic.network,available,6.48,46.98,low,low,8,namecheap,,,
-406999c1-7c11-485f-b66f-7c48eb533050,adult.network,premium,250,250,high,low,5,name.com,,,
+406999c1-7c11-485f-b66f-7c48eb533050,adult.network,premium,130,260,medium,low,5,namecheap,,,21/09/2026 19:57
 e297a6e1-c0b3-4159-a9ef-af2ec611dc17,opposable.network,available,6.48,46.98,low,low,9,namecheap,,,06/08/2026 07:43
 8ed5afc1-82b6-4526-9311-ce0ace5d426b,ablated.network,available,6.48,46.98,low,low,7,namecheap,,,
 6dfae597-0711-4ee6-8d83-bf437e6c15f2,howmuchisit.network,available,7.99,,medium,low,14,name.com,,,
@@ -500,7 +501,7 @@ ec7e1eeb-ac2d-489c-aa10-8af4cf80584c,excited.network,available,7.99,,high,low,7,
 76ed7b61-b10d-4217-877d-a78e162f67d2,hit.network,resell,,,high,low,3,"Global Domains International, Inc. DBA DomainCostClub.com",11/07/2024 15:15,11/07/2027 15:15,18/09/2026 03:21
 99cb7adc-823d-47fd-856f-7f84248d8869,independenceday.network,available,7.99,,high,low,16,name.com,,,
 6c7f5ad0-6c16-42d8-83f0-2b3fd232a5ce,lowkeyed.network,available,7.99,,medium,low,9,name.com,,,
-f8d5968e-5e39-4496-9b23-00745296a35c,aboveall.network,available,6.48,46.98,low,low,9,namecheap,,,13/09/2026 16:35
+f8d5968e-5e39-4496-9b23-00745296a35c,aboveall.network,available,6.48,46.98,medium,low,9,namecheap,,,13/09/2026 16:35
 3a45ad8f-0e63-40f2-af18-87dbb0c2c0fc,songlike.network,available,6.48,46.98,low,low,8,namecheap,,,06/08/2026 19:24
 12388e79-fccc-411d-8ef4-b1317b30858c,sixtieth.network,available,6.48,46.98,low,low,8,namecheap,,,
 92f60aa5-8d5a-4da8-9f6e-43e4a80817d8,biteme.network,available,7.99,,medium,low,7,name.com,,,
@@ -516,14 +517,14 @@ a4c6d67b-e5b8-4e17-a1c1-c08e522759c0,barky.network,available,6.48,46.98,low,low,
 39c65bd6-bccc-4087-b75d-f9862fbff9be,tieup.network,available,7.99,34.99,low,low,6,namesilo,,,17/09/2026 14:23
 e81c031b-cf4d-4536-b2f8-999de33bd1f7,stove.network,available,6.48,46.98,low,low,5,namecheap,,,19/09/2026 18:48
 3166a3d1-d481-413a-b4ef-9b9f8b49c12a,conclusive.network,premium,7.99,,medium,low,10,name.com,,,
-0d946f89-a0b8-487f-9fb1-c5c259e917f6,plotted.network,available,7.99,45.99,high,low,7,name.com,,,
+0d946f89-a0b8-487f-9fb1-c5c259e917f6,plotted.network,available,7.99,34.99,low,low,7,namesilo,,,21/09/2026 22:10
 c15d2d46-a841-4e16-b8ae-209b4c69185c,face.network,resell,,,high,low,4,Dynadot Inc,25/02/2019 08:16,25/02/2027 08:16,
 5b6faee0-f0b7-4e3e-9e53-541fe7958570,mainman.network,available,7.99,,high,low,8,name.com,,,
 7ee95211-bafb-4c7d-99f1-bf6b9fb820ea,fasttravel.network,available,7.99,,high,low,11,name.com,,,
 b6bebcf7-c756-4c71-8884-dc04b123c043,senescent.network,available,6.48,46.98,low,low,9,namecheap,,,
 89073069-4738-4583-ab1a-470404a49bbd,antipodean.network,available,6.48,46.98,low,low,10,namecheap,,,
 6b8e2d24-424d-4040-a1ce-c3217193d40f,inaway.network,available,7.99,,medium,low,8,name.com,,,
-be1e0279-a036-43a4-bb74-5950a66fc6ae,exemplary.network,available,7.99,45.99,high,low,9,name.com,,,
+be1e0279-a036-43a4-bb74-5950a66fc6ae,exemplary.network,available,6.48,46.98,medium,low,9,namecheap,,,21/09/2026 18:58
 1bbe2ec6-3e26-4cff-b716-39646b7d71fa,stcharles.network,available,7.99,,medium,low,11,name.com,,,
 5242ff33-44ae-478d-be2e-d3b3ccfbb1a2,infrontof.network,available,7.99,,medium,low,11,name.com,,,
 c3b87eb6-c7d3-43a9-86cb-7ad657b3484d,oilterminal.network,available,7.99,,medium,low,12,name.com,,,
@@ -534,7 +535,7 @@ bb395e2c-10e9-4b2a-baca-075e0c7bc083,lxxxvii.network,available,6.48,46.98,low,lo
 cf609c9b-7552-4da1-9dcf-f29efc31a38f,perfected.network,available,7.99,,high,low,9,name.com,,,
 af64a1fe-2b70-45f4-9a2d-e9a0e481e457,moveinto.network,available,7.99,45.99,low,low,9,name.com,,,16/09/2026 16:00
 613cc2d7-bd39-4308-b679-96446477b624,asinine.network,available,6.48,46.98,low,low,7,namecheap,,,07/08/2026 02:35
-2cc535e7-65bc-4c22-a704-dc68bb7ab62f,colored.network,available,7.99,,high,low,7,name.com,,,
+2cc535e7-65bc-4c22-a704-dc68bb7ab62f,colored.network,available,6.48,46.98,low,low,7,namecheap,,,22/09/2026 20:23
 ec3a620a-19a4-4438-b505-9e390a2b8de1,acoustic.network,available,6.48,46.98,low,low,8,namecheap,,,
 3e38f3d7-9a8f-40a3-949a-ec1f8bb0c8cb,soulmusic.network,available,7.99,,medium,low,10,name.com,,,
 ba8a567b-4cd6-49f4-aafb-c5205ab6e7c7,barter.network,resell,,,medium,low,6,Dynadot Inc,12/02/2023 17:41,12/02/2027 17:41,
@@ -547,7 +548,7 @@ ebeb7179-f094-4df8-b530-39b382469853,oldage.network,available,7.99,,low,low,7,na
 672a0c45-6d26-41ce-8111-5fa669473d93,bareback.network,available,6.48,46.98,low,low,8,namecheap,,,08/08/2026 18:38
 9c9ffead-66d8-4785-be43-0883520bc8e3,coldrubber.network,available,7.99,,medium,low,11,name.com,,,
 8baa8091-9fff-4789-9ea4-fb7c6b9d0429,pledged.network,available,7.99,,medium,low,7,name.com,,,
-20de4e90-5cc6-46e4-ae80-820876410223,attended.network,available,7.99,,medium,low,8,name.com,,,
+20de4e90-5cc6-46e4-ae80-820876410223,attended.network,available,7.99,34.99,low,low,8,namesilo,,,22/09/2026 11:17
 3ef0fd80-bf59-4043-b947-322789228841,supersize.network,available,7.99,,high,low,9,name.com,,,
 a3881472-62f8-468d-8b5c-d9f773fa56f5,diversity.network,resell,,,high,low,9,Porkbun LLC,07/04/2024 19:14,07/04/2027 19:14,
 21f7a183-d6ab-4188-bfe8-aeba88a32a11,teammate.network,available,7.99,,high,low,8,name.com,,,
@@ -561,20 +562,20 @@ c2097f51-25bd-4e1b-a0f3-c3a8bbe2ae6f,baconexplosion.network,available,7.99,,high
 7f0f7871-bfe4-4b8b-ae18-a49df6413cda,inthreedays.network,available,7.99,,medium,low,13,name.com,,,
 efb8e40f-f164-4fa1-9a00-77af971016de,abulic.network,available,6.48,46.98,low,low,6,namecheap,,,
 5e2806d0-f973-499c-9b96-55662923ce56,speedofsound.network,available,7.99,,low,low,14,name.com,,,
-0230c0fb-6e01-4139-9b20-118940f9c98b,battered.network,available,7.99,,medium,low,8,name.com,,,
+0230c0fb-6e01-4139-9b20-118940f9c98b,battered.network,available,6.48,46.98,low,low,8,namecheap,,,22/09/2026 18:12
 68bed784-7dc7-466b-b0bf-1a1dc3b72ef9,dislike.network,available,7.99,,high,low,7,name.com,,,
 2bf0b51f-c31d-4df1-8cd0-3ba30a9a4168,ifthat.network,available,7.99,,medium,low,7,name.com,,,
 d5af47cf-9e2c-4939-9e56-553359b6863a,neverending.network,available,7.99,,low,low,12,name.com,,,
 6785b3fd-e36a-4cfb-ae1a-32c42d7dedfe,oneself.network,available,7.99,,high,low,7,name.com,,,
 17985280-bc75-422f-926b-9414018ab23f,quiz.network,resell,,,high,low,4,"Sav.com, LLC",05/12/2024 18:32,05/12/2026 18:32,
-5707602c-6f66-457b-88d2-931464d002a0,accommodate.network,available,7.99,,high,low,11,name.com,,,
+5707602c-6f66-457b-88d2-931464d002a0,accommodate.network,available,7.99,,medium,low,11,name.com,,,
 0c5203b3-bdeb-4bfd-9b97-04f67ded6baa,underestimate.network,available,7.99,,high,low,13,name.com,,,
 2f188d2e-caf0-4986-bd17-9ac04b669ce6,giveafig.network,available,7.99,,medium,low,10,name.com,,,
 dd46a621-ce37-4d8a-9e20-e4dd03dfcc72,amylaceous.network,available,6.48,46.98,low,low,10,namecheap,,,
 217da953-7f2e-455e-acbe-0df7cfcc3085,pointofview.network,available,7.99,,low,low,13,name.com,,,
 8c05bcbc-4a2e-4892-89d9-d4147573ac88,dateofbirth.network,available,7.99,,high,low,13,name.com,,,
 16bf824e-9205-4e36-9d90-1d2a0d0c2cbe,cunning.network,available,7.99,45.99,medium,low,7,name.com,,,
-e4deb1d4-f1b9-4e89-b120-9b0f325a41e2,animating.network,available,7.99,,high,low,9,name.com,,,
+e4deb1d4-f1b9-4e89-b120-9b0f325a41e2,animating.network,available,7.99,34.99,medium,low,9,namesilo,,,22/09/2026 05:08
 e767f332-6664-422a-a303-322a4c5c7834,beakless.network,available,6.48,46.98,low,low,8,namecheap,,,09/08/2026 03:55
 d451b680-9082-450c-8caf-3f4e67465ce3,medicalreport.network,available,7.99,,medium,low,14,name.com,,,
 34cc7237-f858-4163-9cb7-4188d927b210,grouping.network,available,7.99,,high,low,8,name.com,,,
@@ -603,9 +604,9 @@ f9a40f49-fc51-4287-bbaf-17ae37524cce,actually.network,available,7.99,,high,low,8
 8f8d4e53-7b14-4cfa-9a5c-60f15074c7bc,offcolor.network,available,6.48,46.98,low,low,9,namecheap,,,09/08/2026 02:10
 6f87d37d-a043-4fd5-907d-d765a9052b3a,hivvirus.network,available,7.99,,medium,low,9,name.com,,,
 6cc2ab06-8773-4128-b67e-c7bcc50a7d97,terrific.network,available,7.99,,high,low,8,name.com,,,
-b0666d79-91a9-4b93-ad08-57cf0c37d6ae,import.network,resell,,,high,low,6,Squarespace Domains II LLC,03/08/2022 09:14,03/08/2026 09:14,
+b0666d79-91a9-4b93-ad08-57cf0c37d6ae,import.network,resell,,,high,low,6,Squarespace Domains II LLC,03/08/2022 09:14,03/08/2027 09:14,20/09/2026 10:56
 c0fff5aa-24f3-4825-99e0-be234c411360,balsamy.network,available,6.48,46.98,low,low,7,namecheap,,,08/08/2026 10:36
-446feb16-25fa-4a5a-8d96-dcc33af69fbe,bloom.network,resell,,,high,medium,5,Porkbun LLC,25/07/2017 18:45,25/07/2027 18:45,19/09/2026 23:30
+446feb16-25fa-4a5a-8d96-dcc33af69fbe,bloom.network,resell,,,low,low,5,Porkbun LLC,25/07/2017 18:45,25/07/2027 18:45,22/09/2026 22:34
 103243c5-26a0-4867-bdd8-3ab4a6a92fec,groundless.network,available,6.48,46.98,low,low,10,namecheap,,,08/08/2026 21:49
 ffd632ca-076d-4a57-8c7b-0de026eb502b,sheeit.network,available,7.99,,medium,low,6,name.com,,,
 000dd1e8-edd4-490a-87f2-564cce015786,swift.network,resell,,,medium,high,5,"NameSilo, LLC",20/12/2014 01:04,20/12/2026 01:04,
@@ -615,12 +616,13 @@ ad4104f7-8710-4369-8230-a076e4eafe8a,pirate.network,resell,,,medium,low,6,Porkbu
 30581b4e-525c-4144-8f2b-7fb77462b423,shopworn.network,available,6.48,46.98,low,low,8,namecheap,,,08/08/2026 11:06
 c7e61a52-8ec9-40e4-b9c1-384f41b6fe7d,hardly.network,available,7.99,,high,low,6,name.com,,,
 c8d7910a-d491-405d-b2ca-1773dc784780,bunch.network,available,7.99,,medium,low,5,name.com,,,
+d46ceb52-2dcb-4053-8796-c8b13c7a6ac4,first.network,resell,,,medium,low,5,"Spaceship, Inc.",30/04/2018 21:07,30/04/2027 21:07,21/09/2026 12:11
 b0d0e86e-2474-4c0d-b4c4-eb9cbd8af698,vocal.network,resell,,,high,low,5,"Sav.com, LLC - 38",21/10/2025 15:15,21/10/2026 15:15,
 9e48051d-3999-418a-8b7a-8f971c5fb9c8,oilpainting.network,available,7.99,,medium,low,12,name.com,,,
-2e9c06a1-9fd0-48f3-915b-c0579b9e9cfc,closeto.network,available,7.99,45.99,medium,low,8,name.com,,,
+2e9c06a1-9fd0-48f3-915b-c0579b9e9cfc,closeto.network,available,7.99,34.99,low,low,8,namesilo,,,21/09/2026 14:09
 7f516ac4-8470-4d7c-ada9-cec32c27aca3,ablative.network,available,6.48,46.98,low,low,8,namecheap,,,
 6144c355-c45d-442d-825a-7837fe637332,appalled.network,available,6.48,46.98,low,low,8,namecheap,,,
-4291e912-7c58-41da-934c-8a66541e8d6d,dressed.network,available,7.99,,high,low,7,name.com,,,
+4291e912-7c58-41da-934c-8a66541e8d6d,dressed.network,available,7.99,34.99,low,low,7,namesilo,,,22/09/2026 07:16
 f0a2d3e9-57cc-4643-bcff-a1b33065af58,ally.network,available,,,medium,low,4,,,,
 d2dddd3c-8fd8-4836-b5a3-627a346095d4,ataxic.network,available,6.48,46.98,low,low,6,namecheap,,,07/08/2026 12:32
 1acd8cf5-92c3-4ce4-9d61-8be01aa632c3,whacky.network,available,6.48,46.98,low,low,6,namecheap,,,06/08/2026 21:32
@@ -655,7 +657,7 @@ fea218e9-dac6-4284-b114-838a1926e28e,certainly.network,available,7.99,,medium,lo
 3b6c54b8-dc1a-4b74-ad30-86b81a4221d0,production.network,resell,,,medium,low,10,Dynadot Inc,20/01/2026 17:00,20/01/2027 17:00,19/09/2026 18:56
 ab8f3650-701c-4655-8828-7e6b2e651eaa,talkingpoint.network,available,7.99,,medium,low,13,name.com,,,
 900a80d5-ffbf-4170-96e8-563ffe12b125,entirely.network,available,6.48,46.98,low,low,8,namecheap,,,
-1271e4a4-7752-42e4-bd9e-e7cc51911868,asthmatic.network,available,7.99,,medium,low,9,name.com,,,
+1271e4a4-7752-42e4-bd9e-e7cc51911868,asthmatic.network,available,7.99,34.99,low,low,9,namesilo,,,22/09/2026 10:23
 df0a7d1c-1b5f-4b18-9dad-b79b817397e1,portofcall.network,available,7.99,,low,low,12,name.com,,,
 46a6ef85-1ed8-4454-a8e7-bad5b0accbc5,squinty.network,available,6.48,46.98,low,low,7,namecheap,,,07/08/2026 03:20
 a916e4f2-8ee6-4cf6-a5af-a1987c0e27e5,aground.network,available,6.48,46.98,low,low,7,namecheap,,,
@@ -666,7 +668,7 @@ d1a7b3cf-c990-47b3-b30c-e72313ea8f46,fiftysix.network,available,6.48,46.98,low,l
 fc335421-e326-4945-b436-10118ab53958,goup.network,available,6.48,46.98,medium,low,5,namecheap,,,03/09/2026 14:22
 8cec62c9-dbd6-4b89-90cc-8920559cfed6,notatall.network,available,7.99,,high,low,10,name.com,,,
 4a73a3ed-6e48-4e94-9666-6b79448dc04f,facetious.network,available,6.48,46.98,low,low,9,namecheap,,,08/08/2026 14:39
-e9c51366-d397-48a5-b687-76d9f65bd146,astonished.network,available,7.99,,medium,low,10,name.com,,,
+e9c51366-d397-48a5-b687-76d9f65bd146,astonished.network,available,6.48,46.98,low,low,10,namecheap,,,22/09/2026 03:35
 59913c62-1083-486f-9f4a-febb9d9b613d,advertised.network,available,6.48,46.98,low,low,10,namecheap,,,
 72722497-a6c9-4c4d-b8ab-e7234b4ed9ed,antiviral.network,available,6.48,46.98,low,low,9,namecheap,,,05/08/2026 20:06
 f4db1dd7-b9f9-4ccb-bd0f-a1826a07b6ff,apologise.network,available,7.99,,high,low,9,name.com,,,
@@ -681,7 +683,7 @@ a56384fb-dbb8-4afd-a0ca-4cca60f681c4,recipient.network,available,7.99,,high,low,
 2d93b438-2344-4da9-9001-36180ff253de,extensive.network,available,6.48,46.98,low,low,9,namecheap,,,
 dfeefb78-af46-450f-958d-a17d694620c5,judgment.network,available,7.99,,medium,low,8,name.com,,,
 eb174910-6c72-489c-948c-adfe4e6d3bb7,stealaway.network,available,7.99,,low,low,10,name.com,,,
-b222fad9-150e-4701-ae9d-1cbfe2fdb0be,allout.network,available,7.99,45.99,high,low,7,name.com,,,
+b222fad9-150e-4701-ae9d-1cbfe2fdb0be,allout.network,available,6.48,46.98,medium,low,7,namecheap,,,22/09/2026 00:48
 2de08d97-6151-42c0-ae24-9337a2684bb0,spidery.network,available,6.48,46.98,low,low,7,namecheap,,,06/08/2026 11:46
 86e7fb95-69c1-4de9-9337-e57e09705611,discard.network,available,7.99,,high,low,7,name.com,,,
 bd048388-fbae-452f-a098-844d352f3955,worthit.network,available,7.99,,medium,low,8,name.com,,,
@@ -694,7 +696,7 @@ bf10410b-345c-4cbd-b0b3-297a6c1e9ac9,feet.network,resell,,,high,low,4,"Sav.com, 
 aba9af2f-a91a-4f07-bb8d-bd56e42c96cd,chemicalweapon.network,available,7.99,,medium,low,15,name.com,,,
 214f06e7-ee5a-4375-9071-783ea482c9b0,spotify.network,available,,,high,low,7,,,,
 76ae350b-e509-4a85-87af-e3dd86f92927,carefully.network,available,7.99,,medium,low,9,name.com,,,
-ff2fff20-9c2e-4265-9a0e-04fd6f2a5b7e,bounce.network,resell,,,high,low,6,"NameCheap, Inc.",29/07/2015 22:20,29/07/2027 22:20,20/09/2026 04:07
+ff2fff20-9c2e-4265-9a0e-04fd6f2a5b7e,bounce.network,resell,,,medium,low,6,"NameCheap, Inc.",29/07/2015 22:20,29/07/2027 22:20,23/09/2026 01:22
 ca20a743-bc41-46d6-b0a3-ba5f6d076956,lastminute.network,resell,,,medium,low,11,"Sav.com, LLC",16/06/2025 18:17,16/06/2026 18:17,
 3a384f0e-2896-46a0-8f4b-9696d6cc5125,notion.network,resell,,,high,low,6,Dynadot Inc,17/06/2023 19:39,17/06/2026 19:39,
 4da443ed-2347-454a-b1d2-8388654e9544,giveortake.network,available,7.99,,medium,low,12,name.com,,,
@@ -704,14 +706,15 @@ cc5bcb02-02da-4eb7-a76d-d1603786244b,asaconsequenceof.network,available,7.99,,me
 3281ef47-a5bd-46d5-950e-946656a95cff,moderator.network,available,7.99,,high,low,9,name.com,,,
 45efae33-9c52-4194-b722-10d1c1fcead5,economically.network,available,7.99,,medium,low,12,name.com,,,
 06d46ce9-5679-4d54-b047-f533a20dc804,rollabout.network,available,7.99,,low,low,10,name.com,,,
+265f8e5b-9f43-488a-8b3d-c27851a29d23,second.network,resell,,,medium,low,6,"Spaceship, Inc.",22/05/2023 17:03,22/05/2027 17:03,21/09/2026 12:59
 79c59a98-f99a-4b2e-8d70-e74792202ad3,dot.network,resell,,,medium,low,3,Dynadot Inc,24/02/2018 13:20,24/02/2027 13:20,19/09/2026 16:13
 8882376c-49ac-4221-b0eb-43128bc6c57f,westbay.network,available,7.99,,low,low,8,name.com,,,
 51cf9ff9-d92e-4863-ab9d-46439ad1c86d,uremic.network,available,6.48,46.98,low,low,6,namecheap,,,08/08/2026 02:43
 01f64f3c-5b37-4dc7-a1d7-089c1097902d,inthethickofit.network,available,7.99,,medium,low,18,name.com,,,
-7059a68f-d184-4a47-9997-ce71168a489c,blinking.network,available,7.99,,high,low,8,name.com,,,
+7059a68f-d184-4a47-9997-ce71168a489c,blinking.network,available,7.99,34.99,medium,low,8,namesilo,,,22/09/2026 21:58
 7e86d7e6-8ad9-473c-8ab7-367fd7b31c88,flak.network,available,6.48,46.98,low,low,4,namecheap,,,
 c0655645-057e-4b13-8102-a6ad47e34b5a,xxvii.network,available,6.48,46.98,low,low,5,namecheap,,,
-f2673954-4d7f-4d88-a683-ae9a69352220,great.network,resell,,,high,low,5,"Global Domains International, Inc. DBA DomainCostClub.com",22/03/2026 15:15,22/03/2027 15:15,
+f2673954-4d7f-4d88-a683-ae9a69352220,great.network,resell,,,medium,low,5,"Global Domains International, Inc. DBA DomainCostClub.com",22/03/2026 15:15,22/03/2027 15:15,22/09/2026 16:53
 d00fb22c-321c-4213-a1d1-e19ee6f3e742,resort.network,resell,,,high,low,6,"Spaceship, Inc.",07/09/2022 15:13,07/09/2026 15:13,
 f6dd0b16-971d-4e74-a428-047d21f76935,vocalcords.network,available,7.99,,medium,low,11,name.com,,,
 4c890e08-1b20-4d8d-aff2-8654f709ba0e,diploma.network,available,7.99,,high,low,7,name.com,,,
@@ -729,10 +732,10 @@ f6443b2d-5d1a-44a2-8e74-23dfd7f1b937,giveitup.network,available,7.99,,high,low,1
 66b94d21-351b-4fb8-b880-9917365d0c15,alltheway.network,available,7.99,,medium,low,11,name.com,,,
 51242080-ba6e-4288-8c69-b28134ff1a11,soppy.network,available,6.48,46.98,low,low,5,namecheap,,,09/08/2026 01:14
 3c18b30d-cea4-4e4a-a0c3-8dc848f2742f,letterart.network,available,7.99,,high,low,10,name.com,,,
-d7e41305-45d4-4c73-aff3-2326adfabf30,contraband.network,available,7.99,,high,low,10,name.com,,,
+d7e41305-45d4-4c73-aff3-2326adfabf30,contraband.network,available,6.48,46.98,low,low,10,namecheap,,,22/09/2026 21:25
 5cc859c2-09f4-4b61-8c69-06d7691dd573,iamwhatiam.network,available,7.99,,medium,low,14,name.com,,,
 89500e23-7cd8-4f15-91f6-45f26c240c5e,allthetime.network,available,7.99,,medium,low,12,name.com,,,
-40c2de75-4294-4b7c-8f90-e0aa1511904f,loose.network,available,7.99,,medium,low,5,name.com,,,
+40c2de75-4294-4b7c-8f90-e0aa1511904f,loose.network,available,7.99,34.99,low,low,5,namesilo,,,22/09/2026 10:42
 bd9b66f1-1235-4973-a57e-19f07b9d50f4,comeinto.network,available,7.99,,high,low,9,name.com,,,
 a7395509-2cfe-4c7a-98c5-606cd1136877,technique.network,resell,,,high,low,9,"Sav.com, LLC",26/11/2025 21:40,26/11/2026 21:40,
 39076f2b-243e-4193-a62a-bf239a46e79e,planless.network,available,6.48,46.98,low,low,8,namecheap,,,
@@ -743,6 +746,7 @@ cf286924-cca3-4399-bd64-409f85a67b94,antitank.network,available,6.48,46.98,low,l
 474a8f8a-813a-4c4c-aedf-a514c4bfd64f,twentyfour.network,available,7.99,,low,low,11,name.com,,,
 6ee7c4fd-dfce-48a9-875a-b5d089c9635c,xlvii.network,available,6.48,46.98,low,low,5,namecheap,,,
 2d060d97-90bf-423a-9e28-c67c647cca5d,reproving.network,available,6.48,46.98,low,low,9,namecheap,,,
+8aa82193-6fbe-495b-8d84-6beaa09fb5c8,option.network,resell,,,medium,low,6,UM DOMAINS PTE. LTD,26/04/2026 15:15,26/04/2027 15:15,22/09/2026 02:42
 c2dba1eb-3915-4071-990f-f34df453f1ea,rearwards.network,available,6.48,46.98,low,low,9,namecheap,,,08/08/2026 06:56
 15e10c67-ec23-40e9-b261-937f956d57cd,afterwards.network,available,6.48,46.98,low,low,10,namecheap,,,
 20d088db-fc48-48bf-bbe8-219213625041,debase.network,available,6.48,46.98,low,low,6,namecheap,,,
@@ -752,9 +756,8 @@ bbfffae2-5d63-4542-bbef-744f5c5fcb58,leia.network,available,7.99,,high,low,4,nam
 51ccbc1d-d5fe-48de-b376-17a7d487851b,nothankyou.network,available,7.99,,medium,low,12,name.com,,,
 80b66b5c-18f5-4720-bcff-ba88899cc47f,acrid.network,available,6.48,46.98,low,low,5,namecheap,,,
 4801ae2b-a3a1-43d8-b92d-43f41ac73081,nature.network,resell,,,medium,low,6,"Spaceship, Inc.",06/07/2023 15:15,06/07/2027 15:15,08/09/2026 02:43
-a296b619-57c7-428b-978a-5a5bb3116aab,relation.network,resell,,,high,low,8,Porkbun LLC,10/08/2024 17:36,10/08/2026 17:36,
+a296b619-57c7-428b-978a-5a5bb3116aab,relation.network,resell,,,high,low,8,Dynadot Inc,10/08/2024 17:36,10/08/2027 17:36,20/09/2026 17:25
 e88cce3a-47f6-4454-ac61-91deee857161,sise.network,available,6.48,46.98,low,low,4,namecheap,,,
-eb5638e3-a160-4967-bab5-b1674c9b3510,can.network,available,,,medium,high,3,,,,
 f46c2c79-b5cb-47c4-9d16-4e1bbc55250d,equally.network,available,7.99,,high,low,7,name.com,,,
 8cdeab4a-e1d4-4f52-8b1e-14cb02e34ba8,democrat.network,premium,140,280,high,low,8,namecheap,,,
 e6f99ba0-9636-40c6-9d7f-178fc7b688db,eater.network,available,6.48,46.98,low,low,5,namecheap,,,19/09/2026 09:42
@@ -796,20 +799,19 @@ e44ac455-d526-4506-a5e7-9ae0a3ab4118,baseball.network,resell,,,high,low,8,"GoDad
 d8f13861-d4d1-425d-a861-aa5d952a3863,wise.network,resell,,,high,high,4,"Sav.com, LLC",11/07/2017 08:04,11/07/2027 08:04,18/09/2026 03:02
 8f36078c-b778-41b5-80ec-9acef5c3f043,idiom.network,available,7.99,,high,low,5,name.com,,,
 5adb325f-26dc-4b65-b831-1c5658e637b1,passcode.network,available,7.99,,high,low,8,name.com,,,
-50250c66-d5d2-4815-8be2-5c34f20c8339,doable.network,available,7.99,45.99,high,low,6,name.com,,,
+50250c66-d5d2-4815-8be2-5c34f20c8339,doable.network,available,6.48,46.98,medium,low,6,namecheap,,,21/09/2026 15:46
 1578ae2f-c8ec-4848-afa3-980dd63912a6,theft.network,available,6.48,46.98,low,low,5,namecheap,,,08/09/2026 07:55
 2753625e-dc90-43bd-a954-76e75589689f,lookto.network,available,7.99,,high,low,7,name.com,,,
 414c674a-868f-4026-96dc-b77e85e1cbe8,departure.network,available,6.48,46.98,medium,low,9,namecheap,,,08/09/2026 12:08
 6e302817-bb09-450a-a0c9-39806c45073e,idiot.network,resell,,,low,low,5,"Sav.com, LLC - 32",04/04/2026 15:15,04/04/2027 15:15,19/09/2026 09:51
 abb72f70-bf54-47d9-afe1-a7dac028d940,parliamentary.network,available,7.99,,medium,low,13,name.com,,,
 0384afaa-a5c2-4461-8690-c9d7296a5d50,undeveloped.network,available,7.99,,low,low,11,name.com,,,
-e88d7c59-5984-4a07-93ca-e99a69f8ec46,count.network,resell,,,high,low,5,"Sav.com, LLC",27/09/2025 22:05,27/09/2026 22:05,
 05d04031-5054-471b-874c-d8890fb91d62,skill.network,resell,,,high,medium,5,"GoDaddy.com, LLC",11/04/2017 19:34,11/04/2027 19:34,
 185a2619-cd0f-4982-90e5-7d4a7986f5e1,ended.network,available,6.48,46.98,low,low,5,namecheap,,,
 53eec3c3-d6f9-4e59-a99a-4caeb69283b0,phonesurvey.network,available,7.99,,medium,low,12,name.com,,,
 4084b54c-1a24-4527-b0d0-b3b928eadb75,apheretic.network,available,6.48,46.98,low,low,9,namecheap,,,05/08/2026 22:50
 9f4679db-27a2-4bc1-aae1-e7e023ca2d60,admiration.network,available,7.99,,high,low,10,name.com,,,
-ca524a95-3e42-484f-b780-e43966e67684,aujus.network,available,7.99,,medium,low,6,name.com,,,
+ca524a95-3e42-484f-b780-e43966e67684,aujus.network,available,7.99,34.99,low,low,6,namesilo,,,22/09/2026 11:49
 f2dab0d5-412c-47a1-aa26-ac130da9c4a4,firstrate.network,available,6.48,46.98,low,low,10,namecheap,,,
 7782feeb-0dc8-43d4-8d5d-786eb25bbe49,soup.network,resell,,,high,low,4,"Global Domains International, Inc. DBA DomainCostClub.com",07/04/2017 18:31,07/04/2027 18:31,
 20eef0a2-5a42-4cf2-abc0-feedef91ea90,namedafter.network,available,7.99,,low,low,11,name.com,,,
@@ -833,7 +835,7 @@ f020e7ff-84b8-4c97-a71e-f98826159df0,purchase.network,available,7.99,,medium,low
 e2d9f36b-daca-4bff-ad89-6225f0117194,transferableskill.network,available,7.99,,high,low,18,name.com,,,
 2188d889-3b7b-42fe-b465-1ddf0a017b9b,batholitic.network,available,6.48,46.98,low,low,10,namecheap,,,09/08/2026 01:30
 cf33acfb-42d1-45e6-adfe-efd737edec84,discdrive.network,available,7.99,,high,low,10,name.com,,,
-641f0e4c-2848-48ba-8af1-ab5162b9921c,rep.network,resell,,,medium,low,3,Dynadot Inc,24/08/2021 07:55,24/08/2026 07:55,
+641f0e4c-2848-48ba-8af1-ab5162b9921c,rep.network,resell,,,medium,low,3,Dynadot Inc,24/08/2021 07:55,24/08/2027 07:55,22/09/2026 10:13
 0ca4af48-768d-46cd-bd86-39d6d523eb30,thatone.network,available,7.99,,low,low,8,name.com,,,
 146f6a9b-46ce-490c-81e1-a0e4e561823a,justnow.network,available,7.99,,medium,low,8,name.com,,,
 36cf3374-712d-4826-9b21-c8e4b71bf288,sue.network,premium,14,28,high,low,3,namecheap,,,
@@ -846,14 +848,14 @@ f32707b2-127f-4a4a-b8c0-6ffeb95adc68,anodal.network,available,6.48,46.98,low,low
 a023a795-898d-422a-8ae6-74b7049029db,tug.network,premium,14,28,high,low,3,namecheap,,,
 5baa3e47-2102-4fe5-b17d-94c94bed55fb,daytime.network,available,7.99,,high,low,7,name.com,,,
 c88d4289-50c6-4f61-8bab-9e3d031178ee,turnahair.network,available,7.99,,low,low,11,name.com,,,
-7fd739dd-5363-4ff1-a7a6-a39e571da0dc,beat.network,resell,,,high,low,4,Dynadot Inc,05/07/2019 07:35,05/07/2027 07:35,17/09/2026 16:28
+7fd739dd-5363-4ff1-a7a6-a39e571da0dc,beat.network,resell,,,medium,low,4,Dynadot Inc,05/07/2019 07:35,05/07/2027 07:35,22/09/2026 18:37
 c033c2ad-cdcf-45bd-883c-51e7e5e08a10,offhanded.network,available,6.48,46.98,low,low,9,namecheap,,,
 6087af7a-19dc-4050-951a-0fd77f92ab2e,comforted.network,available,7.99,,high,low,9,name.com,,,
 ff3410cb-d644-47c3-934d-1e7a7de5b252,yoursever.network,available,7.99,,low,low,10,name.com,,,
-c24094fc-6cef-4a35-89c5-fa718d8e5f33,explorer.network,resell,,,high,low,8,"Sav.com, LLC - 30",08/08/2025 15:15,08/08/2026 15:15,
-5d56b948-5b2f-4751-9954-a3004d47a68e,education.network,resell,,,medium,low,9,"Wild West Domains, LLC",10/12/2014 16:00,10/12/2026 16:00,19/09/2026 06:14
+c24094fc-6cef-4a35-89c5-fa718d8e5f33,explorer.network,resell,,,high,low,8,"Spaceship, Inc.",08/08/2025 15:15,08/08/2027 15:15,20/09/2026 15:21
+5d56b948-5b2f-4751-9954-a3004d47a68e,education.network,resell,,,medium,low,9,"Wild West Domains, LLC",10/12/2014 16:00,10/12/2026 16:00,23/09/2026 04:28
 1c106b77-5f7e-4cae-af42-8f02c11dc796,investmentbanking.network,available,7.99,,high,low,18,name.com,,,
-53772d6b-22c4-4a19-8a8b-b30e6ffa0c53,fullscale.network,available,7.99,45.99,high,low,10,name.com,,,
+53772d6b-22c4-4a19-8a8b-b30e6ffa0c53,fullscale.network,available,7.99,34.99,medium,low,10,namesilo,,,22/09/2026 00:50
 38c2d719-db59-4adb-8dab-c05bd0f3458d,sharply.network,available,7.99,,medium,low,7,name.com,,,
 e136ff1f-0798-4f42-a722-7fd82832aaf5,definitely.network,resell,,,medium,low,10,"Sav.com, LLC",15/06/2025 15:16,15/06/2026 15:16,
 fd438556-3149-4b98-a736-40c275098f81,welltimed.network,available,6.48,46.98,low,low,10,namecheap,,,06/08/2026 10:13
@@ -918,7 +920,7 @@ e990c50e-2e95-4916-9e4c-61faf91a2d5a,sore.network,available,6.48,46.98,low,low,4
 3fdce5f2-695b-4a76-88e0-fc672011a8dd,holdoff.network,available,7.99,,medium,low,8,name.com,,,
 804a0d0c-36d4-441f-a97e-b3648b278176,lambent.network,available,6.48,46.98,low,low,7,namecheap,,,
 724772d4-4f4e-452b-999b-170b9aaa00bc,greet.network,premium,14,28,high,low,5,namecheap,,,
-652621ce-a36c-4604-ae74-2acb2c28f9ca,teasing.network,available,7.99,,high,low,7,name.com,,,
+652621ce-a36c-4604-ae74-2acb2c28f9ca,teasing.network,available,7.99,34.99,low,low,7,namesilo,,,22/09/2026 05:24
 14373aac-9927-4d7d-968a-d28174426de5,opposite.network,available,7.99,45.99,high,low,8,name.com,,,
 4e3bfa45-09c4-419f-99e1-8a7d4348be36,treat.network,resell,,,high,low,5,Porkbun LLC,11/06/2024 01:05,11/06/2026 01:05,
 1aa7be77-00d8-4738-8bff-bde92d1fcd7d,afrikander.network,available,6.48,46.98,low,low,10,namecheap,,,
@@ -950,7 +952,7 @@ c25178a9-ec1e-49ab-8f59-b60238df6132,finalsay.network,available,7.99,,high,low,9
 3fa2f0f4-3f55-4dde-b942-a0d1bc731978,aphasic.network,available,6.48,46.98,low,low,7,namecheap,,,05/08/2026 23:07
 42806a00-6b2c-4687-bbff-b9fe821e9443,oslo.network,premium,280,560,medium,low,4,namecheap,,,
 8fcf85cf-b901-4f8a-97c3-ee46f7a4af9e,westhills.network,available,7.99,,low,low,10,name.com,,,
-5abbea2d-e1d8-4035-9e7c-ec05d1f5f104,asian.network,resell,,,high,low,5,"Spaceship, Inc.",10/12/2014 16:13,10/12/2026 16:13,
+5abbea2d-e1d8-4035-9e7c-ec05d1f5f104,asian.network,resell,,,low,low,5,"Spaceship, Inc.",10/12/2014 16:13,10/12/2026 16:13,22/09/2026 09:40
 1fc80757-208a-4c09-9254-68c2d0f03019,race.network,resell,,,high,low,4,"GoDaddy.com, LLC",16/02/2015 09:37,16/02/2027 09:37,
 c26c9f7c-c211-40d0-beb2-cac35bd502a8,eightysix.network,available,6.48,46.98,low,low,10,namecheap,,,
 a79e606a-80e3-4c78-ad6f-7419f2cb3312,intimes.network,available,7.99,,medium,low,8,name.com,,,
@@ -965,7 +967,7 @@ eed895c0-ebad-4d01-9b5f-e958f1e724d5,resolute.network,resell,,,high,low,8,"Sav.c
 7de9f017-e9ad-4d35-bfb4-b515eb03adbc,significant.network,available,7.99,,high,low,11,name.com,,,
 b0371987-c925-4bec-86b4-cc9d45cd7183,inbrief.network,available,7.99,,medium,low,8,name.com,,,
 216f0353-9f0c-4d51-b75a-6976a4d4a160,affixed.network,available,6.48,46.98,low,low,7,namecheap,,,
-3afb68ab-0cd8-43aa-b4e7-776da253063e,auspicious.network,available,7.99,,high,low,10,name.com,,,
+3afb68ab-0cd8-43aa-b4e7-776da253063e,auspicious.network,available,6.48,46.98,medium,low,10,namecheap,,,22/09/2026 13:12
 d0e43780-2514-4a50-9fe3-ea386a7ec279,canada.network,available,,,high,low,6,,,,
 6223620f-6474-4dae-b0ce-4dfe7d6c837c,archean.network,available,6.48,46.98,low,low,7,namecheap,,,06/08/2026 15:05
 f41d5c27-a36a-46cf-9fe6-d34ff149d549,garlic.network,resell,,,high,low,6,Porkbun LLC,08/06/2024 19:11,08/06/2026 19:11,
@@ -977,7 +979,7 @@ f41d5c27-a36a-46cf-9fe6-d34ff149d549,garlic.network,resell,,,high,low,6,Porkbun 
 7d72f1dd-015f-4938-aad4-9625bea9d87c,uml.network,premium,14,28,high,low,3,namecheap,,,
 c9e1ef7c-72eb-4388-8b20-e8a3f36a9cc7,entitled.network,available,7.99,,medium,low,8,name.com,,,
 629a5b00-c903-43fd-be3d-baae86d2613a,callon.network,available,7.99,,high,low,7,name.com,,,
-17590bf7-a170-4720-8950-30b541641f15,whatsoever.network,available,7.99,,medium,low,10,name.com,,,
+17590bf7-a170-4720-8950-30b541641f15,whatsoever.network,available,7.99,34.99,low,low,10,namesilo,,,22/09/2026 06:59
 7d8d2118-73b6-4e15-be9f-cdae62eaddc5,anappleaday.network,available,7.99,,medium,low,14,name.com,,,
 a0382552-98cb-4c4b-bb4f-79b6f1a4b5b9,ashy.network,available,6.48,46.98,low,low,4,namecheap,,,07/08/2026 02:04
 60afce99-fdd7-4b0d-9856-d09e47773840,behaviouralscience.network,available,7.99,,high,low,19,name.com,,,
@@ -991,11 +993,9 @@ ef1c1b6c-ba1a-420a-995f-fd355a8b219e,fiftieth.network,available,6.48,46.98,low,l
 b7a64f3f-20c5-4e71-a849-a8fb1ce740b6,lettertotheeditor.network,available,7.99,,high,low,20,name.com,,,
 edc8c7a5-7148-4280-b36a-96624a98a10e,entirety.network,available,7.99,,high,low,8,name.com,,,
 b02ca6cf-7fe7-49ba-8be4-9ae9cadedc5f,sothat.network,available,7.99,,high,low,7,name.com,,,
-961d06c5-e517-46c8-9fee-5a22434da18d,nineteen.network,available,7.99,45.99,high,low,8,name.com,,,
+961d06c5-e517-46c8-9fee-5a22434da18d,nineteen.network,available,7.99,34.99,medium,low,8,namesilo,,,21/09/2026 12:05
 4c3cb024-0eae-4ecd-ab70-6ecda836c53f,kleenex.network,available,7.99,,high,low,7,name.com,,,
 c8a3888a-874a-4e30-bd6f-7a9ba1d05cdd,abysmal.network,available,6.48,46.98,low,low,7,namecheap,,,
-360df567-73c1-4b40-b2e4-0cd8f45cc1bf,allergic.network,available,7.99,45.99,high,low,8,name.com,,,
+360df567-73c1-4b40-b2e4-0cd8f45cc1bf,allergic.network,available,7.99,34.99,medium,low,8,namesilo,,,22/09/2026 01:25
 5942136a-aaa1-4c42-9c8a-24589f8676b9,adoptable.network,available,6.48,46.98,low,low,9,namecheap,,,
 058cfbd1-8b92-46de-9c2f-1c7abfe0e9fa,grandniece.network,available,7.99,,high,low,10,name.com,,,
-667a21fe-0f54-4326-a104-6dbc37b97ce0,metric.network,resell,,,high,low,6,"Spaceship, Inc.",25/10/2021 06:34,25/10/2026 06:34,
-72079089-8809-4099-b5d0-d9d872466042,hype.network,resell,,,high,medium,4,"Spaceship, Inc.",12/07/2015 21:44,12/07/2027 21:44,18/09/2026 07:03
