@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .network one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 27,092 domains · **Median ask:** $9.26 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-25
 **Canonical page:** `https://unique.domains/domains/tld/network`
 **Best for:** founders, investors, studios
 
@@ -64,25 +64,25 @@ print(df.head())
 
 | domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
 | ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| ashy.network | available | $6.48     | $46.98        | low            | low    | 4      | namecheap                                                 |
-| ape.network  | resell    | —         | —             | medium         | low    | 3      | Dynadot Inc                                               |
+| acts.network | available | $7.99     | —             | high           | low    | 4      | name.com                                                  |
+| add.network  | resell    | —         | —             | high           | low    | 3      | Porkbun LLC                                               |
 | are.network  | premium   | $140      | $280          | high           | low    | 3      | namecheap                                                 |
-| brag.network | available | $7.99     | $34.99        | medium         | low    | 4      | namesilo                                                  |
-| bay.network  | resell    | —         | —             | low            | low    | 3      | Dynadot Inc                                               |
+| ashy.network | available | $6.48     | $46.98        | high           | low    | 4      | namecheap                                                 |
+| and.network  | resell    | —         | —             | high           | medium | 3      | Dynadot Inc                                               |
 | ate.network  | premium   | $14       | $28           | high           | low    | 3      | namecheap                                                 |
-| clxv.network | available | $6.48     | $46.98        | low            | low    | 4      | namecheap                                                 |
-| box.network  | resell    | —         | —             | low            | low    | 3      | Spaceship, Inc.                                           |
-| boy.network  | premium   | $140      | $280          | medium         | low    | 3      | namecheap                                                 |
-| cxxv.network | available | $6.48     | $46.98        | low            | low    | 4      | namecheap                                                 |
-| bro.network  | resell    | —         | —             | medium         | low    | 3      | NameCheap, Inc.                                           |
-| cxx.network  | premium   | $13       | $26           | low            | low    | 3      | namecheap                                                 |
-| flak.network | available | $6.48     | $46.98        | low            | low    | 4      | namecheap                                                 |
-| cow.network  | resell    | —         | —             | high           | low    | 3      | Dynadot Inc                                               |
-| him.network  | premium   | $14       | $28           | high           | low    | 3      | namecheap                                                 |
-| gore.network | available | $7.99     | —             | medium         | low    | 4      | name.com                                                  |
-| dot.network  | resell    | —         | —             | medium         | low    | 3      | Dynadot Inc                                               |
-| ixl.network  | premium   | $13       | $26           | low            | low    | 3      | namecheap                                                 |
-| leia.network | available | $7.99     | —             | high           | low    | 4      | name.com                                                  |
+| aunt.network | available | $7.99     | —             | high           | low    | 4      | name.com                                                  |
+| ape.network  | resell    | —         | —             | high           | low    | 3      | Dynadot Inc                                               |
+| boy.network  | premium   | $140      | $280          | high           | low    | 3      | namecheap                                                 |
+| awed.network | available | $6.48     | $46.98        | high           | low    | 4      | namecheap                                                 |
+| bay.network  | resell    | —         | —             | high           | low    | 3      | Dynadot Inc                                               |
+| clx.network  | premium   | $13       | $26           | high           | low    | 3      | namecheap                                                 |
+| boob.network | available | $7.99     | —             | high           | low    | 4      | name.com                                                  |
+| bro.network  | resell    | —         | —             | high           | low    | 3      | NameCheap, Inc.                                           |
+| cot.network  | premium   | $14       | $28           | high           | low    | 3      | namecheap                                                 |
+| brie.network | available | $7.99     | —             | high           | low    | 4      | name.com                                                  |
+| for.network  | resell    | —         | —             | high           | medium | 3      | Turkticaret.net Yazılım Hizmetleri Sanayi ve Ticaret A.Ş. |
+| cxx.network  | premium   | $13       | $26           | high           | low    | 3      | namecheap                                                 |
+| buns.network | available | $6.48     | $46.98        | medium         | low    | 4      | namecheap                                                 |
 | hit.network  | resell    | —         | —             | high           | low    | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .NETWORK One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .NETWORK One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
